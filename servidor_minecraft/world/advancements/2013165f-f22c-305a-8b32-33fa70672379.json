@@ -5,5 +5,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:eroded_badlands": "2024-12-04 03:12:09 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-04 03:12:56 +0000",
+      "minecraft:warm_ocean": "2024-12-04 03:12:38 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
