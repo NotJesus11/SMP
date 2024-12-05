@@ -1,0 +1,101 @@
+armor:
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: LEATHER_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: COLORABLE_ARMOR
+      Damage: 1
+  offhand:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SHIELD
+charms: {}
+contents:
+  slot_0:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: WOODEN_SWORD
+  slot_1:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BREAD
+    amount: 8
+  slot_2:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: CRAFTING_TABLE
+  slot_3:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: ACACIA_SAPLING
+  slot_4:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: LEATHER
+    amount: 5
+  slot_5:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: DIRT
+    amount: 2
+  slot_6:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BEEF
+    amount: 4
+  slot_7:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: STONE_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 33
+  slot_8:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: WOODEN_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 18
+  slot_9:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: STICK
+    amount: 9
+  slot_10:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: PORKCHOP
+    amount: 9
+  slot_11:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: WHITE_WOOL
+    amount: 3
+  slot_12:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: MUTTON
+    amount: 5
+  slot_13:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BLACK_WOOL
+  slot_14:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: CHICKEN
+  slot_32:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: ACACIA_PLANKS
+    amount: 19
+  slot_34:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: COBBLESTONE
+    amount: 15
