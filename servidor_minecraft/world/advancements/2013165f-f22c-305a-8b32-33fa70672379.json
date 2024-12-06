@@ -3530,6 +3530,12 @@
     },
     "done": true
   },
+  "zenith:affix/epic": {
+    "criteria": {
+      "sword": "2024-12-06 22:45:13 +0000"
+    },
+    "done": true
+  },
   "zenith:affix/boss": {
     "criteria": {
       "sword": "2024-12-06 22:40:14 +0000"
