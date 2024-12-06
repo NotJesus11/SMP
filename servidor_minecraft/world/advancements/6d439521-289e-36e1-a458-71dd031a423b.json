@@ -637,6 +637,7 @@
       "minecraft:pillager": "2024-12-06 02:19:21 +0000",
       "minecraft:blaze": "2024-12-06 22:37:49 +0000",
       "minecraft:skeleton": "2024-12-05 23:55:56 +0000",
+      "minecraft:zoglin": "2024-12-06 23:43:30 +0000",
       "minecraft:hoglin": "2024-12-06 22:33:58 +0000",
       "minecraft:vindicator": "2024-12-06 22:05:30 +0000",
       "minecraft:spider": "2024-12-05 23:39:39 +0000",
@@ -2827,6 +2828,12 @@
       "soulsweapons:night_shade": "2024-12-06 22:12:20 +0000"
     },
     "done": false
+  },
+  "zenith:affix/chests": {
+    "criteria": {
+      "sword": "2024-12-06 23:48:49 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
