@@ -1,9 +1,9 @@
-[00:56:16] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[00:56:16] [ForkJoinPool-1-worker-1/WARN]: Mod doespotatotick uses the version fabric-quilt-1.20.1-3.6.1 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[00:56:17] [ForkJoinPool-1-worker-1/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[00:56:17] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[03:09:18] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[03:09:21] [ForkJoinPool-1-worker-1/WARN]: Mod doespotatotick uses the version fabric-quilt-1.20.1-3.6.1 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:09:22] [ForkJoinPool-1-worker-2/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:09:23] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 12
-[00:56:17] [main/INFO]: Loading 154 mods:
+[03:09:24] [main/INFO]: Loading 157 mods:
 	- advancednetherite 2.1.3-1.20.1
 	- appleskin 2.5.1+mc1.20
 	- architectury 9.2.14
@@ -36,7 +36,6 @@
 	- configured 2.2.3
 	- coroutil 1.20.1-1.3.7
 	- cupboard 1.20.1-2.7
-	- darktimer 1.1.9
 	- doespotatotick fabric-quilt-1.20.1-3.6.1
 	- doubledoors 5.9
 	- dungeons_arise 2.1.58
@@ -173,282 +172,274 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[00:56:17] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SMP/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:56:18] [main/INFO]: Compatibility level set to JAVA_17
-[00:56:18] [main/WARN]: Reference map 'cave_dweller.refmap.json' for cave_dweller.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:56:18] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:56:18] [main/INFO]: Loaded configuration file for ModernFix 5.19.5+mc1.20.1: 61 options available, 0 override(s) found
-[00:56:18] [main/INFO]: Applying Nashorn fix
-[00:56:18] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:56:18] [main/WARN]: Reference map 'starterkit_fabric.refmap.json' for starterkit_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:56:19] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl (java.lang.ClassNotFoundException: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl)
-[00:56:19] [main/WARN]: @Mixin target dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl was not found doespotatotick.mixins.json:ClaimedChunkManagerImplMixin from mod doespotatotick
-[00:56:19] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
-[00:56:20] [main/INFO]: Loaded config for: structureessentials.json
-[00:56:20] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
-[00:56:20] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
-[00:56:20] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:56:26] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[00:56:26] [main/INFO]: Vanilla bootstrap took 5520 milliseconds
-[00:56:26] [main/INFO]: Initializing platform helper for Advanced Netherite!
-[00:56:26] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[00:56:26] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[00:56:26] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[00:56:26] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[00:56:26] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[00:56:26] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[00:56:26] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[00:56:27] [main/INFO]: Better Compatibility Checker starting
-[00:56:27] [main/INFO]: Loading config file
-[00:56:27] [main/INFO]: Config file loaded
-[00:56:27] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[00:56:27] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[00:56:27] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[00:56:27] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[00:56:27] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[00:56:27] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[00:56:27] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[00:56:27] [main/INFO]: Loading Collective version 7.87.
-[00:56:27] [main/INFO]: fabric loader environment detected
-[00:56:27] [main/INFO]: Loaded config for: cupboard.json
-[00:56:29] [main/INFO]: Loaded config :emi_loot_config in 1107ms
-[00:56:29] [main/INFO]: ExpandAbility here, who dis?
-[00:56:29] [main/INFO]: Is initializing.
-[00:56:29] [main/INFO]: Has successfully been initialized.
-[00:56:29] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[00:56:29] [main/INFO]: [KONKRETE] Successfully initialized!
-[00:56:29] [main/INFO]: [KONKRETE] Server-side libs ready to use!
-[00:56:29] [main/INFO]: Initialize mod Library Ferret
-[00:56:29] [main/INFO]: Initialized mod Library Ferret
-[00:56:29] [main/INFO]: Don't use Forge, use Froge!
-[00:56:29] [main/INFO]: Constructing common components for puzzleslib:main
-[00:56:30] [main/INFO]: [STDOUT]: /workspaces/SMP/servidor_minecraft/config
-[00:56:30] [main/INFO]: Config initialized!
-[00:56:30] [main/INFO]: Successfully initialized Geckolib!
-[00:56:30] [main/INFO]: Successfully registered SoulsWeapons content!
-[00:56:30] [main/INFO]: Successfully registered built-in 2D model resourcepack!
-[00:56:30] [main/INFO]: Successfully registered built-in Legacy 2D Models resourcepack!
-[00:56:30] [main/INFO]: Successfully registered built-in Legacy 3D Models resourcepack!
-[00:56:30] [main/INFO]: Successfully registered built-in Fresh Animations Compat. resourcepack!
-[00:56:30] [main/INFO]: Initializing done, time taken: 306ms
-[00:56:30] [main/INFO]: structureessentials mod initialized
-[00:56:31] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[00:56:31] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[00:56:31] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[00:56:31] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[00:56:31] [main/INFO]: Constructing common components for visualworkbench:main
-[00:56:31] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[00:56:31] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[00:56:31] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:56:31] [main/INFO]: Bypassed Mojang DFU
-[00:56:34] [main/WARN]: Adding spell_power:fire to saved/remote registry.
-[00:56:34] [main/WARN]: Adding spell_power:frost to saved/remote registry.
-[00:56:34] [main/WARN]: Adding spell_power:arcane to saved/remote registry.
-[00:56:34] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[00:56:34] [main/WARN]: Method overwrite conflict for getRolls in emi_loot.mixins.json:LootPoolAccessor from mod emi_loot, previously written by net.fabricmc.fabric.mixin.loot.table.LootPoolMixin. Skipping method.
-[00:56:39] [main/INFO]: parsing loot tables
-[00:56:39] [main/INFO]: finished parsing loot tables
-[00:56:39] [main/INFO]: Loaded 7 recipes
-[00:56:39] [main/INFO]: Loaded 1731 advancements
-[00:56:40] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_nether with loottable: lootintegrations:chests/nether
-[00:56:40] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_hard with loottable: lootintegrations:chests/hard
-[00:56:40] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_water with loottable: lootintegrations:chests/water
-[00:56:40] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_medium with loottable: lootintegrations:chests/medium
-[00:56:40] [main/INFO]: Parsing loot modifiers for:lootintegrations:villageloot_house with loottable: lootintegrations:chests/village
-[00:56:40] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_easy with loottable: lootintegrations:chests/easy
-[00:56:40] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_no_overflow with loottable: minecraft:chests/simple_dungeon
-[00:56:40] [main/INFO]: Applied 599 biome modifications to 152 of 163 new biomes in 39.29 ms
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/flower_forest_japanese/houses
-[00:56:40] [Server thread/ERROR]: Cannot add to kaisyn:village/flower_forest_japanese/houses as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village ctov:village/desert_oasis/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/desert_oasis/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/mountain_alpine/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/mountain_alpine/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/beach_lighthouse/side
-[00:56:40] [Server thread/ERROR]: Cannot add to kaisyn:village/beach_lighthouse/side as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/savanna_na/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/savanna_na/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/swamp/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/swamp/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/savanna/houses
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/snowy_igloo/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/snowy_igloo/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/nilotic/houses
-[00:56:40] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/nilotic/houses as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/badlands_pueblo/houses
-[00:56:40] [Server thread/ERROR]: Cannot add to kaisyn:village/badlands_pueblo/houses as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/tudor/houses
-[00:56:40] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/tudor/houses as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/mushroom/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/mushroom/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/mediterranean/houses/regular
-[00:56:40] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/mediterranean/houses/regular as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/taiga/houses
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/birch_forest_romanian/houses
-[00:56:40] [Server thread/ERROR]: Cannot add to kaisyn:village/birch_forest_romanian/houses as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:red_desert_village_waystone to village ctov:village/mesa_fortified/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/mesa_fortified/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/classic/houses
-[00:56:40] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/classic/houses as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/wandering_trader_camp/side
-[00:56:40] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/wandering_trader_camp/side as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village ctov:village/desert/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/desert/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/rustic/houses
-[00:56:40] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/rustic/houses as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village minecraft:village/desert/houses
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/savanna/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/savanna/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village ctov:village/beach/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/beach/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/plains/houses
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/taiga/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/taiga/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:stone_brick_village_waystone to village ctov:village/underground/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/underground/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:red_desert_village_waystone to village ctov:village/mesa/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/mesa/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/grove_villager_outpost/decor
-[00:56:40] [Server thread/ERROR]: Cannot add to kaisyn:village/grove_villager_outpost/decor as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:mossy_stone_brick_village_waystone to village ctov:village/jungle/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/jungle/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/mountain/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/mountain/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/halloween/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/halloween/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/jungle_tribal/houses
-[00:56:40] [Server thread/ERROR]: Cannot add to kaisyn:village/jungle_tribal/houses as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/iberian/houses
-[00:56:40] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/iberian/houses as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/christmas/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/christmas/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/snowy/houses
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/plains/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/plains/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/swamp_fortified/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/swamp_fortified/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/plains_fortified/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/plains_fortified/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/taiga_fortified/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/taiga_fortified/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/swedish/houses
-[00:56:40] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/swedish/houses as it cannot be found!
-[00:56:40] [Server thread/INFO]: Adding waystone fwaystones:mossy_stone_brick_village_waystone to village ctov:village/jungle_tree/house
-[00:56:40] [Server thread/ERROR]: Cannot add to ctov:village/jungle_tree/house as it cannot be found!
-[00:56:40] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[00:56:40] [Server thread/INFO]: Loading properties
-[00:56:40] [Server thread/INFO]: Default game type: SURVIVAL
-[00:56:40] [Server thread/INFO]: Generating keypair
-[00:56:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:56:40] [Server thread/INFO]: Using epoll channel type
-[00:56:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:56:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:56:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:56:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:56:41] [Server thread/INFO]: Preparing level "world"
-[00:56:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:56:45] [Server thread/INFO]: Preparing spawn area: 0%
-[00:56:45] [Server thread/INFO]: Preparing spawn area: 0%
-[00:56:45] [Server thread/INFO]: Preparing spawn area: 0%
-[00:56:45] [Server thread/INFO]: Preparing spawn area: 0%
-[00:56:45] [Server thread/INFO]: Preparing spawn area: 0%
-[00:56:45] [Server thread/INFO]: Preparing spawn area: 0%
-[00:56:45] [Server thread/INFO]: Preparing spawn area: 0%
-[00:56:45] [Server thread/INFO]: Preparing spawn area: 0%
-[00:56:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:56:46] [Server thread/INFO]: Time elapsed: 4563 ms
-[00:56:46] [Server thread/INFO]: Done (5.822s)! For help, type "help"
-[00:56:46] [Server thread/WARN]: Dedicated server took 31.995 seconds to load
-[00:56:47] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 148136 bytes (in 15 string chunks with the size of 10000)
-[00:56:47] [Server thread/INFO]: Loaded config for: lootintegrations.json
-[00:56:47] [Server thread/INFO]: Start loading plugin from Jade
-[00:56:47] [Server thread/INFO]: Start loading plugin from Jade
-[00:56:47] [Server thread/INFO]: Start loading plugin from Jade
-[00:56:47] [Server thread/INFO]: Loaded values for 31 compatible attributes.
-[00:56:47] [Server thread/INFO]: Loaded 31 values from config.
-[00:56:47] [Server thread/INFO]: Saving config file. 31 entries.
-[00:56:47] [Server thread/INFO]: Applying changes for 31 attributes.
-[00:56:47] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[00:56:47] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[00:56:47] [Server thread/INFO]: Values have been reloaded
-[00:56:55] [Server thread/INFO]: SxidFlxao[/127.187.235.29:48077] logged in with entity id 215 at (-44.05992701662607, -0.7508129212553188, -470.63206577325604)
-[00:56:55] [Server thread/INFO]: Sending server config values to client
-[00:56:55] [Server thread/INFO]: Syncing config to SxidFlxao (6d439521-289e-36e1-a458-71dd031a423b)
-[00:56:55] [Server thread/INFO]: Loading config from file...
-[00:56:55] [Netty Epoll Server IO #1/INFO]: Receiving client config
-[00:56:55] [Server thread/INFO]: SxidFlxao joined the game
-[00:56:58] [Server thread/INFO]: NotTrainok[/127.49.151.250:51173] logged in with entity id 353 at (-220.29180966779762, 86.0, -247.2943872326997)
-[00:56:58] [Server thread/INFO]: Sending server config values to client
-[00:56:58] [Server thread/INFO]: Syncing config to NotTrainok (2013165f-f22c-305a-8b32-33fa70672379)
-[00:56:58] [Server thread/INFO]: Loading config from file...
-[00:56:58] [Netty Epoll Server IO #2/INFO]: Receiving client config
-[00:56:58] [Server thread/INFO]: NotTrainok joined the game
-[00:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
-[00:57:12] [Server thread/INFO]: [Not Secure] <NotTrainok> no hubo rallback no?
-[00:57:19] [Server thread/INFO]: [Not Secure] <SxidFlxao> nl menos mal
-[00:57:34] [Server thread/INFO]: SxidFlxao has made the advancement [Barrel Booty]
-[00:57:36] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=109, y=8, z=-675}
-[00:57:37] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=119, y=16, z=-679}
-[00:57:38] [Server thread/INFO]: [Not Secure] <NotTrainok> por eso este host es god
-[00:57:42] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-458, y=-12, z=-73}
-[00:57:46] [Server thread/INFO]: SxidFlxao has made the advancement ['X' Marks the Spot]
-[00:58:01] [Server thread/INFO]: [Not Secure] <NotTrainok> es donde esta la cama y hay telarañas?
-[00:58:02] [Server thread/INFO]: [Not Secure] <NotTrainok> xd
-[00:58:16] [Server thread/INFO]: [Not Secure] <SxidFlxao> chi
-[00:58:30] [Server thread/INFO]: [Not Secure] <NotTrainok> el loot de los cofres es por jugador
-[00:58:59] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-571, y=-42, z=-201}
-[00:59:03] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-571, y=32, z=-21}
-[00:59:07] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-270, y=3, z=-668}
-[00:59:08] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-458, y=-47, z=13}
-[00:59:10] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-564, y=3, z=14}
-[00:59:18] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-281, y=-27, z=-667}
-[01:00:00] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=63, y=18, z=-698}
-[01:00:00] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=83, y=-19, z=-700}
-[01:00:04] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-141, y=15, z=-708}
-[01:00:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-643, y=-29, z=-130}
-[01:00:27] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-667, y=37, z=-165}
-[01:00:33] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=125, y=-14, z=-729}
-[01:00:34] [Server thread/INFO]: SxidFlxao has made the advancement [Diamonds!]
-[01:01:13] [Worker-Main-11/INFO]: Instantiating Mojang DFU
-[01:01:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-633, y=12, z=27}
-[01:01:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-692, y=32, z=-164}
-[01:01:32] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-64, y=-23, z=-740}
-[01:01:36] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-155, y=-12, z=-758}
-[01:01:40] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-57, y=25, z=-755}
-[01:01:43] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-743, y=-29, z=-253}
-[01:01:44] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-228, y=-15, z=-759}
-[01:01:55] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-156, y=-11, z=-780}
-[01:02:07] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-808, y=-5, z=-49}
-[01:02:07] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-812, y=14, z=-30}
-[01:02:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-844, y=-47, z=-356}
-[01:02:30] [Server thread/INFO]: NotTrainok has made the advancement [Not Today, Thank You]
-[01:02:39] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-791, y=12, z=31}
-[01:02:54] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=188, y=-17, z=-665}
-[01:03:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-871, y=11, z=-228}
-[01:03:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-865, y=-28, z=-191}
-[01:03:42] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-912, y=-3, z=-348}
-[01:03:42] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-920, y=22, z=-206}
-[01:03:43] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-922, y=-26, z=-294}
-[01:03:45] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-941, y=-13, z=-86}
-[01:03:45] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-944, y=27, z=-213}
-[01:04:07] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-988, y=24, z=-211}
-[01:04:18] [Server thread/INFO]: [NotTrainok: Teleported NotTrainok to 92.500000, 96.500000, -172.500000]
-[01:05:50] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=497, y=-3, z=-455}
-[01:05:56] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=251, y=23, z=-657}
-[01:05:58] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=522, y=16, z=-476}
-[01:08:16] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=256, y=-42, z=-679}
-[01:08:16] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=264, y=23, z=-753}
-[01:09:21] [Server thread/INFO]: [Not Secure] <NotTrainok> sato se fue a jugar roblox
-[01:09:57] [Server thread/INFO]: [Not Secure] <SxidFlxao> anda en mi cuenta el cbron
-[01:10:11] [Server thread/INFO]: [Not Secure] <NotTrainok> xd
-[01:10:37] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=393, y=-41, z=-559}
-[01:10:43] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=403, y=34, z=-587}
-[01:10:43] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=511, y=-54, z=-584}
-[01:10:46] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=490, y=20, z=-605}
-[01:14:51] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=415, y=-8, z=-618}
-[01:14:51] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=442, y=67, z=-624}
-[01:14:54] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=307, y=-18, z=-625}
-[01:15:01] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=292, y=-16, z=-651}
-[01:16:03] [Server thread/INFO]: [Not Secure] <NotTrainok> wn
-[01:16:15] [Server thread/INFO]: [Not Secure] <NotTrainok> recuerdas la casa que construi en el otro sv?
-[01:16:20] [Server thread/INFO]: [Not Secure] <SxidFlxao> Cual XD
+	- yigd 2.0.10
+	   \-- libgui 8.1.1+1.20.1
+	        |-- jankson 6.0.0+j1.2.3
+	        \-- libninepatch 1.2.0
+[03:09:26] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SMP/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:09:26] [main/INFO]: Compatibility level set to JAVA_17
+[03:09:27] [main/WARN]: Reference map 'cave_dweller.refmap.json' for cave_dweller.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:27] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:28] [main/INFO]: Loaded configuration file for ModernFix 5.19.5+mc1.20.1: 61 options available, 0 override(s) found
+[03:09:28] [main/INFO]: Applying Nashorn fix
+[03:09:28] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:28] [main/WARN]: Reference map 'starterkit_fabric.refmap.json' for starterkit_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:09:29] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl (java.lang.ClassNotFoundException: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl)
+[03:09:29] [main/WARN]: @Mixin target dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl was not found doespotatotick.mixins.json:ClaimedChunkManagerImplMixin from mod doespotatotick
+[03:09:30] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[03:09:31] [main/INFO]: Loaded config for: structureessentials.json
+[03:09:31] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[03:09:31] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[03:09:31] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
+[03:09:31] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03:09:44] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[03:09:45] [main/INFO]: Vanilla bootstrap took 12528 milliseconds
+[03:09:45] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[03:09:46] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[03:09:46] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[03:09:46] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[03:09:46] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[03:09:46] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[03:09:46] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[03:09:46] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[03:09:46] [main/INFO]: Better Compatibility Checker starting
+[03:09:46] [main/INFO]: Loading config file
+[03:09:46] [main/INFO]: Config file loaded
+[03:09:47] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[03:09:47] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[03:09:47] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[03:09:47] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[03:09:47] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[03:09:47] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[03:09:47] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[03:09:48] [main/INFO]: Loading Collective version 7.87.
+[03:09:48] [main/INFO]: fabric loader environment detected
+[03:09:48] [main/INFO]: Loaded config for: cupboard.json
+[03:09:51] [main/INFO]: Loaded config :emi_loot_config in 1984ms
+[03:09:51] [main/INFO]: ExpandAbility here, who dis?
+[03:09:51] [main/INFO]: Is initializing.
+[03:09:51] [main/INFO]: Has successfully been initialized.
+[03:09:52] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[03:09:52] [main/INFO]: [KONKRETE] Successfully initialized!
+[03:09:52] [main/INFO]: [KONKRETE] Server-side libs ready to use!
+[03:09:52] [main/INFO]: Initialize mod Library Ferret
+[03:09:52] [main/INFO]: Initialized mod Library Ferret
+[03:09:52] [main/INFO]: This custom packet isn't supported by Gadget - Add support via DrawPacketHandler.EVENT
+[03:09:53] [main/INFO]: Constructing common components for puzzleslib:main
+[03:09:54] [main/INFO]: [STDOUT]: /workspaces/SMP/servidor_minecraft/config
+[03:09:55] [main/INFO]: Config initialized!
+[03:09:55] [main/INFO]: Successfully initialized Geckolib!
+[03:09:55] [main/INFO]: Successfully registered SoulsWeapons content!
+[03:09:55] [main/INFO]: Successfully registered built-in 2D model resourcepack!
+[03:09:55] [main/INFO]: Successfully registered built-in Legacy 2D Models resourcepack!
+[03:09:55] [main/INFO]: Successfully registered built-in Legacy 3D Models resourcepack!
+[03:09:55] [main/INFO]: Successfully registered built-in Fresh Animations Compat. resourcepack!
+[03:09:55] [main/INFO]: Initializing done, time taken: 579ms
+[03:09:55] [main/INFO]: structureessentials mod initialized
+[03:09:56] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[03:09:56] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[03:09:56] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[03:09:56] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[03:09:56] [main/INFO]: Constructing common components for visualworkbench:main
+[03:09:56] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[03:09:56] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[03:09:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:09:57] [main/INFO]: Bypassed Mojang DFU
+[03:10:03] [main/WARN]: Adding spell_power:fire to saved/remote registry.
+[03:10:03] [main/WARN]: Adding spell_power:frost to saved/remote registry.
+[03:10:03] [main/WARN]: Adding spell_power:arcane to saved/remote registry.
+[03:10:03] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[03:10:04] [main/WARN]: Method overwrite conflict for getRolls in emi_loot.mixins.json:LootPoolAccessor from mod emi_loot, previously written by net.fabricmc.fabric.mixin.loot.table.LootPoolMixin. Skipping method.
+[03:10:12] [main/INFO]: parsing loot tables
+[03:10:12] [main/INFO]: finished parsing loot tables
+[03:10:12] [main/INFO]: Loaded 7 recipes
+[03:10:13] [main/INFO]: Loaded 1731 advancements
+[03:10:13] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_nether with loottable: lootintegrations:chests/nether
+[03:10:13] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_hard with loottable: lootintegrations:chests/hard
+[03:10:13] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_water with loottable: lootintegrations:chests/water
+[03:10:13] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_medium with loottable: lootintegrations:chests/medium
+[03:10:13] [main/INFO]: Parsing loot modifiers for:lootintegrations:villageloot_house with loottable: lootintegrations:chests/village
+[03:10:13] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_easy with loottable: lootintegrations:chests/easy
+[03:10:13] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_no_overflow with loottable: minecraft:chests/simple_dungeon
+[03:10:13] [main/INFO]: Reloading grave shape (server)
+[03:10:13] [main/INFO]: Grave model and shape reload successful (server)
+[03:10:13] [main/INFO]: Reloading YIGD graveyard data (server)
+[03:10:13] [main/INFO]: Graveyard data successfully reloaded (server)
+[03:10:13] [main/INFO]: Reloading YIGD grave area overrides (server)
+[03:10:13] [main/INFO]: Grave area overrides successfully reloaded (server)
+[03:10:13] [main/INFO]: Applied 599 biome modifications to 152 of 163 new biomes in 53.96 ms
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/flower_forest_japanese/houses
+[03:10:13] [Server thread/ERROR]: Cannot add to kaisyn:village/flower_forest_japanese/houses as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village ctov:village/desert_oasis/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/desert_oasis/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/mountain_alpine/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/mountain_alpine/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/beach_lighthouse/side
+[03:10:13] [Server thread/ERROR]: Cannot add to kaisyn:village/beach_lighthouse/side as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/savanna_na/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/savanna_na/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/swamp/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/swamp/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/savanna/houses
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/snowy_igloo/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/snowy_igloo/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/nilotic/houses
+[03:10:13] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/nilotic/houses as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/badlands_pueblo/houses
+[03:10:13] [Server thread/ERROR]: Cannot add to kaisyn:village/badlands_pueblo/houses as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/tudor/houses
+[03:10:13] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/tudor/houses as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/mushroom/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/mushroom/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/mediterranean/houses/regular
+[03:10:13] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/mediterranean/houses/regular as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/taiga/houses
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/birch_forest_romanian/houses
+[03:10:13] [Server thread/ERROR]: Cannot add to kaisyn:village/birch_forest_romanian/houses as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:red_desert_village_waystone to village ctov:village/mesa_fortified/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/mesa_fortified/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/classic/houses
+[03:10:13] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/classic/houses as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/wandering_trader_camp/side
+[03:10:13] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/wandering_trader_camp/side as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village ctov:village/desert/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/desert/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/rustic/houses
+[03:10:13] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/rustic/houses as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village minecraft:village/desert/houses
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/savanna/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/savanna/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village ctov:village/beach/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/beach/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/plains/houses
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/taiga/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/taiga/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:stone_brick_village_waystone to village ctov:village/underground/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/underground/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:red_desert_village_waystone to village ctov:village/mesa/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/mesa/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/grove_villager_outpost/decor
+[03:10:13] [Server thread/ERROR]: Cannot add to kaisyn:village/grove_villager_outpost/decor as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:mossy_stone_brick_village_waystone to village ctov:village/jungle/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/jungle/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/mountain/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/mountain/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/halloween/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/halloween/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/jungle_tribal/houses
+[03:10:13] [Server thread/ERROR]: Cannot add to kaisyn:village/jungle_tribal/houses as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/iberian/houses
+[03:10:13] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/iberian/houses as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/christmas/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/christmas/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/snowy/houses
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/plains/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/plains/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/swamp_fortified/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/swamp_fortified/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/plains_fortified/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/plains_fortified/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/taiga_fortified/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/taiga_fortified/house as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/swedish/houses
+[03:10:13] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/swedish/houses as it cannot be found!
+[03:10:13] [Server thread/INFO]: Adding waystone fwaystones:mossy_stone_brick_village_waystone to village ctov:village/jungle_tree/house
+[03:10:13] [Server thread/ERROR]: Cannot add to ctov:village/jungle_tree/house as it cannot be found!
+[03:10:14] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[03:10:14] [Server thread/INFO]: Loading properties
+[03:10:14] [Server thread/INFO]: Default game type: SURVIVAL
+[03:10:14] [Server thread/INFO]: Generating keypair
+[03:10:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:10:14] [Server thread/INFO]: Using epoll channel type
+[03:10:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:10:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:10:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:10:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:10:14] [Server thread/INFO]: Preparing level "world"
+[03:10:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:10:20] [Server thread/INFO]: Preparing spawn area: 0%
+[03:10:20] [Server thread/INFO]: Preparing spawn area: 0%
+[03:10:20] [Server thread/INFO]: Preparing spawn area: 0%
+[03:10:20] [Server thread/INFO]: Preparing spawn area: 0%
+[03:10:22] [Server thread/INFO]: Preparing spawn area: 0%
+[03:10:22] [Server thread/INFO]: Preparing spawn area: 0%
+[03:10:22] [Server thread/INFO]: Preparing spawn area: 0%
+[03:10:22] [Server thread/INFO]: Preparing spawn area: 0%
+[03:10:22] [Server thread/INFO]: Preparing spawn area: 0%
+[03:10:22] [Server thread/INFO]: Preparing spawn area: 0%
+[03:10:22] [Server thread/INFO]: Preparing spawn area: 0%
+[03:10:22] [Server thread/INFO]: Preparing spawn area: 0%
+[03:10:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:10:23] [Server thread/INFO]: Time elapsed: 6769 ms
+[03:10:23] [Server thread/INFO]: Done (9.000s)! For help, type "help"
+[03:10:23] [Server thread/WARN]: Dedicated server took 73.019 seconds to load
+[03:10:24] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 148136 bytes (in 15 string chunks with the size of 10000)
+[03:10:24] [Server thread/INFO]: Loaded config for: lootintegrations.json
+[03:10:24] [Server thread/INFO]: Start loading plugin from Jade
+[03:10:24] [Server thread/INFO]: Start loading plugin from Jade
+[03:10:24] [Server thread/INFO]: Start loading plugin from Jade
+[03:10:24] [Server thread/INFO]: Loaded values for 31 compatible attributes.
+[03:10:24] [Server thread/INFO]: Loaded 31 values from config.
+[03:10:24] [Server thread/INFO]: Saving config file. 31 entries.
+[03:10:24] [Server thread/INFO]: Applying changes for 31 attributes.
+[03:10:24] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[03:10:24] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[03:10:24] [Server thread/INFO]: Values have been reloaded
+[03:11:57] [Server thread/INFO]: NotTrainok[/127.49.151.250:41475] logged in with entity id 117 at (-391.8159583710408, 109.0, -1360.188464340019)
+[03:11:58] [Server thread/INFO]: Sending server config values to client
+[03:11:58] [Server thread/INFO]: Syncing config to NotTrainok (2013165f-f22c-305a-8b32-33fa70672379)
+[03:11:58] [Server thread/INFO]: Loading config from file...
+[03:11:58] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[03:11:58] [Server thread/INFO]: NotTrainok joined the game
+[03:12:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[03:12:01] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player NotTrainok. Claiming: GRAVE / Robbing: INVENTORY
+[03:12:01] [Server thread/INFO]: Dxn1el_Is[/127.251.178.150:53011] logged in with entity id 377 at (127.60894423983231, 84.5, -489.30000001192093)
+[03:12:01] [Server thread/INFO]: Sending server config values to client
+[03:12:01] [Server thread/INFO]: Syncing config to Dxn1el_Is (a6061103-4a1b-3c83-9cd4-d7dcf2669323)
+[03:12:01] [Server thread/INFO]: Loading config from file...
+[03:12:01] [Server thread/INFO]: Dxn1el_Is joined the game
+[03:12:01] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[03:12:03] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Dxn1el_Is. Claiming: GRAVE / Robbing: INVENTORY
+[03:12:17] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> ez
+[03:12:21] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> ola
+[03:12:22] [Server thread/INFO]: [Not Secure] <NotTrainok> hasta donde andas
+[03:12:40] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> la verdad nose
+[03:12:44] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> sigo en esta casa
+[03:12:49] [Server thread/INFO]: [Not Secure] <NotTrainok> te hago tp y ya alaberga
+[03:12:58] [Server thread/INFO]: [Not Secure] <NotTrainok> no te dejaste nada?
+[03:13:05] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> aguanta
+[03:13:41] [Server thread/INFO]: Gave 38 [Diamond] to NotTrainok
+[03:13:48] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> si ya tp
+[03:14:15] [Server thread/INFO]: [NotTrainok: Teleported Dxn1el_Is to NotTrainok]
+[03:14:33] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> bioma de mrd
+[03:14:36] [Server thread/INFO]: [Not Secure] <NotTrainok> si
+[03:14:43] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> aguantame
+[03:14:50] [Server thread/INFO]: [Not Secure] <NotTrainok> cerca hay coso de pillagers cuidado
+[03:15:01] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> okperame q ando el inv lleno de pura mierda
+[03:15:26] [Server thread/INFO]: [Not Secure] <NotTrainok> tengo mapa de aldea vamos?
+[03:15:33] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> ya
+[03:15:35] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> si
+[03:15:44] [Server thread/INFO]: [Not Secure] <NotTrainok> creo esta leejos
+[03:16:02] [Worker-Main-17/ERROR]: Hanging entity at invalid position: class_2338{x=216, y=47, z=211}
+[03:16:04] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-611, y=-4, z=-1380}
+[03:16:05] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-560, y=-28, z=-1127}
+[03:16:10] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-639, y=-52, z=-1454}
+[03:16:14] [Server thread/INFO]: Dxn1el_Is has made the advancement [Not Today, Thank You]
+[03:16:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-660, y=-43, z=-1249}
+[03:16:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-662, y=-53, z=-1466}
+[03:16:32] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-681, y=16, z=-1324}
+[03:16:39] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-703, y=-21, z=-1154}
+[03:16:42] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-705, y=-22, z=-1092}
+[03:16:50] [Worker-Main-17/INFO]: Instantiating Mojang DFU
+[03:17:11] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-796, y=-39, z=-1129}
+[03:17:13] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-545, y=-46, z=-967}
+[03:17:30] [Server thread/INFO]: Dxn1el_Is has made the advancement [Disme A Dozen]
+[03:17:36] [Server thread/INFO]: [Not Secure] <NotTrainok> pura mrd
+[03:17:44] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> fr
+[03:18:12] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> ese si estaba bien}
+[03:18:38] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-816, y=3, z=-919}
+[03:18:46] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-793, y=-8, z=-884}
+[03:18:52] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-818, y=-35, z=-945}
+[03:18:54] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> AY CABORON}
+[03:18:57] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> LLAMEN A DIOS
+[03:19:05] [Server thread/INFO]: [Not Secure] <NotTrainok> q
