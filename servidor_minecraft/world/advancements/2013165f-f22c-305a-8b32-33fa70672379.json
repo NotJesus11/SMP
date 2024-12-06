@@ -1153,6 +1153,8 @@
       "minecraft:hoglin": "2024-12-06 06:45:09 +0000",
       "minecraft:vindicator": "2024-12-06 01:23:19 +0000",
       "minecraft:spider": "2024-12-06 00:20:28 +0000",
+      "minecraft:creeper": "2024-12-06 21:59:54 +0000",
+      "minecraft:phantom": "2024-12-06 21:57:11 +0000",
       "minecraft:husk": "2024-12-06 01:47:24 +0000",
       "minecraft:zombie": "2024-12-06 00:20:34 +0000"
     },
@@ -3232,6 +3234,54 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-06 13:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2024-12-06 21:44:46 +0000"
+    },
+    "done": true
+  },
+  "zenith:affix/rare": {
+    "criteria": {
+      "sword": "2024-12-06 21:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-06 21:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-06 21:44:46 +0000"
+    },
+    "done": true
+  },
+  "zenith:affix/root": {
+    "criteria": {
+      "sword": "2024-12-06 21:43:53 +0000"
+    },
+    "done": true
+  },
+  "zenith:affix/random": {
+    "criteria": {
+      "sword": "2024-12-06 21:43:53 +0000"
+    },
+    "done": true
+  },
+  "zenith:affix/gem": {
+    "criteria": {
+      "gem": "2024-12-06 21:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-06 21:35:19 +0000"
     },
     "done": true
   },

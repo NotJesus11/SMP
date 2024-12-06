@@ -1090,3 +1090,152 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	... 29 more
 [21:35:49] [Server thread/INFO]: [NotTrainok: Gave 1 [Anvil] to NotTrainok]
 [21:36:54] [Server thread/INFO]: [NotTrainok: Gave 1 [Furnace] to NotTrainok]
+[21:37:17] [Server thread/INFO]: [NotTrainok: Gave 126 [Coal] to NotTrainok]
+[21:37:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@382c6a59[id=<null>,name=SxidFlxao,properties={},legacy=false] (/127.187.235.29:60183) lost connection: Disconnected
+[21:37:50] [Server thread/INFO]: SxidFlxao[/127.187.235.29:37699] logged in with entity id 544 at (-827.1494702961637, 64.0, 1019.9725084379074)
+[21:37:50] [Server thread/INFO]: Sending server config values to client
+[21:37:50] [Server thread/INFO]: Syncing config to SxidFlxao (6d439521-289e-36e1-a458-71dd031a423b)
+[21:37:50] [Server thread/INFO]: Loading config from file...
+[21:37:51] [Server thread/INFO]: SxidFlxao joined the game
+[21:37:51] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[21:37:58] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player SxidFlxao. Claiming: GRAVE / Robbing: INVENTORY
+[21:38:20] [Server thread/INFO]: [Not Secure] <SxidFlxao> cc
+[21:38:33] [Server thread/INFO]: [Not Secure] <NotTrainok> -672 118
+[21:38:48] [Server thread/INFO]: [Not Secure] <SxidFlxao> y el jefe ese
+[21:39:00] [Server thread/INFO]: [Not Secure] <NotTrainok> esta cerca de la aldea
+[21:39:03] [Server thread/INFO]: [Not Secure] <NotTrainok> de las cc
+[21:39:15] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-589, y=-29, z=966}
+[21:39:49] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-530, y=91, z=884}
+[21:40:56] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-503, y=-19, z=794}
+[21:40:56] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-509, y=25, z=795}
+[21:40:56] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-509, y=103, z=810}
+[21:40:57] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-502, y=92, z=884}
+[21:41:05] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-484, y=99, z=823}
+[21:41:39] [Server thread/INFO]: Dxn1el_Is[/127.13.100.130:55199] logged in with entity id 1637 at (-826.0683434210803, 111.0, 8.670149689370588)
+[21:41:39] [Server thread/INFO]: Sending server config values to client
+[21:41:39] [Server thread/INFO]: Syncing config to Dxn1el_Is (a6061103-4a1b-3c83-9cd4-d7dcf2669323)
+[21:41:39] [Server thread/INFO]: Loading config from file...
+[21:41:39] [Server thread/INFO]: Dxn1el_Is joined the game
+[21:41:39] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[21:41:46] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Dxn1el_Is. Claiming: GRAVE / Robbing: INVENTORY
+[21:42:10] [Server thread/INFO]: [Not Secure] <NotTrainok> todos a la aldea de la dungeon
+[21:42:16] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> donde estan
+[21:42:19] [Server thread/INFO]: [Not Secure] <NotTrainok> para que se preparen para el jefe
+[21:42:27] [Server thread/INFO]: [Not Secure] <NotTrainok> -695 118
+[21:43:53] [Server thread/INFO]: NotTrainok has made the advancement [Zenith Affixes]
+[21:43:53] [Server thread/INFO]: NotTrainok has made the advancement [How'd You Get This?]
+[21:43:53] [Server thread/INFO]: NotTrainok has reached the goal [Worthy Equipment]
+[21:44:38] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> pero
+[21:44:50] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> ya no sirve la mochila
+[21:45:01] [Server thread/INFO]: [Not Secure] <NotTrainok> .-.
+[21:45:04] [Server thread/INFO]: Dxn1el_Is has made the advancement [Not a Diamond]
+[21:45:06] [Server thread/INFO]: [Not Secure] <NotTrainok> configura tus teclas
+[21:45:10] [Server thread/INFO]: Dxn1el_Is has made the advancement [Zenith Affixes]
+[21:45:15] [Server thread/INFO]: [Not Secure] <SxidFlxao> tienes uno de cristal?
+[21:45:26] [Server thread/INFO]: [Not Secure] <NotTrainok> no
+[21:45:34] [Server thread/INFO]: [Not Secure] <NotTrainok> aver que encontraste
+[21:45:52] [Server thread/INFO]: [Not Secure] <SxidFlxao> q de q
+[21:46:02] [Server thread/INFO]: [Not Secure] <NotTrainok> no nada
+[21:46:16] [Server thread/INFO]: [Not Secure] <SxidFlxao> y la mesa de herreria waa
+[21:47:05] [Server thread/INFO]: [Not Secure] <NotTrainok> toma te regalo un pico 1x3
+[21:47:27] [Server thread/INFO]: SxidFlxao has made the advancement [Zenith Affixes]
+[21:47:27] [Server thread/INFO]: SxidFlxao has made the advancement [How'd You Get This?]
+[21:47:27] [Server thread/INFO]: SxidFlxao has reached the goal [Worthy Equipment]
+[21:47:44] [Server thread/INFO]: [Not Secure] <SxidFlxao> como putas mejoro la mochila
+[21:48:03] [Server thread/INFO]: [Not Secure] <NotTrainok> con el blank hazlo con el mineral
+[21:48:18] [Server thread/INFO]: [Not Secure] <NotTrainok> si tienes de hierro la haces de oro y de oro a diamante
+[21:48:32] [Server thread/INFO]: [Not Secure] <SxidFlxao> y si es de diamante XDD
+[21:48:38] [Server thread/INFO]: [Not Secure] <NotTrainok> pendejo
+[21:48:45] [Server thread/INFO]: [Not Secure] <NotTrainok> dame el blank
+[21:49:02] [Server thread/INFO]: [Not Secure] <NotTrainok> aver tu mochila
+[21:49:14] [Server thread/INFO]: [Not Secure] <NotTrainok> dame cuatro de oro
+[21:50:39] [Server thread/INFO]: [Not Secure] <NotTrainok> ya?
+[21:50:56] [Server thread/INFO]: [Not Secure] <SxidFlxao> si hay diferencia waa
+[21:51:13] [Server thread/INFO]: [Not Secure] <NotTrainok> dame un casco de diamante sato me lo rompiste
+[21:51:14] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> el casco realmente estaba a un golpe
+[21:52:09] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> no se vale
+[21:52:14] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> raiden saca armas de creative
+[21:52:28] [Server thread/INFO]: [Not Secure] <NotTrainok> no te hago nada xd
+[21:52:48] [Server thread/INFO]: [Not Secure] <SxidFlxao> hueputa ando lentisimo
+[21:52:51] [Server thread/INFO]: [Not Secure] <NotTrainok> ayer encontre una aldea de bandidos explorando con said
+[21:53:00] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> god
+[21:53:10] [Server thread/INFO]: [Not Secure] <NotTrainok> la quieres said?
+[21:53:11] [Server thread/INFO]: [Not Secure] <SxidFlxao> raiden anillo de q me hago
+[21:53:13] [Server thread/INFO]: [Not Secure] <NotTrainok> no me gusta
+[21:53:20] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> yolaquiero
+[21:53:25] [Server thread/INFO]: [Not Secure] <NotTrainok> no se yo me hice de +1 cora
+[21:53:27] [Server thread/INFO]: [Not Secure] <SxidFlxao> dasela a ese
+[21:53:40] [Server thread/INFO]: Dxn1el_Is has made the advancement [Render of Souls]
+[21:53:59] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> JAJAJ
+[21:54:23] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> dondevamos
+[21:54:28] [Server thread/INFO]: [Not Secure] <NotTrainok> 29 muertes xd
+[21:54:31] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> coño
+[21:54:49] [Server thread/INFO]: [Not Secure] <NotTrainok> yta vamo al jefe?
+[21:54:55] [Server thread/INFO]: [Not Secure] <SxidFlxao> como le meto esto a la mochila
+[21:55:13] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> said,quieres pan?
+[21:55:53] [Server thread/INFO]: [Not Secure] <NotTrainok> creo tambien con la mesa no?
+[21:56:21] [Server thread/INFO]: [Not Secure] <NotTrainok> le di toda mi comida xd
+[21:57:01] [Server thread/INFO]: [Not Secure] <SxidFlxao> vamos?
+[21:57:24] [Server thread/INFO]: [Not Secure] <NotTrainok> siganme
+[21:58:34] [Server thread/INFO]: Named entity class_1613['Ken the President'/2948, l='ServerLevel[world]', x=-528.96, y=68.94, z=277.21] died: Ken the President was slain by NotTrainok
+[21:58:34] [Server thread/INFO]: NotTrainok has made the advancement [Not a Diamond]
+[21:58:37] [Server thread/INFO]: SxidFlxao has completed the challenge [He Wasn't So Strong]
+[21:58:58] [Server thread/INFO]: [Not Secure] <SxidFlxao> god dos coras mas
+[21:59:11] [Server thread/INFO]: [Not Secure] <SxidFlxao> uno y medio*
+[21:59:29] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> ese era un boss?
+[21:59:41] [Server thread/INFO]: [Not Secure] <NotTrainok> minijefes del nuevo mod
+[21:59:43] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> aok
+[21:59:56] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> quiero ir a papear al mob de las cuevas
+[22:00:25] [Server thread/INFO]: [Not Secure] <SxidFlxao> y el boss
+[22:00:30] [Server thread/INFO]: [Not Secure] <NotTrainok> vamos
+[22:00:59] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> ..esta bien..
+[22:02:10] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-339, y=15, z=746}
+[22:02:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-318, y=0, z=807}
+[22:02:22] [Server thread/INFO]: [Dxn1el_Is: Skin changed]
+[22:02:40] [Server thread/INFO]: [Dxn1el_Is: Skin changed]
+[22:02:43] [Server thread/INFO]: [Not Secure] <SxidFlxao> y sato
+[22:02:56] [Server thread/INFO]: [Not Secure] <NotTrainok> se esta cambiando la skin el wey
+[22:02:58] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> q onda bebetos
+[22:03:05] [Server thread/INFO]: [Not Secure] <SxidFlxao> XD
+[22:03:07] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-66, y=20, z=1019}
+[22:03:11] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-45, y=38, z=1051}
+[22:03:19] [Server thread/WARN]: Boat (vehicle of SxidFlxao) moved wrongly! 2.1526902124107323
+[22:03:19] [Server thread/WARN]: Boat (vehicle of SxidFlxao) moved wrongly! 2.1526902124107323
+[22:03:19] [Server thread/WARN]: Boat (vehicle of SxidFlxao) moved wrongly! 2.1526902124107323
+[22:03:19] [Server thread/WARN]: Boat (vehicle of SxidFlxao) moved wrongly! 2.1526902124107323
+[22:03:19] [Server thread/WARN]: Boat (vehicle of SxidFlxao) moved wrongly! 2.1526902124107323
+[22:03:19] [Server thread/WARN]: Boat (vehicle of SxidFlxao) moved wrongly! 2.1526902124107323
+[22:03:19] [Server thread/WARN]: Boat (vehicle of SxidFlxao) moved wrongly! 2.1526902124107323
+[22:03:19] [Server thread/WARN]: Boat (vehicle of SxidFlxao) moved wrongly! 2.1526902124107323
+[22:03:19] [Server thread/WARN]: Boat (vehicle of SxidFlxao) moved wrongly! 2.1526902124107323
+[22:03:20] [Worker-Main-22/INFO]: Instantiating Mojang DFU
+[22:03:21] [Server thread/INFO]: [Dxn1el_Is: Skin changed]
+[22:03:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-95, y=16, z=1083}
+[22:03:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-60, y=-29, z=1087}
+[22:03:50] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-81, y=-51, z=1142}
+[22:03:51] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-158, y=32, z=1148}
+[22:04:00] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-214, y=27, z=1167}
+[22:04:17] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=40, y=87, z=1168}
+[22:04:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=187, y=4, z=1194}
+[22:04:31] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=0, y=2, z=1200}
+[22:04:35] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-177, y=3, z=1204}
+[22:04:44] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> me esperan,wua matar este miniboss
+[22:04:51] [Server thread/INFO]: SxidFlxao has made the advancement [Far From Perfect]
+[22:04:51] [Server thread/INFO]: SxidFlxao has made the advancement [Not a Diamond]
+[22:05:53] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-155, y=14, z=1220}
+[22:05:58] [Server thread/INFO]: [Not Secure] <SxidFlxao> raiden y esto
+[22:06:03] [Server thread/INFO]: [Not Secure] <NotTrainok> ?
+[22:06:15] [Server thread/INFO]: NotTrainok has made the advancement [Far From Perfect]
+[22:06:33] [Server thread/INFO]: [Not Secure] <NotTrainok> es del miniboss
+[22:06:48] [Server thread/INFO]: [Not Secure] <NotTrainok> lo puedes poner a armas y armaduras creo
+[22:07:15] [Server thread/INFO]: [Not Secure] <SxidFlxao> a es como esos diamantes del puglins
+[22:07:21] [Server thread/INFO]: [Not Secure] <NotTrainok> maso
+[22:07:22] [Server thread/INFO]: Named entity class_1576['Eddie the Mythical'/5194, l='ServerLevel[world]', x=-118.63, y=78.00, z=957.31] died: Eddie the Mythical was slain by Dxn1el_Is
+[22:07:29] [Server thread/INFO]: [Not Secure] <NotTrainok> pero necesitamos mas cosas
+[22:07:31] [Server thread/INFO]: Dxn1el_Is has completed the challenge [He Wasn't So Strong]
+[22:07:31] [Server thread/INFO]: Dxn1el_Is has reached the goal [Worthy Equipment]
+[22:07:32] [Server thread/INFO]: [Not Secure] <SxidFlxao> y sato
+[22:07:43] [Server thread/INFO]: [Not Secure] <NotTrainok> le costo
+[22:07:46] [Server thread/INFO]: [Not Secure] <SxidFlxao> dejemoslo solo al wn
+[22:07:48] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> teni 80 hits
+[22:07:51] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> .
