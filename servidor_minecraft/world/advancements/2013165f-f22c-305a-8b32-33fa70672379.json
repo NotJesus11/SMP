@@ -3531,10 +3531,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-06 22:30:35 +0000",
       "minecraft:nether_wastes": "2024-12-06 22:30:26 +0000",
+      "minecraft:soul_sand_valley": "2024-12-06 23:32:38 +0000",
       "minecraft:basalt_deltas": "2024-12-06 23:16:33 +0000",
       "minecraft:warped_forest": "2024-12-06 22:35:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
