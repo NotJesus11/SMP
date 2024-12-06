@@ -1215,3 +1215,119 @@
 [06:31:52] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
 [06:31:52] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
 [06:32:02] [Server thread/INFO]: SxidFlxao claimed a grave belonging to SxidFlxao at -696, 72, 69, minecraft:overworld
+[06:32:15] [Server thread/INFO]: [Not Secure] <NotTrainok> no tengo cuero
+[06:32:42] [Server thread/INFO]: NotTrainok lost connection: Disconnected
+[06:32:42] [Server thread/INFO]: NotTrainok left the game
+[06:32:49] [Server thread/INFO]: NotTrainok[/127.49.151.250:50475] logged in with entity id 29767 at (-690.0165415293347, 75.0, 65.6010260626101)
+[06:32:49] [Server thread/INFO]: Sending server config values to client
+[06:32:50] [Server thread/INFO]: Syncing config to NotTrainok (2013165f-f22c-305a-8b32-33fa70672379)
+[06:32:50] [Server thread/INFO]: Loading config from file...
+[06:32:50] [Server thread/INFO]: NotTrainok joined the game
+[06:32:50] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player NotTrainok. Claiming: GRAVE / Robbing: INVENTORY
+[06:32:50] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[06:32:57] [Server thread/INFO]: [Not Secure] <NotTrainok> lagaso
+[06:33:23] [Server thread/INFO]: SxidFlxao was slain by Iron Golem
+[06:33:46] [Server thread/INFO]: SxidFlxao claimed a grave belonging to SxidFlxao at -670, 73, 66, minecraft:overworld
+[06:35:17] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-563, y=-38, z=474}
+[06:35:32] [Server thread/INFO]: [Not Secure] <NotTrainok> me tiraron xd
+[06:36:01] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-311, y=-18, z=446}
+[06:36:11] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-263, y=4, z=488}
+[06:36:13] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-537, y=14, z=516}
+[06:36:13] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-266, y=17, z=523}
+[06:36:34] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-672, y=-16, z=539}
+[06:36:35] [Server thread/INFO]: [Not Secure] <SxidFlxao> el cueroo
+[06:36:50] [Server thread/INFO]: [Not Secure] <NotTrainok> y eso
+[06:37:04] [Server thread/INFO]: [Not Secure] <NotTrainok> vamo
+[06:37:14] [Server thread/INFO]: [Not Secure] <NotTrainok> xd
+[06:38:32] [Server thread/INFO]: [Not Secure] <NotTrainok> has mas plantillas para la mochila
+[06:38:49] [Server thread/INFO]: [Not Secure] <SxidFlxao> luego
+[06:39:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-817, y=-17, z=471}
+[06:39:49] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-731, y=22, z=719}
+[06:40:03] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-846, y=20, z=720}
+[06:40:04] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-889, y=-23, z=727}
+[06:40:12] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-903, y=7, z=601}
+[06:40:12] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-908, y=-27, z=735}
+[06:40:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-934, y=30, z=413}
+[06:40:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-753, y=27, z=780}
+[06:40:26] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-675, y=5, z=785}
+[06:40:47] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-983, y=0, z=462}
+[06:40:50] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-896, y=6, z=847}
+[06:40:53] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1001, y=31, z=763}
+[06:40:53] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1003, y=-42, z=779}
+[06:40:53] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1008, y=15, z=458}
+[06:41:06] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1018, y=34, z=776}
+[06:41:06] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1031, y=-33, z=762}
+[06:41:09] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1056, y=-11, z=582}
+[06:41:12] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1053, y=-49, z=744}
+[06:41:15] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1076, y=14, z=634}
+[06:41:15] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1088, y=13, z=710}
+[06:41:17] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1077, y=-31, z=520}
+[06:41:18] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1101, y=-23, z=659}
+[06:41:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1108, y=-9, z=692}
+[06:41:30] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-806, y=-32, z=889}
+[06:41:33] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1148, y=-6, z=523}
+[06:41:41] [Server thread/INFO]: [Not Secure] <NotTrainok> este bioma es gigante
+[06:41:56] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1187, y=76, z=646}
+[06:41:56] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1191, y=74, z=706}
+[06:41:56] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1191, y=112, z=773}
+[06:42:05] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1102, y=40, z=930}
+[06:42:08] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-875, y=16, z=930}
+[06:42:15] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-815, y=-35, z=991}
+[06:42:15] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-793, y=-33, z=982}
+[06:42:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-784, y=-15, z=1004}
+[06:42:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-834, y=-18, z=1005}
+[06:42:32] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-953, y=24, z=1046}
+[06:42:36] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1079, y=-31, z=1070}
+[06:42:36] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-914, y=-47, z=1063}
+[06:42:39] [Worker-Main-179/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:42:39] [Worker-Main-17/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:42:39] [Worker-Main-17/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:42:39] [Worker-Main-17/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:42:39] [Worker-Main-17/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:42:46] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-945, y=10, z=1092}
+[06:42:46] [Worker-Main-179/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:42:46] [Worker-Main-179/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:42:49] [Worker-Main-17/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:42:49] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-950, y=9, z=1109}
+[06:42:49] [Worker-Main-17/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:42:49] [Worker-Main-17/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:42:52] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-761, y=-41, z=1123}
+[06:42:53] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-943, y=34, z=1125}
+[06:42:59] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1091, y=-14, z=1160}
+[06:43:17] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-823, y=-1, z=1188}
+[06:43:17] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-785, y=-43, z=1185}
+[06:43:18] [Server thread/INFO]: [Not Secure] <SxidFlxao> me voy a dormir loco
+[06:43:18] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1151, y=-46, z=1194}
+[06:43:25] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-722, y=32, z=986}
+[06:43:26] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-724, y=-46, z=1110}
+[06:43:28] [Server thread/INFO]: [Not Secure] <SxidFlxao> oe
+[06:43:32] [Server thread/INFO]: [Not Secure] <NotTrainok> e
+[06:43:32] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-704, y=-17, z=1191}
+[06:43:38] [Server thread/INFO]: [Not Secure] <SxidFlxao> hice la mejora de diamante antes que la de hierro
+[06:43:44] [Server thread/INFO]: [Not Secure] <NotTrainok> q
+[06:43:51] [Server thread/INFO]: [Not Secure] <NotTrainok> yo se la puse
+[06:43:55] [Server thread/INFO]: [Not Secure] <NotTrainok> la de hierro
+[06:43:55] [Server thread/INFO]: [Not Secure] <SxidFlxao> como
+[06:43:59] [Server thread/INFO]: [Not Secure] <SxidFlxao> aq
+[06:44:14] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-782, y=27, z=1200}
+[06:44:14] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-658, y=21, z=996}
+[06:44:18] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-642, y=-20, z=879}
+[06:44:19] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-646, y=-11, z=1066}
+[06:44:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-764, y=-28, z=1255}
+[06:44:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-630, y=-47, z=884}
+[06:44:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-629, y=-26, z=907}
+[06:44:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-638, y=-44, z=915}
+[06:44:23] [Server thread/INFO]: [Not Secure] <SxidFlxao> chau
+[06:44:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-634, y=23, z=1245}
+[06:44:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-647, y=38, z=1253}
+[06:44:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-646, y=21, z=1251}
+[06:44:27] [Server thread/INFO]: [Not Secure] <NotTrainok> bai
+[06:44:31] [Server thread/INFO]: SxidFlxao lost connection: Disconnected
+[06:44:31] [Server thread/INFO]: SxidFlxao left the game
+[06:44:32] [Server thread/INFO]: NotTrainok has made the advancement [Rusted Root]
+[06:44:35] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1005, y=15, z=1271}
+[06:44:44] [Server thread/INFO]: [NotTrainok: Set own game mode to Creative Mode]
+[06:45:08] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-971, y=-8, z=1308}
+[06:45:08] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-654, y=-16, z=1300}
+[06:45:53] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1011, y=14, z=1268}
+[06:52:03] [Server thread/INFO]: NotTrainok has made the advancement [Render of Souls]
