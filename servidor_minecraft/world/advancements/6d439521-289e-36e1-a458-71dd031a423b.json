@@ -2515,6 +2515,7 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
+      "darkmoon_longbow": "2024-12-06 23:26:33 +0000",
       "darkin_blade": "2024-12-06 22:56:51 +0000",
       "draugr": "2024-12-06 22:14:11 +0000"
     },
@@ -2892,6 +2893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-06 23:19:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-06 22:51:05 +0000"
@@ -3078,6 +3085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-06 23:19:26 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/frostmourne": {
     "criteria": {
       "has_item": "2024-12-06 22:56:50 +0000"
@@ -3195,6 +3208,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-06 22:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-06 23:19:26 +0000"
     },
     "done": true
   },
