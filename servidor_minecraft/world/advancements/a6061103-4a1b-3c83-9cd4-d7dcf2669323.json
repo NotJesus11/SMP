@@ -465,6 +465,7 @@
       "minecraft:spider": "2024-12-06 04:55:17 +0000",
       "minecraft:creeper": "2024-12-06 03:16:05 +0000",
       "minecraft:phantom": "2024-12-06 21:57:21 +0000",
+      "minecraft:wither_skeleton": "2024-12-06 23:08:40 +0000",
       "minecraft:husk": "2024-12-06 01:54:20 +0000",
       "minecraft:piglin": "2024-12-06 22:31:02 +0000",
       "minecraft:enderman": "2024-12-06 22:38:27 +0000",
@@ -3033,6 +3034,12 @@
     },
     "done": false
   },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-06 22:57:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2024-12-06 22:46:38 +0000"
@@ -3090,6 +3097,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-06 22:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-06 22:57:38 +0000"
     },
     "done": true
   },
@@ -3177,6 +3190,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2024-12-06 22:57:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2024-12-06 22:53:09 +0000"
@@ -3198,6 +3217,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-06 22:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-06 22:57:38 +0000"
     },
     "done": true
   },
