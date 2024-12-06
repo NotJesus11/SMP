@@ -3512,6 +3512,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/withered_chest": {
+    "criteria": {
+      "has_item": "2024-12-06 23:11:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-06 22:55:15 +0000"
@@ -3522,6 +3528,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-06 22:30:35 +0000",
       "minecraft:nether_wastes": "2024-12-06 22:30:26 +0000",
+      "minecraft:basalt_deltas": "2024-12-06 23:16:33 +0000",
       "minecraft:warped_forest": "2024-12-06 22:35:49 +0000"
     },
     "done": false
@@ -3691,6 +3698,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-06 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
+    "criteria": {
+      "has_item": "2024-12-06 23:11:28 +0000"
     },
     "done": true
   },
