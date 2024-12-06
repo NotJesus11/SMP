@@ -18,5 +18,8 @@
   "minecraft:potion_effects": null,
   "minecraft:progress": null,
   "minecraft:redstone": null,
-  "minecraft:zombie_villager": null
+  "minecraft:zombie_villager": null,
+  "zenith:adventure": null,
+  "zenith:ench": null,
+  "zenith:spawner": null
 }

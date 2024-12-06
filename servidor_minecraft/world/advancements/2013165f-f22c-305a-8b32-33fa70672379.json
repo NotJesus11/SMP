@@ -121,18 +121,27 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-06 07:12:35 +0000",
       "minecraft:eroded_badlands": "2024-12-06 04:13:04 +0000",
+      "minecraft:windswept_hills": "2024-12-06 07:04:39 +0000",
       "minecraft:wooded_badlands": "2024-12-06 02:19:00 +0000",
       "minecraft:badlands": "2024-12-06 02:18:18 +0000",
       "minecraft:savanna_plateau": "2024-12-05 23:25:26 +0000",
       "minecraft:beach": "2024-12-06 03:16:28 +0000",
+      "minecraft:stony_peaks": "2024-12-06 07:12:31 +0000",
       "minecraft:sparse_jungle": "2024-12-06 02:39:55 +0000",
       "minecraft:river": "2024-12-06 01:01:13 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-06 07:09:14 +0000",
+      "minecraft:cold_ocean": "2024-12-06 07:01:05 +0000",
       "minecraft:forest": "2024-12-06 06:58:51 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-06 07:02:05 +0000",
       "minecraft:desert": "2024-12-06 01:01:55 +0000",
       "minecraft:jungle": "2024-12-06 02:39:53 +0000",
       "minecraft:warm_ocean": "2024-12-06 03:20:45 +0000",
-      "minecraft:savanna": "2024-12-05 23:30:51 +0000"
+      "minecraft:deep_lukewarm_ocean": "2024-12-06 07:09:27 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-06 07:03:38 +0000",
+      "minecraft:savanna": "2024-12-05 23:30:51 +0000",
+      "minecraft:plains": "2024-12-06 07:00:32 +0000"
     },
     "done": false
   },
@@ -3046,9 +3055,9 @@
     },
     "done": true
   },
-  "simplyswords:soulrender": {
+  "dungeons_arise:find_bandit_village": {
     "criteria": {
-      "requirement": "2024-12-06 06:52:03 +0000"
+      "location0": "2024-12-06 06:44:32 +0000"
     },
     "done": true
   },
@@ -3058,15 +3067,171 @@
     },
     "done": true
   },
-  "dungeons_arise:find_bandit_village": {
-    "criteria": {
-      "location0": "2024-12-06 06:44:32 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2024-12-06 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulrender": {
+    "criteria": {
+      "requirement": "2024-12-06 06:52:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2024-12-06 07:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-06 13:58:16 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/end_stone_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2024-12-06 13:58:32 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/waystone_scroll": {
+    "criteria": {
+      "has_abyss_watcher": "2024-12-06 13:58:32 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/nether_brick_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2024-12-06 13:58:32 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/desert_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2024-12-06 13:58:32 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/deepslate_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2024-12-06 13:58:32 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/local_void": {
+    "criteria": {
+      "has_abyss_watcher": "2024-12-06 13:58:32 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/blackstone_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2024-12-06 13:58:32 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/red_desert_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2024-12-06 13:58:32 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2024-12-06 13:58:32 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/stone_brick_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2024-12-06 13:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-06 13:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 13:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-06 13:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 13:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-06 13:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-06 13:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-06 13:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-06 13:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 13:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 13:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 13:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 13:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 13:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-06 13:59:12 +0000"
     },
     "done": true
   },
