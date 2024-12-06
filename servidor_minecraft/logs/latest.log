@@ -141,3 +141,15 @@
 [00:39:38] [Server thread/INFO]: [NotTrainok: Set own game mode to Survival Mode]
 [00:43:30] [Server thread/INFO]: [Not Secure] <NotTrainok> agarra todo el moonstone y verglas que puedas
 [00:43:44] [Server thread/INFO]: [Not Secure] <SxidFlxao> esta roto eso?
+[00:44:01] [Server thread/INFO]: [Not Secure] <NotTrainok> solo es para armas que creo estan mejor que las de diamante
+[00:44:27] [Server thread/INFO]: [Not Secure] <NotTrainok> y para dos como la que te enseñe al inicio
+[00:44:39] [Server thread/INFO]: [Not Secure] <SxidFlxao> quita mucho la lava
+[00:44:46] [Server thread/INFO]: [Not Secure] <NotTrainok> si
+[00:44:53] [Server thread/INFO]: [Not Secure] <NotTrainok> lleva agua mejor
+[00:47:19] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=66, y=3, z=-609}
+[00:47:19] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=122, y=5, z=-611}
+[00:49:51] [Server thread/INFO]: [Not Secure] <NotTrainok> voy a explorar
+[00:50:05] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-344, y=-44, z=36}
+[00:52:53] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-5, y=-36, z=-626}
+[00:52:58] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=186, y=37, z=-653}
+[00:53:17] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-197, y=-13, z=-650}
