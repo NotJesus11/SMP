@@ -5057,6 +5057,12 @@
     },
     "done": true
   },
+  "simplyswords:stars_edge": {
+    "criteria": {
+      "requirement": "2024-12-07 22:24:20 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:gatling_gun": {
     "criteria": {
       "weapon": "2024-12-07 21:55:48 +0000"
