@@ -4862,6 +4862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-07 21:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2024-12-07 20:06:20 +0000"
@@ -4871,6 +4877,12 @@
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2024-12-07 19:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-12-07 21:05:39 +0000"
     },
     "done": true
   },
@@ -4952,6 +4964,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-12-07 21:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-07 21:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2024-12-07 19:58:50 +0000"
@@ -4967,6 +4991,12 @@
   "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2024-12-07 20:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-12-07 21:03:30 +0000"
     },
     "done": true
   },
