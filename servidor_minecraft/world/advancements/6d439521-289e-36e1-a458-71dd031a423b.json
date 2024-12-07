@@ -650,6 +650,7 @@
       "minecraft:hoglin": "2024-12-06 22:33:58 +0000",
       "minecraft:vindicator": "2024-12-06 22:05:30 +0000",
       "minecraft:spider": "2024-12-05 23:39:39 +0000",
+      "minecraft:piglin_brute": "2024-12-07 20:51:54 +0000",
       "minecraft:wither": "2024-12-07 06:07:58 +0000",
       "minecraft:phantom": "2024-12-06 22:00:11 +0000",
       "minecraft:zombified_piglin": "2024-12-06 23:02:13 +0000",
@@ -2709,6 +2710,7 @@
     "criteria": {
       "freyr_sword": "2024-12-07 00:00:54 +0000",
       "darkmoon_longbow": "2024-12-06 23:26:33 +0000",
+      "guts": "2024-12-07 20:51:11 +0000",
       "darkin_blade": "2024-12-06 22:56:51 +0000",
       "comet_spear": "2024-12-07 00:49:24 +0000",
       "draugr": "2024-12-06 22:14:11 +0000",
@@ -4316,6 +4318,12 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2024-12-07 20:51:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-07 19:31:31 +0000"
@@ -4349,6 +4357,12 @@
   "travelersbackpack:recipes/misc/lapis_smithing": {
     "criteria": {
       "has_lapis": "2024-12-07 20:07:34 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:heap_of_iron": {
+    "criteria": {
+      "soulsweapons:guts_sword": "2024-12-07 20:51:11 +0000"
     },
     "done": true
   },

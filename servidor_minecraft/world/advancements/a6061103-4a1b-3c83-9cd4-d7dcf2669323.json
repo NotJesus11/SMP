@@ -4309,12 +4309,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2024-12-07 05:58:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-07 05:18:58 +0000"
@@ -4339,24 +4333,6 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/misc/lost_soul": {
-    "criteria": {
-      "has_item": "2024-12-07 05:58:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2024-12-07 05:58:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/return_to_sender": {
-    "criteria": {
-      "killed_ghast": "2024-12-07 05:49:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-07 05:18:58 +0000"
@@ -4366,6 +4342,30 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-07 05:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-12-07 05:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-07 05:58:08 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2024-12-07 05:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-07 05:58:08 +0000"
     },
     "done": true
   },
