@@ -2067,3 +2067,36 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:27:54] [Server thread/INFO]: [Not Secure] <SxidFlxao> -60 fps
 [22:28:17] [Server thread/INFO]: [Not Secure] <NotTrainok> tienes runic tablets?
 [22:29:27] [Server thread/INFO]: [Not Secure] <NotTrainok> wtf me salio sharpness y smite juntos
+[22:32:58] [Server thread/INFO]: [NotTrainok: Gave 10 [Leather] to NotTrainok]
+[22:34:46] [Server thread/INFO]: Dxn1el_Is[/127.13.100.130:57487] logged in with entity id 28901 at (-1522.039955162059, 74.0, 10596.657824079222)
+[22:34:46] [Server thread/INFO]: Sending server config values to client
+[22:34:46] [Server thread/INFO]: Syncing config to Dxn1el_Is (a6061103-4a1b-3c83-9cd4-d7dcf2669323)
+[22:34:46] [Server thread/INFO]: Loading config from file...
+[22:34:47] [Server thread/INFO]: Dxn1el_Is joined the game
+[22:34:47] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[22:34:50] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Dxn1el_Is. Claiming: GRAVE / Robbing: INVENTORY
+[22:36:02] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> como se hace una mochila de diamante xd
+[22:36:18] [Server thread/INFO]: [Not Secure] <SxidFlxao> para algo está el EMI bro
+[22:37:01] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> raiden
+[22:37:04] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> toma
+[22:37:30] [Server thread/INFO]: NotTrainok lost connection: Disconnected
+[22:37:30] [Server thread/INFO]: NotTrainok left the game
+[22:37:35] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> a
+[22:37:54] [Server thread/INFO]: [Not Secure] [Server] me crasheaste el juego xd
+[22:37:59] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> a
+[22:38:05] [Server thread/INFO]: [Not Secure] <SxidFlxao> qn
+[22:38:11] [Server thread/INFO]: [Not Secure] [Server] tu
+[22:38:16] [Server thread/INFO]: [Not Secure] <SxidFlxao> q hice
+[22:38:32] [Server thread/INFO]: [Not Secure] [Server] con el ataque ese
+[22:39:00] [Server thread/INFO]: NotTrainok[/127.49.151.250:36983] logged in with entity id 29794 at (1319.3886643021, 103.0, 9987.699999988079)
+[22:39:00] [Server thread/INFO]: Sending server config values to client
+[22:39:00] [Server thread/INFO]: Syncing config to NotTrainok (2013165f-f22c-305a-8b32-33fa70672379)
+[22:39:00] [Server thread/INFO]: Loading config from file...
+[22:39:00] [Server thread/INFO]: NotTrainok joined the game
+[22:39:01] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[22:39:07] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player NotTrainok. Claiming: GRAVE / Robbing: INVENTORY
+[22:39:52] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> pero,no me sale la mochila
+[22:40:08] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> osea en el inv
+[22:40:20] [Server thread/INFO]: [Not Secure] <NotTrainok> como te la pusiste
+[22:40:29] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> pues
+[22:40:44] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> me la puse normal
