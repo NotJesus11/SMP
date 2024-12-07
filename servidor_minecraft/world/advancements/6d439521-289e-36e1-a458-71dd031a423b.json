@@ -3528,75 +3528,9 @@
     },
     "done": true
   },
-  "soulsweapons:hallowheart": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "items": "2024-12-07 06:17:35 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/bee": {
-    "criteria": {
-      "has_honey_bottle": "2024-12-07 03:42:17 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/chungus_disc": {
-    "criteria": {
-      "has_item": "2024-12-07 04:16:37 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:dream_on": {
-    "criteria": {
-      "fall": "2024-12-07 03:46:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-07 04:23:44 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_ingot_leggings": {
-    "criteria": {
-      "has_item": "2024-12-07 04:21:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/forlorn_helmet": {
-    "criteria": {
-      "has_item": "2024-12-07 06:16:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
+      "has_bow": "2024-12-07 03:17:05 +0000"
     },
     "done": true
   },
@@ -3606,33 +3540,63 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_robes_leggings": {
+  "travelersbackpack:recipes/misc/bee": {
     "criteria": {
-      "has_item": "2024-12-07 04:21:20 +0000"
+      "has_honey_bottle": "2024-12-07 03:42:17 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_ingot_helmet": {
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
-      "has_item": "2024-12-07 04:21:20 +0000"
+      "has_honey_bottle": "2024-12-07 03:42:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+  "minecraft:recipes/redstone/honey_block": {
     "criteria": {
-      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
+      "has_honey_bottle": "2024-12-07 03:42:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+  "soulsweapons:dream_on": {
     "criteria": {
-      "has_deepslate_tiles": "2024-12-07 04:23:44 +0000"
+      "fall": "2024-12-07 03:46:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_sword_smithing": {
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
-      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
+      "has_sentry_armor_trim_smithing_template": "2024-12-07 03:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-07 03:54:58 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-07 03:56:07 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2024-12-07 03:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-07 04:05:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/chungus_disc": {
+    "criteria": {
+      "has_item": "2024-12-07 04:16:37 +0000"
     },
     "done": true
   },
@@ -3648,87 +3612,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/hunter_pistol": {
     "criteria": {
       "has_lost_soul": "2024-12-07 04:16:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
-    "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2024-12-07 03:54:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_leggings_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/forlorn_leggings": {
-    "criteria": {
-      "has_item": "2024-12-07 06:16:45 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_robes_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-07 04:21:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/forlorn_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-07 06:16:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_button": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_hoe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-07 04:55:55 +0000"
     },
     "done": true
   },
@@ -3738,123 +3624,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-12-07 04:32:51 +0000"
-    },
-    "done": true
-  },
-  "zenith:enchanting/bookshelf": {
-    "criteria": {
-      "bookshelf": "2024-12-07 05:46:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-07 04:23:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2024-12-07 03:42:17 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/translucent_glaive": {
-    "criteria": {
-      "has_item": "2024-12-07 04:21:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2024-12-07 03:42:17 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/translucent_double_greatsword": {
-    "criteria": {
-      "has_item": "2024-12-07 04:21:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/decorations/chungus_monolith": {
-    "criteria": {
-      "has_item": "2024-12-07 03:57:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2024-12-07 06:07:58 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/forlorn_boots": {
-    "criteria": {
-      "has_item": "2024-12-07 06:16:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/blunderbuss": {
     "criteria": {
       "has_lost_soul": "2024-12-07 04:16:43 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/translucent_sword": {
-    "criteria": {
-      "has_item": "2024-12-07 04:21:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lodestone": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/void_lily": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-07 04:55:55 +0000"
     },
     "done": true
   },
@@ -3864,69 +3636,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-07 04:23:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_robes_helmet": {
-    "criteria": {
-      "has_item": "2024-12-07 04:21:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2024-12-07 05:41:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/featherlight": {
-    "criteria": {
-      "has_item": "2024-12-07 04:55:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-07 04:55:55 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/misc/iron_skull": {
     "criteria": {
       "has_item": "2024-12-07 04:16:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-07 04:55:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/netherite_block": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2024-12-07 04:18:12 +0000"
     },
     "done": true
   },
@@ -3936,117 +3648,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2024-12-07 06:01:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-07 04:23:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_boots_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2024-12-07 06:01:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_shovel_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2024-12-07 04:18:12 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/netherite": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2024-12-07 04:05:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-07 04:23:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/silver_bullet": {
     "criteria": {
       "has_lost_soul": "2024-12-07 04:16:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2024-12-07 06:16:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_ingot_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-07 04:21:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-12-07 03:54:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_axe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
     },
     "done": true
   },
@@ -4056,69 +3660,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_ingot_boots": {
-    "criteria": {
-      "has_item": "2024-12-07 04:21:20 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/hunter_cannon": {
     "criteria": {
       "has_lost_soul": "2024-12-07 04:16:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2024-12-07 03:17:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2024-12-07 05:41:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
     },
     "done": true
   },
@@ -4128,39 +3672,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+  "soulsweapons:recipes/combat/gatling_gun": {
     "criteria": {
-      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
+      "has_lost_soul": "2024-12-07 04:16:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
+  "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
-      "has_amethyst_shard": "2024-12-07 04:55:55 +0000"
+      "has_red_wool": "2024-12-07 04:18:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+  "minecraft:recipes/decorations/red_banner": {
     "criteria": {
-      "has_deepslate_tiles": "2024-12-07 04:23:44 +0000"
+      "has_red_wool": "2024-12-07 04:18:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+  "travelersbackpack:recipes/decorations/red_sleeping_bag": {
     "criteria": {
-      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
+      "has_red_wool": "2024-12-07 04:18:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+  "minecraft:recipes/decorations/red_bed": {
     "criteria": {
-      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
+      "has_red_wool": "2024-12-07 04:18:12 +0000"
     },
     "done": true
   },
-  "lootr:100loot": {
+  "soulsweapons:recipes/combat/soul_ingot_leggings": {
     "criteria": {
-      "loot_stat": "2024-12-07 03:56:07 +0000"
+      "has_item": "2024-12-07 04:21:20 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_leggings": {
+    "criteria": {
+      "has_item": "2024-12-07 04:21:20 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_helmet": {
+    "criteria": {
+      "has_item": "2024-12-07 04:21:20 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-07 04:21:20 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/translucent_glaive": {
+    "criteria": {
+      "has_item": "2024-12-07 04:21:20 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/translucent_double_greatsword": {
+    "criteria": {
+      "has_item": "2024-12-07 04:21:20 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/translucent_sword": {
+    "criteria": {
+      "has_item": "2024-12-07 04:21:20 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_helmet": {
+    "criteria": {
+      "has_item": "2024-12-07 04:21:20 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-07 04:21:20 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_boots": {
+    "criteria": {
+      "has_item": "2024-12-07 04:21:20 +0000"
     },
     "done": true
   },
@@ -4170,15 +3768,111 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/bloodthirster": {
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
-      "has_item": "2024-12-07 06:16:45 +0000"
+      "has_deepslate_tiles": "2024-12-07 04:23:44 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
-      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
+      "has_deepslate_tiles": "2024-12-07 04:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-07 04:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-07 04:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-07 04:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-07 04:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-07 04:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
     },
     "done": true
   },
@@ -4194,39 +3888,9 @@
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2024-12-07 06:07:24 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/red_sleeping_bag": {
-    "criteria": {
-      "has_red_wool": "2024-12-07 04:18:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-07 04:25:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/gatling_gun": {
-    "criteria": {
-      "has_lost_soul": "2024-12-07 04:16:43 +0000"
     },
     "done": true
   },
@@ -4236,27 +3900,75 @@
     },
     "done": true
   },
-  "fwaystones:recipes/pocket_wormhole": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_nether_star": "2024-12-07 06:07:58 +0000"
+      "has_dandelion": "2024-12-07 04:32:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
-      "has_raw_copper": "2024-12-07 06:01:11 +0000"
+      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_bed": {
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
-      "has_red_wool": "2024-12-07 04:18:12 +0000"
+      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall": {
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
-      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
+      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-07 04:46:51 +0000"
     },
     "done": true
   },
@@ -4266,15 +3978,309 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 04:55:55 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 04:55:55 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/featherlight": {
+    "criteria": {
+      "has_item": "2024-12-07 04:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 04:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 04:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 04:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-07 05:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-07 05:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-07 05:43:15 +0000"
     },
     "done": true
   },
+  "zenith:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2024-12-07 05:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-07 06:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-07 06:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-07 06:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-07 06:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-07 06:07:58 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/pocket_wormhole": {
+    "criteria": {
+      "has_nether_star": "2024-12-07 06:07:58 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:uncertainty": {
     "criteria": {
       "items": "2024-12-07 06:07:58 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/forlorn_helmet": {
+    "criteria": {
+      "has_item": "2024-12-07 06:16:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/forlorn_leggings": {
+    "criteria": {
+      "has_item": "2024-12-07 06:16:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/forlorn_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-07 06:16:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/forlorn_boots": {
+    "criteria": {
+      "has_item": "2024-12-07 06:16:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bloodthirster": {
+    "criteria": {
+      "has_item": "2024-12-07 06:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-07 06:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-07 06:17:32 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:hallowheart": {
+    "criteria": {
+      "items": "2024-12-07 06:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-07 19:22:02 +0000"
     },
     "done": true
   },
