@@ -1751,6 +1751,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "pillager_outpost": "2024-12-07 20:01:48 +0000",
       "illager_camp": "2024-12-06 01:26:11 +0000"
     },
     "done": false
@@ -4320,6 +4321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-07 19:57:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-07 19:51:45 +0000"
@@ -4353,6 +4360,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-07 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2024-12-07 20:01:48 +0000"
     },
     "done": true
   },
