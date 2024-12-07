@@ -4876,6 +4876,12 @@
     },
     "done": true
   },
+  "soulsweapons:hunter_pistol": {
+    "criteria": {
+      "weapon": "2024-12-07 21:54:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2024-12-07 20:06:20 +0000"
@@ -5047,6 +5053,12 @@
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2024-12-07 20:37:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:gatling_gun": {
+    "criteria": {
+      "weapon": "2024-12-07 21:55:48 +0000"
     },
     "done": true
   },
