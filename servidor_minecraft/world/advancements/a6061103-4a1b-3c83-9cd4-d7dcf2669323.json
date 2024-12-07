@@ -3008,6 +3008,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-07 00:04:19 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:end_of_reigns": {
     "criteria": {
       "soulsweapons:accursed_lord_boss": "2024-12-06 23:36:32 +0000"
@@ -3104,6 +3110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-07 00:04:19 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/leviathan_axe_left": {
     "criteria": {
       "has_item": "2024-12-06 23:36:33 +0000"
@@ -3137,6 +3149,12 @@
   "travelersbackpack:recipes/misc/wither": {
     "criteria": {
       "has_wither_skeleton_skull": "2024-12-06 22:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-07 00:04:19 +0000"
     },
     "done": true
   },
@@ -3194,6 +3212,12 @@
     },
     "done": true
   },
+  "zenith:affix/chests": {
+    "criteria": {
+      "sword": "2024-12-07 00:04:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-12-06 22:53:09 +0000"
@@ -3230,6 +3254,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2024-12-07 00:04:04 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/lich_bane": {
     "criteria": {
       "has_item": "2024-12-06 23:36:33 +0000"
@@ -3251,6 +3281,12 @@
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-06 23:35:52 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2024-12-07 00:03:59 +0000"
     },
     "done": true
   },
@@ -3311,6 +3347,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-06 22:51:59 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2024-12-07 00:04:04 +0000"
     },
     "done": true
   },
