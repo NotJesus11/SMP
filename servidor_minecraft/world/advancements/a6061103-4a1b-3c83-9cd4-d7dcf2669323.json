@@ -2942,7 +2942,8 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
-      "draugr": "2024-12-06 22:14:55 +0000"
+      "draugr": "2024-12-06 22:14:55 +0000",
+      "bluemoon_great": "2024-12-07 00:45:13 +0000"
     },
     "done": false
   },
@@ -3628,6 +3629,12 @@
     },
     "done": true
   },
+  "soulsweapons:bluemoon_tools": {
+    "criteria": {
+      "soulsweapons:bluemoon_greatsword": "2024-12-07 00:45:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-07 00:19:02 +0000"
@@ -3745,6 +3752,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-07 00:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-07 00:48:31 +0000"
     },
     "done": true
   },

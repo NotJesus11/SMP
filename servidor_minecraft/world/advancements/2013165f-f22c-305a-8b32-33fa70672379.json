@@ -141,6 +141,7 @@
       "minecraft:jungle": "2024-12-06 02:39:53 +0000",
       "minecraft:warm_ocean": "2024-12-06 03:20:45 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-06 07:09:27 +0000",
+      "minecraft:frozen_peaks": "2024-12-07 00:43:40 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-06 07:03:38 +0000",
       "minecraft:savanna": "2024-12-05 23:30:51 +0000",
       "minecraft:plains": "2024-12-06 07:00:32 +0000"
@@ -153,6 +154,7 @@
       "darkmoon_longbow": "2024-12-06 23:27:09 +0000",
       "soul_reaper": "2024-12-07 00:37:07 +0000",
       "darkin_blade": "2024-12-06 22:59:32 +0000",
+      "comet_spear": "2024-12-07 00:51:09 +0000",
       "draugr": "2024-12-06 22:11:55 +0000",
       "nightfall": "2024-12-05 23:27:18 +0000"
     },
@@ -3887,6 +3889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-07 00:48:42 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
     "criteria": {
       "has_lost_soul": "2024-12-07 00:34:56 +0000"
@@ -3911,6 +3919,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 00:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-07 00:48:42 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/building_blocks/soulfire_stain": {
     "criteria": {
       "has_item": "2024-12-07 00:34:56 +0000"
@@ -3920,6 +3940,12 @@
   "soulsweapons:recipes/combat/translucent_glaive": {
     "criteria": {
       "has_item": "2024-12-07 00:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-07 00:48:42 +0000"
     },
     "done": true
   },
@@ -3947,9 +3973,21 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 00:44:19 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/building_blocks/infused_blackstone": {
     "criteria": {
       "has_item": "2024-12-07 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-07 00:46:54 +0000"
     },
     "done": true
   },
@@ -3959,9 +3997,27 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/featherlight": {
+    "criteria": {
+      "has_item": "2024-12-07 00:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 00:44:19 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/misc/iron_skull": {
     "criteria": {
       "has_item": "2024-12-07 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 00:44:19 +0000"
     },
     "done": true
   },
@@ -4034,6 +4090,18 @@
   "soulsweapons:recipes/decorations/soul_lamp": {
     "criteria": {
       "has_item": "2024-12-07 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-07 00:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 00:44:19 +0000"
     },
     "done": true
   },
