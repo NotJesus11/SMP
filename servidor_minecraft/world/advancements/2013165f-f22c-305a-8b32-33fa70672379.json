@@ -1184,6 +1184,7 @@
       "minecraft:cave_spider": "2024-12-07 04:05:25 +0000",
       "minecraft:piglin": "2024-12-06 23:25:38 +0000",
       "minecraft:enderman": "2024-12-06 22:34:01 +0000",
+      "minecraft:silverfish": "2024-12-07 20:36:37 +0000",
       "minecraft:zombie": "2024-12-06 00:20:34 +0000",
       "minecraft:zombie_villager": "2024-12-06 22:23:12 +0000"
     },
@@ -4849,6 +4850,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-12-07 20:37:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2024-12-07 19:58:50 +0000"
@@ -4891,6 +4898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-12-07 20:37:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2024-12-07 20:25:23 +0000"
@@ -4921,6 +4934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-12-07 20:37:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2024-12-07 20:19:24 +0000"
@@ -4945,15 +4964,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-12-07 20:35:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-07 20:06:20 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-12-07 20:35:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2024-12-07 19:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-12-07 20:37:43 +0000"
     },
     "done": true
   },
