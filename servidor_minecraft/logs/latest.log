@@ -43,3 +43,183 @@
 [00:09:15] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> ami me dieron hacha xd
 [00:09:19] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> a
 [00:09:30] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> entonces si vamos al overwolrd?
+[00:09:34] [Server thread/INFO]: [Not Secure] <SxidFlxao> un pico legendario xd
+[00:09:49] [Server thread/INFO]: [Not Secure] <SxidFlxao> tienes obsidiana?
+[00:09:59] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> 5
+[00:10:10] [Server thread/INFO]: NotTrainok[/127.49.151.250:47927] logged in with entity id 26803 at (161.70638023551732, 23.0, 1255.1948361658947)
+[00:10:10] [Server thread/INFO]: Sending server config values to client
+[00:10:10] [Server thread/INFO]: Syncing config to NotTrainok (2013165f-f22c-305a-8b32-33fa70672379)
+[00:10:10] [Server thread/INFO]: Loading config from file...
+[00:10:10] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[00:10:10] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player NotTrainok. Claiming: GRAVE / Robbing: INVENTORY
+[00:10:10] [Server thread/INFO]: NotTrainok joined the game
+[00:10:12] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> en la cosa de aquel, otro jefe hay
+[00:10:13] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> raiden
+[00:10:18] [Server thread/INFO]: [Not Secure] <NotTrainok> e
+[00:10:20] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> ven a agarrar estas cosas del cofre
+[00:10:35] [Server thread/INFO]: [Not Secure] <SxidFlxao> pq los dos tienen el filete infinito
+[00:10:41] [Server thread/INFO]: [Not Secure] <NotTrainok> namas el ojo
+[00:10:43] [Server thread/INFO]: [Not Secure] <NotTrainok> ?
+[00:10:45] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> si
+[00:10:51] [Server thread/INFO]: [Not Secure] <SxidFlxao> a mí me dió un pico de mas
+[00:10:54] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> bueno ami me dieron un hacha
+[00:11:13] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> yo lo consegui en una aldea xd,raiden nose creo q tmb
+[00:11:23] [Server thread/INFO]: [Not Secure] <NotTrainok> me lo dropeo una vaca xd
+[00:11:24] [Server thread/INFO]: [Not Secure] <SxidFlxao> JAJAJJAJAJA
+[00:11:30] [Server thread/INFO]: [Not Secure] <NotTrainok> buena
+[00:11:54] [Server thread/INFO]: [Not Secure] <SxidFlxao> raiden mira
+[00:12:07] [Server thread/INFO]: [Not Secure] <NotTrainok> si ya me lo enseñaste
+[00:12:20] [Server thread/INFO]: [Not Secure] <NotTrainok> que tal el combate?
+[00:12:20] [Server thread/INFO]: [Not Secure] <SxidFlxao> la velocidad tmb?
+[00:12:20] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> aguanten
+[00:12:31] [Server thread/INFO]: [Not Secure] <SxidFlxao> solo el ojo me trackeo a mi
+[00:12:36] [Server thread/INFO]: [Not Secure] <NotTrainok> xd
+[00:12:55] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> el said se escondio bajo tierra
+[00:13:01] [Server thread/INFO]: [Not Secure] <NotTrainok> JAJAJJAJ
+[00:13:02] [Server thread/INFO]: [Not Secure] <SxidFlxao> me rompió la armor
+[00:13:08] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> ._.
+[00:13:23] [Server thread/INFO]: SxidFlxao has completed the challenge [Subspace Bubble]
+[00:13:24] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> mira con la armor q ando nomames
+[00:13:24] [Server thread/INFO]: [Not Secure] <NotTrainok> venimos full armados y mirenos
+[00:13:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10737ms or 214 ticks behind
+[00:13:25] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> lit una pechera de hierro y unas botas
+[00:13:27] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=217, y=48, z=159}
+[00:13:29] [Server thread/INFO]: Dxn1el_Is has completed the challenge [Subspace Bubble]
+[00:13:31] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=1283, y=34, z=9799}
+[00:13:34] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=1415, y=-24, z=9845}
+[00:13:36] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=1396, y=-54, z=9747}
+[00:13:36] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=1419, y=-50, z=9792}
+[00:13:36] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-284, y=26, z=-592}
+[00:13:36] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-284, y=27, z=-592}
+[00:13:36] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-275, y=27, z=-591}
+[00:13:36] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-282, y=35, z=-587}
+[00:13:36] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=1264, y=25, z=9786}
+[00:13:36] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=1248, y=-15, z=9785}
+[00:13:37] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=1357, y=12, z=9688}
+[00:13:38] [Server thread/INFO]: NotTrainok has completed the challenge [Subspace Bubble]
+[00:13:38] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> JAJAJ
+[00:13:42] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=1242, y=31, z=9665}
+[00:13:44] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=1235, y=76, z=9854}
+[00:13:45] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=1444, y=-51, z=9794}
+[00:13:50] [Server thread/INFO]: [Not Secure] <NotTrainok> sato
+[00:13:50] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-305, y=29, z=-624}
+[00:13:50] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-309, y=29, z=-624}
+[00:13:50] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-301, y=29, z=-624}
+[00:13:50] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-309, y=29, z=-629}
+[00:13:50] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-305, y=29, z=-629}
+[00:13:50] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-301, y=29, z=-629}
+[00:13:51] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=1231, y=68, z=9852}
+[00:13:51] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=1262, y=-33, z=9883}
+[00:13:53] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=1261, y=6, z=9647}
+[00:13:53] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=1396, y=-38, z=9638}
+[00:13:55] [Server thread/INFO]: [Not Secure] <NotTrainok> tu amigo andaba ahi
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-499, y=-58, z=-554}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-500, y=-58, z=-554}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-501, y=-58, z=-554}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-501, y=-58, z=-561}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-498, y=-58, z=-555}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-501, y=-58, z=-560}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-501, y=-58, z=-558}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-337, y=30, z=-594}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-337, y=29, z=-593}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-338, y=29, z=-593}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-340, y=30, z=-591}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-339, y=29, z=-591}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-339, y=29, z=-592}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-339, y=29, z=-590}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-337, y=29, z=-589}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-338, y=29, z=-589}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-339, y=24, z=-591}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-337, y=30, z=-588}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-336, y=29, z=-593}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-334, y=30, z=-591}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-336, y=29, z=-589}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-335, y=29, z=-590}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-335, y=29, z=-591}
+[00:13:57] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-335, y=29, z=-592}
+[00:13:58] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=1282, y=-29, z=9903}
+[00:14:00] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=1192, y=-9, z=9802}
+[00:14:02] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=1357, y=-27, z=9613}
+[00:14:03] [Server thread/INFO]: NotTrainok has made the advancement [I Found It Underground]
+[00:14:06] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-191, y=28, z=-589}
+[00:14:06] [Worker-Main-20/ERROR]: Hanging entity at invalid position: class_2338{x=-191, y=28, z=-587}
+[00:14:15] [Worker-Main-20/WARN]: Tried to access a block entity before it was created. class_2338{x=1241, y=79, z=9936}
+[00:14:15] [Worker-Main-20/WARN]: Tried to access a block entity before it was created. class_2338{x=1241, y=79, z=9936}
+[00:14:15] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-330, y=27, z=-542}
+[00:14:15] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-329, y=27, z=-542}
+[00:14:15] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-329, y=32, z=-542}
+[00:14:16] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-371, y=27, z=-561}
+[00:14:16] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-372, y=27, z=-561}
+[00:14:16] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-373, y=27, z=-561}
+[00:14:18] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-193, y=-45, z=-211}
+[00:14:18] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-183, y=-57, z=-210}
+[00:14:18] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-187, y=-49, z=-219}
+[00:14:18] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-189, y=-45, z=-211}
+[00:14:18] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-191, y=-45, z=-211}
+[00:14:21] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=1154, y=36, z=9720}
+[00:14:21] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=-183, y=-57, z=-201}
+[00:14:21] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=-183, y=-58, z=-205}
+[00:14:26] [Server thread/INFO]: [Not Secure] <SxidFlxao> sato te regalo
+[00:14:28] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=1137, y=-8, z=9638}
+[00:14:28] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=1151, y=26, z=9692}
+[00:14:30] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=1525, y=-45, z=9670}
+[00:14:33] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-355, y=26, z=-545}
+[00:14:33] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-355, y=26, z=-541}
+[00:14:34] [Server thread/INFO]: [Not Secure] <SxidFlxao> digo
+[00:14:34] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-257, y=27, z=-591}
+[00:14:34] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-253, y=27, z=-591}
+[00:14:34] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-250, y=27, z=-586}
+[00:14:34] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=1179, y=20, z=9936}
+[00:14:34] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=1194, y=32, z=9941}
+[00:14:37] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> ola
+[00:14:38] [Server thread/INFO]: [Not Secure] <SxidFlxao> raiden XD
+[00:14:38] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=-250, y=27, z=-536}
+[00:14:38] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=-251, y=27, z=-536}
+[00:14:38] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=-250, y=28, z=-536}
+[00:14:38] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=-251, y=28, z=-536}
+[00:14:38] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=-252, y=27, z=-536}
+[00:14:38] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=-252, y=28, z=-536}
+[00:14:38] [Server thread/WARN]: Tried to load a block entity for block Block{fwaystones:waystone}[active=false,facing=west,generated=true,half=upper,mossy=false,waterlogged=false] but failed at location class_2338{x=1241, y=79, z=9936}
+[00:14:41] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> a.
+[00:14:50] [Server thread/INFO]: [Not Secure] <NotTrainok> ala
+[00:15:02] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-235, y=27, z=-544}
+[00:15:02] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-234, y=32, z=-539}
+[00:15:02] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-330, y=27, z=-542}
+[00:15:02] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-329, y=27, z=-542}
+[00:15:02] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-329, y=32, z=-542}
+[00:15:02] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-252, y=27, z=-536}
+[00:15:02] [Worker-Main-22/ERROR]: Hanging entity at invalid position: class_2338{x=-252, y=28, z=-536}
+[00:15:02] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=-250, y=27, z=-536}
+[00:15:02] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=-251, y=27, z=-536}
+[00:15:02] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=-250, y=28, z=-536}
+[00:15:02] [Worker-Main-21/ERROR]: Hanging entity at invalid position: class_2338{x=-251, y=28, z=-536}
+[00:15:04] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=1277, y=64, z=9964}
+[00:15:07] [Server thread/INFO]: [Not Secure] <SxidFlxao> hermani tengo todo full velocidad
+[00:15:18] [Server thread/INFO]: [Not Secure] <NotTrainok> arriba esta god para base creo
+[00:15:26] [Server thread/INFO]: Dxn1el_Is lost connection: Disconnected
+[00:15:26] [Server thread/INFO]: Dxn1el_Is left the game
+[00:15:34] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=1323, y=4, z=9968}
+[00:15:34] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=1446, y=-23, z=9969}
+[00:15:57] [Server thread/INFO]: [Not Secure] <NotTrainok> aqui hay mucho hilo
+[00:15:59] [Server thread/INFO]: [Not Secure] <NotTrainok> xd
+[00:17:16] [Server thread/INFO]: Dxn1el_Is[/127.13.100.130:46629] logged in with entity id 28175 at (1302.300000011921, 3.0, 9772.584120233494)
+[00:17:16] [Server thread/INFO]: Sending server config values to client
+[00:17:16] [Server thread/INFO]: Syncing config to Dxn1el_Is (a6061103-4a1b-3c83-9cd4-d7dcf2669323)
+[00:17:16] [Server thread/INFO]: Loading config from file...
+[00:17:16] [Server thread/INFO]: Dxn1el_Is joined the game
+[00:17:18] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[00:17:18] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Dxn1el_Is. Claiming: GRAVE / Robbing: INVENTORY
+[00:17:58] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> voy preparando la musica de ozuna por si me aparece esa mamada
+[00:18:07] [Server thread/INFO]: [Not Secure] <NotTrainok> xd
+[00:18:08] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=1089, y=28, z=9916}
+[00:18:19] [Server thread/INFO]: [Not Secure] <SxidFlxao> te pega y sale volando bro
+[00:18:25] [Server thread/INFO]: [Not Secure] <NotTrainok> lit
+[00:18:36] [Server thread/INFO]: [Not Secure] <NotTrainok> lo matamos con espada de hierro bro
+[00:18:39] [Server thread/INFO]: [Not Secure] <NotTrainok> al inicio
+[00:18:42] [Server thread/INFO]: [Not Secure] <NotTrainok> sin armor
+[00:18:50] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> XD
+[00:18:50] [Server thread/INFO]: [Not Secure] <SxidFlxao> me pegaba a mi cbron
+[00:19:00] [Server thread/INFO]: [Not Secure] <NotTrainok> calla
+[00:19:05] [Server thread/INFO]: [Not Secure] <NotTrainok> pero no te mato
+[00:19:16] [Server thread/INFO]: [Not Secure] <NotTrainok> pta
+[00:19:20] [Server thread/INFO]: [Not Secure] <NotTrainok> es montaña jajajj

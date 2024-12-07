@@ -2944,39 +2944,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-06 22:51:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
-    "criteria": {
-      "has_red_nether_bricks": "2024-12-06 23:35:52 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/moonlight_greatsword": {
-    "criteria": {
-      "has_lord_soul": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-06 22:29:04 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/dragonslayer_swordspear": {
-    "criteria": {
-      "has_item": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-06 22:51:59 +0000"
     },
     "done": true
   },
@@ -2986,9 +2956,9 @@
     },
     "done": true
   },
-  "soulsweapons:lord_soul": {
+  "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "soul": "2024-12-06 23:36:33 +0000"
+      "has_flint": "2024-12-06 22:29:21 +0000"
     },
     "done": true
   },
@@ -3002,297 +2972,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/dawnbreaker": {
-    "criteria": {
-      "has_lord_soul": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2024-12-07 00:04:19 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:end_of_reigns": {
-    "criteria": {
-      "soulsweapons:accursed_lord_boss": "2024-12-06 23:36:32 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/darkin_scythe_pre": {
-    "criteria": {
-      "has_item": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_reaper": {
-    "criteria": {
-      "has_item": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-06 22:31:13 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/leviathan_axe_right": {
-    "criteria": {
-      "has_item": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2024-12-06 22:29:21 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/kraken_slayer": {
-    "criteria": {
-      "has_item": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/draupnir_spear": {
-    "criteria": {
-      "has_item": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-12-06 22:39:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2024-12-06 23:35:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_stairs": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-06 22:51:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/holy_moonlight_sword": {
-    "criteria": {
-      "has_lord_soul": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-06 22:47:02 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/moonlight_shortsword": {
-    "criteria": {
-      "has_lord_soul": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2024-12-07 00:04:19 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/leviathan_axe_left": {
-    "criteria": {
-      "has_item": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
-  "zenith:affix/epic": {
-    "criteria": {
-      "sword": "2024-12-06 22:50:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/comet_spear": {
-    "criteria": {
-      "has_item": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:nether/find_nether_skeleton": {
-    "criteria": {
-      "minecraft:fortress": "2024-12-06 22:36:18 +0000"
-    },
-    "done": false
-  },
-  "travelersbackpack:recipes/misc/wither": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2024-12-06 22:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2024-12-07 00:04:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2024-12-06 22:46:38 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/mjolnir": {
-    "criteria": {
-      "has_item": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-06 22:51:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_button": {
-    "criteria": {
-      "has_planks": "2024-12-06 22:47:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
-    "criteria": {
-      "has_red_nether_bricks": "2024-12-06 23:35:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-06 22:47:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-06 22:47:02 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/darkin_blade": {
-    "criteria": {
-      "has_lord_soul": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_sign": {
-    "criteria": {
-      "has_planks": "2024-12-06 22:47:02 +0000"
-    },
-    "done": true
-  },
-  "zenith:affix/chests": {
-    "criteria": {
-      "sword": "2024-12-07 00:04:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_fence": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/freyr_sword": {
-    "criteria": {
-      "has_item": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_door": {
-    "criteria": {
-      "has_planks": "2024-12-06 22:47:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2024-12-06 23:35:52 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/master_sword": {
-    "criteria": {
-      "has_lord_soul": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2024-12-06 23:19:21 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/levitation_block": {
-    "criteria": {
-      "has_blazing_eye": "2024-12-07 00:04:04 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/lich_bane": {
-    "criteria": {
-      "has_item": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
-    "criteria": {
-      "has_polished_blackstone_slab": "2024-12-06 23:19:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2024-12-06 23:35:52 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
-    "criteria": {
-      "bosses_of_mass_destruction:gauntlet": "2024-12-07 00:03:59 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/galeforce": {
-    "criteria": {
-      "has_item": "2024-12-06 23:36:33 +0000"
     },
     "done": true
   },
@@ -3302,75 +2984,39 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/rageblade": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_item": "2024-12-06 23:36:33 +0000"
+      "has_netherrack": "2024-12-06 22:31:28 +0000"
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
-      "wither_skull": "2024-12-06 22:57:38 +0000"
+      "minecraft:fortress": "2024-12-06 22:36:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-06 22:36:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/warped_pressure_plate": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "has_planks": "2024-12-06 22:47:02 +0000"
+      "has_glowstone_dust": "2024-12-06 22:36:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
+      "has_glowstone_dust": "2024-12-06 22:36:52 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/nightfall": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_item": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-06 22:51:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_slab": {
-    "criteria": {
-      "has_planks": "2024-12-06 22:47:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-06 22:51:59 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/blast_amplifier": {
-    "criteria": {
-      "has_blazing_eye": "2024-12-07 00:04:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-12-06 23:19:21 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/frostmourne": {
-    "criteria": {
-      "has_item": "2024-12-06 23:36:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
+      "blaze_rod": "2024-12-06 22:39:30 +0000"
     },
     "done": true
   },
@@ -3392,21 +3038,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-06 22:51:59 +0000"
+      "has_blaze_rod": "2024-12-06 22:39:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
-      "has_glowstone_dust": "2024-12-06 22:36:52 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/whirligig_sawblade": {
-    "criteria": {
-      "has_item": "2024-12-06 23:36:33 +0000"
+      "has_log": "2024-12-06 22:46:38 +0000"
     },
     "done": true
   },
@@ -3416,15 +3056,387 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+  "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
-      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
+      "has_planks": "2024-12-06 22:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2024-12-06 22:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-06 22:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-06 22:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2024-12-06 22:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2024-12-06 22:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-06 22:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2024-12-06 22:47:02 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2024-12-06 22:47:02 +0000"
+    },
+    "done": true
+  },
+  "zenith:affix/epic": {
+    "criteria": {
+      "sword": "2024-12-06 22:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-06 22:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-06 22:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-06 22:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-06 22:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-06 22:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-06 22:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-06 22:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-06 22:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-06 22:57:38 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2024-12-06 22:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-06 22:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-06 23:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-06 23:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-06 23:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2024-12-06 23:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-06 23:35:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-06 23:35:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-06 23:35:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-06 23:35:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-06 23:35:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-06 23:35:52 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:end_of_reigns": {
+    "criteria": {
+      "soulsweapons:accursed_lord_boss": "2024-12-06 23:36:32 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/moonlight_greatsword": {
+    "criteria": {
+      "has_lord_soul": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragonslayer_swordspear": {
+    "criteria": {
+      "has_item": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:lord_soul": {
+    "criteria": {
+      "soul": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dawnbreaker": {
+    "criteria": {
+      "has_lord_soul": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/darkin_scythe_pre": {
+    "criteria": {
+      "has_item": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_reaper": {
+    "criteria": {
+      "has_item": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/leviathan_axe_right": {
+    "criteria": {
+      "has_item": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/kraken_slayer": {
+    "criteria": {
+      "has_item": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/draupnir_spear": {
+    "criteria": {
+      "has_item": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/holy_moonlight_sword": {
+    "criteria": {
+      "has_lord_soul": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/moonlight_shortsword": {
+    "criteria": {
+      "has_lord_soul": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/leviathan_axe_left": {
+    "criteria": {
+      "has_item": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/mjolnir": {
+    "criteria": {
+      "has_item": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/darkin_blade": {
+    "criteria": {
+      "has_lord_soul": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/freyr_sword": {
+    "criteria": {
+      "has_item": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/master_sword": {
+    "criteria": {
+      "has_lord_soul": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/lich_bane": {
+    "criteria": {
+      "has_item": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/galeforce": {
+    "criteria": {
+      "has_item": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/rageblade": {
+    "criteria": {
+      "has_item": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/nightfall": {
+    "criteria": {
+      "has_item": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/frostmourne": {
+    "criteria": {
+      "has_item": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/whirligig_sawblade": {
+    "criteria": {
+      "has_item": "2024-12-06 23:36:33 +0000"
     },
     "done": true
   },
@@ -3440,60 +3452,6 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/withered_wabbajack": {
-    "criteria": {
-      "has_item": "2024-12-06 22:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-06 22:53:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2024-12-06 23:35:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2024-12-06 22:36:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2024-12-06 22:36:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2024-12-06 22:31:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2024-12-06 22:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2024-12-06 23:19:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2024-12-06 22:39:30 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/skofnung": {
     "criteria": {
       "has_lord_soul": "2024-12-06 23:36:33 +0000"
@@ -3503,6 +3461,54 @@
   "soulsweapons:recipes/combat/forlorn_scythe": {
     "criteria": {
       "has_item": "2024-12-06 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2024-12-07 00:03:59 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2024-12-07 00:04:04 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2024-12-07 00:04:04 +0000"
+    },
+    "done": true
+  },
+  "zenith:affix/chests": {
+    "criteria": {
+      "sword": "2024-12-07 00:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-07 00:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-07 00:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-07 00:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2024-12-07 00:13:29 +0000"
     },
     "done": true
   },
