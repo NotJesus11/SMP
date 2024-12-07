@@ -139,9 +139,11 @@
       "minecraft:deep_cold_ocean": "2024-12-06 07:02:05 +0000",
       "minecraft:desert": "2024-12-06 01:01:55 +0000",
       "minecraft:jungle": "2024-12-06 02:39:53 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-07 01:22:58 +0000",
       "minecraft:warm_ocean": "2024-12-06 03:20:45 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-06 07:09:27 +0000",
       "minecraft:frozen_peaks": "2024-12-07 00:43:40 +0000",
+      "minecraft:meadow": "2024-12-07 01:17:30 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-06 07:03:38 +0000",
       "minecraft:savanna": "2024-12-05 23:30:51 +0000",
       "minecraft:plains": "2024-12-06 07:00:32 +0000"
@@ -3859,9 +3861,147 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2024-12-07 00:10:33 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2024-12-07 00:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2024-12-07 00:13:38 +0000"
+    },
+    "done": true
+  },
+  "zenith:affix/chests": {
+    "criteria": {
+      "sword": "2024-12-07 00:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-07 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-07 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-07 00:17:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2024-12-07 00:30:52 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/soul_lantern_lost_soul": {
+    "criteria": {
+      "has_item": "2024-12-07 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
+    "criteria": {
+      "has_lost_soul": "2024-12-07 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/hunter_pistol": {
+    "criteria": {
+      "has_lost_soul": "2024-12-07 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/soulfire_stain": {
+    "criteria": {
+      "has_item": "2024-12-07 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/blunderbuss": {
+    "criteria": {
+      "has_lost_soul": "2024-12-07 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/infused_blackstone": {
+    "criteria": {
+      "has_item": "2024-12-07 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/iron_skull": {
+    "criteria": {
+      "has_item": "2024-12-07 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/soul_ingot": {
+    "criteria": {
+      "has_item": "2024-12-07 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/silver_bullet": {
+    "criteria": {
+      "has_lost_soul": "2024-12-07 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/cracked_infused_blackstone": {
+    "criteria": {
+      "has_item": "2024-12-07 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/hunter_cannon": {
+    "criteria": {
+      "has_lost_soul": "2024-12-07 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/soul_lamp": {
+    "criteria": {
+      "has_item": "2024-12-07 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/gatling_gun": {
+    "criteria": {
+      "has_lost_soul": "2024-12-07 00:34:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-12-07 00:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-07 00:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-07 00:35:38 +0000"
     },
     "done": true
   },
@@ -3883,57 +4023,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/decorations/soul_lantern_lost_soul": {
-    "criteria": {
-      "has_item": "2024-12-07 00:34:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2024-12-07 00:48:42 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
-    "criteria": {
-      "has_lost_soul": "2024-12-07 00:34:56 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/hunter_pistol": {
-    "criteria": {
-      "has_lost_soul": "2024-12-07 00:34:56 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/soul_robes_chestplate": {
     "criteria": {
       "has_item": "2024-12-07 00:36:19 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/guts_sword": {
-    "criteria": {
-      "has_item": "2024-12-07 00:35:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-07 00:44:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2024-12-07 00:48:42 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/building_blocks/soulfire_stain": {
-    "criteria": {
-      "has_item": "2024-12-07 00:34:56 +0000"
     },
     "done": true
   },
@@ -3943,21 +4035,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2024-12-07 00:48:42 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/translucent_double_greatsword": {
     "criteria": {
       "has_item": "2024-12-07 00:36:19 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/blunderbuss": {
-    "criteria": {
-      "has_lost_soul": "2024-12-07 00:34:56 +0000"
     },
     "done": true
   },
@@ -3967,33 +4047,39 @@
     },
     "done": true
   },
-  "zenith:affix/chests": {
+  "soulsweapons:recipes/combat/soul_robes_helmet": {
     "criteria": {
-      "sword": "2024-12-07 00:14:03 +0000"
+      "has_item": "2024-12-07 00:36:19 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-07 00:36:19 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_boots": {
+    "criteria": {
+      "has_item": "2024-12-07 00:36:19 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_boots": {
+    "criteria": {
+      "has_item": "2024-12-07 00:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 00:44:19 +0000"
     },
     "done": true
   },
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2024-12-07 00:44:19 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/building_blocks/infused_blackstone": {
-    "criteria": {
-      "has_item": "2024-12-07 00:34:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2024-12-07 00:46:54 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_robes_helmet": {
-    "criteria": {
-      "has_item": "2024-12-07 00:36:19 +0000"
     },
     "done": true
   },
@@ -4009,93 +4095,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/misc/iron_skull": {
-    "criteria": {
-      "has_item": "2024-12-07 00:34:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-07 00:44:19 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/soul_ingot": {
-    "criteria": {
-      "has_item": "2024-12-07 00:34:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2024-12-07 00:17:09 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/levitation_block": {
-    "criteria": {
-      "has_blazing_eye": "2024-12-07 00:10:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2024-12-07 00:17:09 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/silver_bullet": {
-    "criteria": {
-      "has_lost_soul": "2024-12-07 00:34:56 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_ingot_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-07 00:36:19 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/building_blocks/cracked_infused_blackstone": {
-    "criteria": {
-      "has_item": "2024-12-07 00:34:56 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_ingot_boots": {
-    "criteria": {
-      "has_item": "2024-12-07 00:36:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-12-07 00:35:38 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/hunter_cannon": {
-    "criteria": {
-      "has_lost_soul": "2024-12-07 00:34:56 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/blast_amplifier": {
-    "criteria": {
-      "has_blazing_eye": "2024-12-07 00:10:33 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/decorations/soul_lamp": {
-    "criteria": {
-      "has_item": "2024-12-07 00:34:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2024-12-07 00:45:25 +0000"
     },
     "done": true
   },
@@ -4105,33 +4107,117 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_robes_boots": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "has_item": "2024-12-07 00:36:19 +0000"
+      "has_cornflower": "2024-12-07 00:45:25 +0000"
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
-      "travelled": "2024-12-07 00:13:38 +0000"
+      "has_allium": "2024-12-07 00:46:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
-      "has_iron_block": "2024-12-07 00:35:38 +0000"
+      "has_ancient_debris": "2024-12-07 00:48:42 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/gatling_gun": {
+  "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
-      "has_lost_soul": "2024-12-07 00:34:56 +0000"
+      "has_ancient_debris": "2024-12-07 00:48:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
-      "has_raw_copper": "2024-12-07 00:17:09 +0000"
+      "ancient_debris": "2024-12-07 00:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-07 01:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-07 01:22:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2024-12-07 01:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-07 01:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-07 01:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-07 01:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-07 01:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-07 01:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-07 01:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-07 01:22:07 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2024-12-07 01:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-07 01:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-07 01:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-07 01:22:07 +0000"
     },
     "done": true
   },
