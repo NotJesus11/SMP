@@ -4792,5 +4792,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-08 07:24:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
