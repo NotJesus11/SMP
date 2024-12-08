@@ -3623,7 +3623,8 @@
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
       "minecraft:fortress": "2024-12-06 22:35:37 +0000",
-      "nova_structures:nether_skeleton_tower_warped": "2024-12-08 06:05:31 +0000"
+      "nova_structures:nether_skeleton_tower_warped": "2024-12-08 06:05:31 +0000",
+      "nova_structures:nether_port": "2024-12-08 06:36:16 +0000"
     },
     "done": false
   },
@@ -5204,6 +5205,24 @@
       "nova_structures:nether_skeleton_tower_warped": "2024-12-08 06:05:31 +0000"
     },
     "done": false
+  },
+  "nova_structures:nether/find_port": {
+    "criteria": {
+      "nova_structures:nether_port": "2024-12-08 06:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-08 06:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2024-12-08 06:37:07 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
