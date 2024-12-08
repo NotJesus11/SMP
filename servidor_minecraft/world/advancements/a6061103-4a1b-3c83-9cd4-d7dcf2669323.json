@@ -30,10 +30,14 @@
       "minecraft:sparse_jungle": "2024-12-06 22:24:19 +0000",
       "minecraft:river": "2024-12-06 01:24:53 +0000",
       "minecraft:lukewarm_ocean": "2024-12-06 22:01:29 +0000",
+      "minecraft:cold_ocean": "2024-12-08 07:45:13 +0000",
       "minecraft:forest": "2024-12-07 01:43:53 +0000",
+      "minecraft:frozen_ocean": "2024-12-08 08:01:46 +0000",
       "minecraft:desert": "2024-12-06 03:18:47 +0000",
       "minecraft:windswept_forest": "2024-12-07 04:15:57 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-08 08:01:33 +0000",
       "minecraft:jungle": "2024-12-06 03:16:03 +0000",
+      "minecraft:ocean": "2024-12-08 07:45:07 +0000",
       "minecraft:warm_ocean": "2024-12-06 03:20:42 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-06 22:01:45 +0000",
       "minecraft:savanna": "2024-12-06 00:12:44 +0000",
@@ -1253,7 +1257,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-12-06 01:50:08 +0000",
-      "opened_chest": "2024-12-06 01:52:17 +0000"
+      "opened_chest": "2024-12-06 01:52:17 +0000",
+      "opened_cart": "2024-12-08 08:00:44 +0000"
     },
     "done": false
   },
@@ -4795,6 +4800,42 @@
   "travelersbackpack:recipes/misc/ghast": {
     "criteria": {
       "has_ghast_tear": "2024-12-08 07:24:38 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2024-12-08 07:55:01 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-12-08 08:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-08 07:53:21 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2024-12-08 07:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-08 07:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-08 07:53:21 +0000"
     },
     "done": true
   },

@@ -138,8 +138,10 @@
       "minecraft:cold_ocean": "2024-12-06 07:01:05 +0000",
       "minecraft:forest": "2024-12-06 06:58:51 +0000",
       "minecraft:deep_cold_ocean": "2024-12-06 07:02:05 +0000",
+      "minecraft:frozen_ocean": "2024-12-08 08:01:53 +0000",
       "minecraft:desert": "2024-12-06 01:01:55 +0000",
       "minecraft:windswept_forest": "2024-12-07 01:32:23 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-08 08:00:39 +0000",
       "minecraft:jungle": "2024-12-06 02:39:53 +0000",
       "minecraft:ocean": "2024-12-07 05:51:47 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-07 01:22:58 +0000",
@@ -5239,6 +5241,42 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2024-12-08 07:22:26 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2024-12-08 07:57:42 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:void_blossom": "2024-12-08 07:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-08 07:51:13 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2024-12-08 07:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-08 07:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-08 07:51:13 +0000"
     },
     "done": true
   },
