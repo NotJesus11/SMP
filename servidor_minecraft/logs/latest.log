@@ -1182,3 +1182,16 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [01:45:06] [Server thread/INFO]: Dxn1el_Is lost connection: Disconnected
 [01:45:06] [Server thread/INFO]: Dxn1el_Is left the game
 [01:51:26] [Server thread/INFO]: [NotTrainok: Gave 20 experience levels to NotTrainok]
+[02:14:54] [Server thread/INFO]: NotTrainok lost connection: Disconnected
+[02:14:54] [Server thread/INFO]: NotTrainok left the game
+[02:14:58] [Server thread/INFO]: Stopping the server
+[02:14:58] [Server thread/INFO]: Stopping server
+[02:14:58] [Server thread/INFO]: Saving players
+[02:14:58] [Server thread/INFO]: Saving worlds
+[02:14:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:14:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:14:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:14:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:14:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:14:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:14:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
