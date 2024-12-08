@@ -5244,15 +5244,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-08 07:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-08 07:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-08 07:51:13 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:void_blossom": "2024-12-08 07:54:55 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
     "criteria": {
       "has_void_thorn": "2024-12-08 07:57:42 +0000"
     },
     "done": true
   },
-  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
     "criteria": {
-      "bosses_of_mass_destruction:lich": "2024-12-08 08:14:39 +0000"
+      "has_void_thorn": "2024-12-08 07:57:42 +0000"
     },
     "done": true
   },
@@ -5268,9 +5292,15 @@
     },
     "done": true
   },
-  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "bosses_of_mass_destruction:void_blossom": "2024-12-08 07:54:55 +0000"
+      "has_snowball": "2024-12-08 08:07:01 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2024-12-08 08:14:39 +0000"
     },
     "done": true
   },
@@ -5280,39 +5310,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2024-12-08 07:51:13 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/earthdive_spear": {
-    "criteria": {
-      "has_void_thorn": "2024-12-08 07:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2024-12-08 07:51:13 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:ender_of_world_ender": {
     "criteria": {
       "soulsweapons:chaos_monarch": "2024-12-08 08:20:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2024-12-08 07:51:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2024-12-08 08:07:01 +0000"
     },
     "done": true
   },
