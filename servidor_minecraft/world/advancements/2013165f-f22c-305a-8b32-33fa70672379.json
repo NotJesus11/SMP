@@ -165,6 +165,7 @@
       "darkin_blade": "2024-12-06 22:59:32 +0000",
       "moonlight_great": "2024-12-08 08:34:31 +0000",
       "comet_spear": "2024-12-07 00:51:09 +0000",
+      "wabbajack": "2024-12-08 08:50:29 +0000",
       "draugr": "2024-12-06 22:11:55 +0000",
       "nightfall": "2024-12-05 23:27:18 +0000",
       "bluemoon_great": "2024-12-07 01:57:02 +0000"
@@ -5334,6 +5335,12 @@
       "soulsweapons:moonlight_greatsword": "2024-12-08 08:34:31 +0000"
     },
     "done": true
+  },
+  "soulsweapons:lords_on_stick": {
+    "criteria": {
+      "wabbajack": "2024-12-08 08:50:29 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
