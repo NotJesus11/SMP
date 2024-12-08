@@ -4774,5 +4774,23 @@
     },
     "done": true
   },
+  "soulsweapons:hunter_pistol": {
+    "criteria": {
+      "weapon": "2024-12-08 07:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-08 07:22:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:gatling_gun": {
+    "criteria": {
+      "weapon": "2024-12-08 07:22:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
