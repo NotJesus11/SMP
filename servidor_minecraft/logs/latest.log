@@ -487,3 +487,21 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [00:39:46] [Server thread/INFO]: NotTrainok left the game
 [00:39:46] [Server thread/WARN]: handleDisconnection() called twice
 [00:51:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3493ms or 69 ticks behind
+[00:57:10] [Server thread/INFO]: NotTrainok[/127.49.151.250:46339] logged in with entity id 48983 at (-858.1404266435455, 226.0, 2.7353874480527165)
+[00:57:10] [Server thread/INFO]: Sending server config values to client
+[00:57:10] [Server thread/INFO]: Syncing config to NotTrainok (2013165f-f22c-305a-8b32-33fa70672379)
+[00:57:10] [Server thread/INFO]: Loading config from file...
+[00:57:10] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[00:57:11] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player NotTrainok. Claiming: GRAVE / Robbing: INVENTORY
+[00:57:11] [Server thread/INFO]: NotTrainok joined the game
+[00:57:13] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> ola
+[00:57:18] [Server thread/INFO]: [Not Secure] <NotTrainok> ola
+[00:57:56] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> sale mejor el loot de arriba de las torres que el de toda la torre,ya raideevarias y me forre de guita
+[00:58:07] [Server thread/INFO]: [Not Secure] <NotTrainok> god
+[00:58:43] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> tengo 14 enderpearls xd
+[00:59:02] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> afk
+[01:03:26] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> volvi
+[01:03:50] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> vamo a aquea
+[01:04:10] [Server thread/INFO]: [Not Secure] <NotTrainok> tluego hay que matar a la dragona para elytras y vamos por los otros jefes
+[01:04:21] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> pol
+[01:04:29] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> said:ijosdeputa
