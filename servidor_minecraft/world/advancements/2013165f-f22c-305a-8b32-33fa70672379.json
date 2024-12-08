@@ -163,6 +163,7 @@
       "darkin_scythe_pre": "2024-12-07 05:19:52 +0000",
       "soul_reaper": "2024-12-07 00:37:07 +0000",
       "darkin_blade": "2024-12-06 22:59:32 +0000",
+      "moonlight_great": "2024-12-08 08:34:31 +0000",
       "comet_spear": "2024-12-07 00:51:09 +0000",
       "draugr": "2024-12-06 22:11:55 +0000",
       "nightfall": "2024-12-05 23:27:18 +0000",
@@ -5313,6 +5314,24 @@
   "soulsweapons:ender_of_world_ender": {
     "criteria": {
       "soulsweapons:chaos_monarch": "2024-12-08 08:20:49 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/pure_moonlight_greatsword": {
+    "criteria": {
+      "has_item": "2024-12-08 08:34:30 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/chaos_orb": {
+    "criteria": {
+      "has_item": "2024-12-08 08:34:30 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonlight_tools": {
+    "criteria": {
+      "soulsweapons:moonlight_greatsword": "2024-12-08 08:34:31 +0000"
     },
     "done": true
   },
