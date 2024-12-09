@@ -1236,3 +1236,10 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [23:12:23] [Server thread/INFO]: NotTrainok was impaled on a stalagmite whilst fighting Fire Dragon
 [23:12:31] [Server thread/INFO]: [NotTrainok: Teleported NotTrainok to 1190.500000, 30.500000, 10843.500000]
 [23:12:33] [Server thread/INFO]: NotTrainok claimed a grave belonging to NotTrainok at 1190, 31, 10844, minecraft:overworld
+[23:17:06] [Server thread/INFO]: [NotTrainok: Set own game mode to Creative Mode]
+[23:17:12] [Server thread/INFO]: [NotTrainok: Teleported NotTrainok to 1159.500000, 98.500000, 10818.500000]
+[23:17:36] [Server thread/INFO]: NotTrainok has made the advancement [Dragonslayer]
+[23:17:40] [Server thread/INFO]: [NotTrainok: Set own game mode to Survival Mode]
+[23:18:51] [Server thread/INFO]: [NotTrainok: Gave 20 [Block of Dragon Scales] to NotTrainok]
+[23:19:07] [Server thread/INFO]: [NotTrainok: Gave 20 [Dragon Scales] to NotTrainok]
+[23:25:15] [Server thread/INFO]: NotTrainok has made the advancement [Gravedigger]
