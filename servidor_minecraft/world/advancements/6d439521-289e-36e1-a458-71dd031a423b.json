@@ -4815,9 +4815,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_meal": {
+  "simplyswords:grant_book_on_first_join": {
     "criteria": {
-      "has_item": "2024-12-09 05:31:59 +0000"
+      "tick": "2024-12-09 05:14:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-09 05:14:54 +0000"
+    },
+    "done": true
+  },
+  "zenith:give_book": {
+    "criteria": {
+      "tick": "2024-12-09 05:14:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2024-12-09 05:26:21 +0000"
     },
     "done": true
   },
@@ -4833,33 +4851,15 @@
     },
     "done": true
   },
-  "simplyswords:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2024-12-09 05:14:54 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2024-12-09 05:29:50 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/earplugs": {
+  "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
-      "has_item": "2024-12-09 05:26:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2024-12-09 05:14:54 +0000"
-    },
-    "done": true
-  },
-  "zenith:give_book": {
-    "criteria": {
-      "tick": "2024-12-09 05:14:54 +0000"
+      "has_item": "2024-12-09 05:31:59 +0000"
     },
     "done": true
   },
