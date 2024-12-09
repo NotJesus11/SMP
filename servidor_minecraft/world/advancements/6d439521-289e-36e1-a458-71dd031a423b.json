@@ -670,6 +670,7 @@
       "minecraft:piglin": "2024-12-06 23:09:31 +0000",
       "minecraft:silverfish": "2024-12-07 00:17:00 +0000",
       "minecraft:enderman": "2024-12-08 05:56:51 +0000",
+      "minecraft:stray": "2024-12-09 05:33:56 +0000",
       "minecraft:endermite": "2024-12-08 08:21:59 +0000",
       "minecraft:zombie": "2024-12-05 23:39:16 +0000",
       "minecraft:drowned": "2024-12-08 08:20:23 +0000"
@@ -4628,7 +4629,145 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2024-12-08 07:56:52 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2024-12-08 07:56:52 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-12-08 08:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-08 08:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-08 08:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-08 08:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-08 08:06:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-08 08:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-08 08:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-08 08:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-08 08:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-08 08:10:47 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_ancient_anima": "2024-12-08 08:16:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:lords_on_stick": {
+    "criteria": {
+      "wabbajack": "2024-12-08 08:20:49 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/chaos_helmet": {
+    "criteria": {
+      "has_item": "2024-12-08 08:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-08 08:23:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2024-12-08 08:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-08 08:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-08 08:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-08 08:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-08 08:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-08 08:27:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-08 08:28:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2024-12-08 08:28:33 +0000"
     },
@@ -4646,69 +4785,9 @@
     },
     "done": true
   },
-  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
-    "criteria": {
-      "has_void_thorn": "2024-12-08 07:56:52 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/void_totem": {
-    "criteria": {
-      "has_totem_of_undying": "2024-12-08 09:02:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2024-12-08 08:27:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2024-12-08 08:23:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2024-12-08 08:27:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2024-12-08 08:06:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2024-12-08 08:10:47 +0000"
-    },
-    "done": true
-  },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2024-12-08 08:00:35 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/snow": {
-    "criteria": {
-      "has_snowball": "2024-12-08 08:06:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-08 08:46:28 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/mob_ward": {
-    "criteria": {
-      "has_ancient_anima": "2024-12-08 08:16:57 +0000"
     },
     "done": true
   },
@@ -4718,93 +4797,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2024-12-08 08:00:58 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2024-12-08 08:23:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2024-12-08 08:00:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2024-12-08 08:10:47 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/earthdive_spear": {
-    "criteria": {
-      "has_void_thorn": "2024-12-08 07:56:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2024-12-08 08:27:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2024-12-08 08:10:47 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:moonlight_tools": {
     "criteria": {
       "soulsweapons:moonlight_greatsword": "2024-12-08 08:58:49 +0000"
     },
     "done": true
   },
-  "soulsweapons:lords_on_stick": {
+  "fwaystones:recipes/void_totem": {
     "criteria": {
-      "wabbajack": "2024-12-08 08:20:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2024-12-08 08:23:19 +0000"
+      "has_totem_of_undying": "2024-12-08 09:02:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "rpg_series:root": {
     "criteria": {
-      "has_cod": "2024-12-08 08:23:19 +0000"
+      "always": "2024-12-09 05:14:54 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/cake": {
+  "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
-      "has_egg": "2024-12-08 08:28:33 +0000"
+      "has_item": "2024-12-09 05:31:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
-      "has_snowball": "2024-12-08 08:06:10 +0000"
+      "has_item": "2024-12-09 05:29:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
     "criteria": {
-      "has_rail": "2024-12-08 08:00:58 +0000"
+      "has_item": "2024-12-09 05:29:50 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/chaos_helmet": {
+  "simplyswords:grant_book_on_first_join": {
     "criteria": {
-      "has_item": "2024-12-08 08:20:49 +0000"
+      "tick": "2024-12-09 05:14:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-12-09 05:29:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2024-12-09 05:26:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-09 05:14:54 +0000"
+    },
+    "done": true
+  },
+  "zenith:give_book": {
+    "criteria": {
+      "tick": "2024-12-09 05:14:54 +0000"
     },
     "done": true
   },

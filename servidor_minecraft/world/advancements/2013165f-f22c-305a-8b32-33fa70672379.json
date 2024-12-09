@@ -135,6 +135,7 @@
       "minecraft:sparse_jungle": "2024-12-06 02:39:55 +0000",
       "minecraft:river": "2024-12-06 01:01:13 +0000",
       "minecraft:lukewarm_ocean": "2024-12-06 07:09:14 +0000",
+      "minecraft:dripstone_caves": "2024-12-09 05:28:19 +0000",
       "minecraft:cold_ocean": "2024-12-06 07:01:05 +0000",
       "minecraft:forest": "2024-12-06 06:58:51 +0000",
       "minecraft:deep_cold_ocean": "2024-12-06 07:02:05 +0000",
@@ -5341,6 +5342,96 @@
       "wabbajack": "2024-12-08 08:50:29 +0000"
     },
     "done": false
+  },
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2024-12-09 05:13:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-09 05:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-09 05:27:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-09 05:27:45 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-09 05:13:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2024-12-09 05:45:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-09 05:27:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-09 05:27:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-09 05:13:30 +0000"
+    },
+    "done": true
+  },
+  "zenith:give_book": {
+    "criteria": {
+      "tick": "2024-12-09 05:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-09 05:39:22 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2024-12-09 05:32:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2024-12-09 05:45:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-09 05:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-09 05:27:59 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
