@@ -4893,5 +4893,11 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2024-12-10 00:31:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
