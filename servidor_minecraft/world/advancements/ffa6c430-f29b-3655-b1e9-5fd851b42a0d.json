@@ -35,12 +35,6 @@
     },
     "done": true
   },
-  "soulsweapons:all_weapons": {
-    "criteria": {
-      "nightfall": "2024-12-10 00:32:07 +0000"
-    },
-    "done": false
-  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2024-12-10 00:24:10 +0000"
@@ -50,24 +44,6 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-12-10 00:24:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-10 00:30:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2024-12-10 00:25:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-10 00:25:44 +0000"
     },
     "done": true
   },
@@ -86,12 +62,6 @@
   "advancednetherite:recipes/misc/netherite_emerald_ingot": {
     "criteria": {
       "has_the_recipe": "2024-12-10 00:24:10 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:nightfall": {
-    "criteria": {
-      "weapon": "2024-12-10 00:32:07 +0000"
     },
     "done": true
   },
@@ -155,31 +125,11 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2024-12-10 00:28:20 +0000"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/netherite_emerald_block": {
     "criteria": {
       "has_ingredients": "2024-12-10 00:24:10 +0000"
     },
     "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2024-12-10 00:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:cherry_grove": "2024-12-10 00:25:28 +0000",
-      "minecraft:savanna_plateau": "2024-12-10 00:24:11 +0000",
-      "minecraft:plains": "2024-12-10 00:26:28 +0000"
-    },
-    "done": false
   },
   "advancednetherite:recipes/misc/netherite_iron_ingot": {
     "criteria": {
@@ -193,9 +143,59 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cherry_grove": "2024-12-10 00:25:28 +0000",
+      "minecraft:savanna_plateau": "2024-12-10 00:24:11 +0000",
+      "minecraft:plains": "2024-12-10 00:26:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-10 00:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-10 00:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-10 00:28:20 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-10 00:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-10 00:30:19 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:gatling_gun": {
     "criteria": {
       "weapon": "2024-12-10 00:31:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "nightfall": "2024-12-10 00:32:07 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:nightfall": {
+    "criteria": {
+      "weapon": "2024-12-10 00:32:07 +0000"
     },
     "done": true
   },
