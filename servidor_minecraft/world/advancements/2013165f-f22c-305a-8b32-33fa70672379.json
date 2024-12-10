@@ -5609,15 +5609,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+  "mythicmounts:summoning_staff": {
     "criteria": {
-      "has_silver_ingot": "2024-12-10 00:31:07 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
-    "criteria": {
-      "has_raw_drumstick": "2024-12-10 00:48:45 +0000"
+      "has_pearl": "2024-12-10 00:15:16 +0000"
     },
     "done": true
   },
@@ -5627,15 +5621,51 @@
     },
     "done": true
   },
-  "chococraft:recipes/misc/choco_disguise_boots": {
+  "travelersbackpack:recipes/misc/end": {
     "criteria": {
-      "has_chocobo_feather": "2024-12-10 00:48:45 +0000"
+      "has_ender_eye": "2024-12-10 00:15:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-10 00:15:44 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2024-12-10 00:15:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-10 00:31:07 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2024-12-10 00:31:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_helmet": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 00:33:04 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2024-12-10 00:48:45 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_boots": {
+    "criteria": {
+      "has_chocobo_feather": "2024-12-10 00:48:45 +0000"
     },
     "done": true
   },
@@ -5651,21 +5681,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/end": {
-    "criteria": {
-      "has_ender_eye": "2024-12-10 00:15:44 +0000"
-    },
-    "done": true
-  },
   "chococraft:recipes/misc/chocobo_whistle": {
     "criteria": {
       "has_chocobo_feather": "2024-12-10 00:48:45 +0000"
-    },
-    "done": true
-  },
-  "mythicmounts:summoning_staff": {
-    "criteria": {
-      "has_pearl": "2024-12-10 00:15:16 +0000"
     },
     "done": true
   },
@@ -5687,21 +5705,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_metal_helmet": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 00:33:04 +0000"
-    },
-    "done": true
-  },
   "chococraft:recipes/misc/chocobo_saddle": {
     "criteria": {
       "has_chocobo_feather": "2024-12-10 00:48:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2024-12-10 00:15:44 +0000"
     },
     "done": true
   },
@@ -5714,12 +5720,6 @@
   "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
     "criteria": {
       "has_raw_drumstick": "2024-12-10 00:48:45 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/eyes_recipe": {
-    "criteria": {
-      "eyes": "2024-12-10 00:15:44 +0000"
     },
     "done": true
   },
