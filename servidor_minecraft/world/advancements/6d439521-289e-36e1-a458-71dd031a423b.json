@@ -5315,5 +5315,11 @@
     },
     "done": true
   },
+  "editenchanting:recipes/decorations/enchantment_edit_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-13 01:48:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
