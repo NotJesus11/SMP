@@ -1983,3 +1983,65 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [03:45:39] [Server thread/INFO]: Dxn1el_Is left the game
 [03:48:11] [Server thread/INFO]: NotTrainok lost connection: Disconnected
 [03:48:11] [Server thread/INFO]: NotTrainok left the game
+[03:49:27] [Server thread/INFO]: Dxn1el_Is[/127.13.100.130:35665] logged in with entity id 5532 at (1312.8420077125877, 103.0, 9999.002126846708)
+[03:49:27] [Server thread/INFO]: Sending server config values to client
+[03:49:27] [Server thread/INFO]: Syncing config to Dxn1el_Is (a6061103-4a1b-3c83-9cd4-d7dcf2669323)
+[03:49:27] [Server thread/INFO]: Loading config from file...
+[03:49:27] [Server thread/INFO]: Dxn1el_Is joined the game
+[03:49:27] [Netty Epoll Server IO #0/INFO]: [showmeyourskin] Client of Dxn1el_Is accepted server config.
+[03:49:27] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[03:49:28] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Dxn1el_Is. Claiming: GRAVE / Robbing: INVENTORY
+[03:49:47] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> ggez
+[03:49:57] [Server thread/INFO]: Dxn1el_Is lost connection: Timed out
+[03:49:57] [Server thread/INFO]: Dxn1el_Is left the game
+[03:50:47] [Server thread/INFO]: Dxn1el_Is[/127.13.100.130:51933] logged in with entity id 5870 at (1312.8420077125877, 103.0, 9999.002126846708)
+[03:50:47] [Server thread/INFO]: Sending server config values to client
+[03:50:47] [Server thread/INFO]: Syncing config to Dxn1el_Is (a6061103-4a1b-3c83-9cd4-d7dcf2669323)
+[03:50:47] [Server thread/INFO]: Loading config from file...
+[03:50:47] [Netty Epoll Server IO #1/INFO]: [showmeyourskin] Client of Dxn1el_Is accepted server config.
+[03:50:47] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[03:50:47] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Dxn1el_Is. Claiming: GRAVE / Robbing: INVENTORY
+[03:50:47] [Server thread/INFO]: Dxn1el_Is joined the game
+[03:51:17] [Server thread/INFO]: Dxn1el_Is lost connection: Timed out
+[03:51:17] [Server thread/INFO]: Dxn1el_Is left the game
+[03:51:50] [Server thread/INFO]: Dxn1el_Is[/127.13.100.130:35641] logged in with entity id 6218 at (1312.8420077125877, 103.0, 9999.002126846708)
+[03:51:50] [Server thread/INFO]: Sending server config values to client
+[03:51:50] [Server thread/INFO]: Syncing config to Dxn1el_Is (a6061103-4a1b-3c83-9cd4-d7dcf2669323)
+[03:51:50] [Server thread/INFO]: Loading config from file...
+[03:51:50] [Netty Epoll Server IO #2/INFO]: [showmeyourskin] Client of Dxn1el_Is accepted server config.
+[03:51:50] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[03:51:50] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Dxn1el_Is. Claiming: GRAVE / Robbing: INVENTORY
+[03:51:50] [Server thread/INFO]: Dxn1el_Is joined the game
+[03:52:20] [Server thread/INFO]: Dxn1el_Is lost connection: Timed out
+[03:52:20] [Server thread/INFO]: Dxn1el_Is left the game
+[03:52:55] [Server thread/INFO]: Dxn1el_Is[/127.13.100.130:42295] logged in with entity id 6561 at (1312.8420077125877, 103.0, 9999.002126846708)
+[03:52:55] [Server thread/INFO]: Sending server config values to client
+[03:52:55] [Server thread/INFO]: Syncing config to Dxn1el_Is (a6061103-4a1b-3c83-9cd4-d7dcf2669323)
+[03:52:55] [Server thread/INFO]: Loading config from file...
+[03:52:55] [Netty Epoll Server IO #3/INFO]: [showmeyourskin] Client of Dxn1el_Is accepted server config.
+[03:52:55] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[03:52:55] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Dxn1el_Is. Claiming: GRAVE / Robbing: INVENTORY
+[03:52:55] [Server thread/INFO]: Dxn1el_Is joined the game
+[03:53:25] [Server thread/INFO]: Dxn1el_Is lost connection: Timed out
+[03:53:25] [Server thread/INFO]: Dxn1el_Is left the game
+[03:53:41] [Thread-80/WARN]: Failed to fetch skin: java.io.IOException: /10.0.0.12:58862: GOAWAY received
+[03:53:41] [Server thread/INFO]: NotTrainok[/127.49.151.250:45091] logged in with entity id 6906 at (1316.8555171664298, 103.0, 9994.767078306602)
+[03:53:41] [Server thread/INFO]: Sending server config values to client
+[03:53:41] [Server thread/INFO]: Syncing config to NotTrainok (2013165f-f22c-305a-8b32-33fa70672379)
+[03:53:41] [Server thread/INFO]: Loading config from file...
+[03:53:41] [Netty Epoll Server IO #1/INFO]: [showmeyourskin] Client of NotTrainok accepted server config.
+[03:53:41] [Server thread/INFO]: NotTrainok joined the game
+[03:53:42] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[03:53:47] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player NotTrainok. Claiming: GRAVE / Robbing: INVENTORY
+[03:54:21] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:54:21] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:54:21] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:54:21] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:54:21] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:55:15] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:55:15] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:55:15] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:55:17] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:55:17] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:55:17] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:55:17] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
