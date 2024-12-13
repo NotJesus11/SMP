@@ -1115,3 +1115,20 @@
 [03:11:36] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
 [03:11:58] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
 [03:11:58] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:27:14] [Server thread/INFO]: SearchWorkerManager adbbd4d6: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[03:27:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03:27:22] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:27:22] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:27:22] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:27:22] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:27:23] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:27:23] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:27:23] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:27:37] [Server thread/INFO]: SearchWorkerManager adbbd4d6: RandomSpreadSearchWorker succeeded with 7790 radius, 537 samples
+[03:27:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3980ms or 79 ticks behind
+[03:27:41] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:27:41] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:27:41] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:27:41] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:27:41] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[03:27:41] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
