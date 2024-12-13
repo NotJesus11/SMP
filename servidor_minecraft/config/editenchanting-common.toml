@@ -1,3 +1,4 @@
+#General settings
 [general]
 	#Enchant and Edit the computed expressions
 	#level = Enchant Level, count = Enchant Quantity，repair = Item Repair Cost
