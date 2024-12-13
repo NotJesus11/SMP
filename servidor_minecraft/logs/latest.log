@@ -2045,3 +2045,34 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [03:55:17] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
 [03:55:17] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
 [03:55:17] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[04:00:01] [Server thread/INFO]: NotTrainok has made the advancement [Who's Guarding The Temple Now?]
+[04:00:01] [Server thread/INFO]: [NotTrainok: Gave 1 [Guardian Eye] to NotTrainok]
+[04:00:30] [Server thread/INFO]: Dxn1el_Is[/127.13.100.130:50775] logged in with entity id 7635 at (1312.8420077125877, 103.0, 9999.002126846708)
+[04:00:30] [Server thread/INFO]: Sending server config values to client
+[04:00:30] [Server thread/INFO]: Syncing config to Dxn1el_Is (a6061103-4a1b-3c83-9cd4-d7dcf2669323)
+[04:00:30] [Server thread/INFO]: Loading config from file...
+[04:00:30] [Netty Epoll Server IO #2/INFO]: [showmeyourskin] Client of Dxn1el_Is accepted server config.
+[04:00:30] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[04:00:30] [Server thread/INFO]: Dxn1el_Is joined the game
+[04:00:30] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Dxn1el_Is. Claiming: GRAVE / Robbing: INVENTORY
+[04:01:00] [Server thread/INFO]: Dxn1el_Is lost connection: Timed out
+[04:01:00] [Server thread/INFO]: Dxn1el_Is left the game
+[04:01:53] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[04:01:53] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[04:01:53] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[04:01:53] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[04:01:53] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[04:02:17] [Server thread/INFO]: [NotTrainok: Gave 1 [Gatling Gun] to NotTrainok]
+[04:05:34] [Server thread/INFO]: [NotTrainok: Gave 3 [Wither Skeleton Skull] to NotTrainok]
+[04:06:59] [Server thread/INFO]: Dxn1el_Is[/127.13.100.130:39609] logged in with entity id 7809 at (1312.8420077125877, 103.0, 9999.002126846708)
+[04:06:59] [Server thread/INFO]: Sending server config values to client
+[04:06:59] [Server thread/INFO]: Syncing config to Dxn1el_Is (a6061103-4a1b-3c83-9cd4-d7dcf2669323)
+[04:06:59] [Server thread/INFO]: Loading config from file...
+[04:06:59] [Netty Epoll Server IO #0/INFO]: [showmeyourskin] Client of Dxn1el_Is accepted server config.
+[04:06:59] [Server thread/INFO]: Dxn1el_Is joined the game
+[04:06:59] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[04:07:01] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Dxn1el_Is. Claiming: GRAVE / Robbing: INVENTORY
+[04:07:29] [Server thread/INFO]: Dxn1el_Is lost connection: Timed out
+[04:07:29] [Server thread/INFO]: Dxn1el_Is left the game
+[04:08:40] [Server thread/INFO]: NotTrainok lost connection: Disconnected
+[04:08:40] [Server thread/INFO]: NotTrainok left the game
