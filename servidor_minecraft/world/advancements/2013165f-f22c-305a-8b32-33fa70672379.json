@@ -121,6 +121,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-10 01:17:27 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-06 07:12:35 +0000",
       "minecraft:taiga": "2024-12-06 22:24:02 +0000",
       "minecraft:deep_ocean": "2024-12-07 06:30:04 +0000",
@@ -151,6 +152,7 @@
       "minecraft:warm_ocean": "2024-12-06 03:20:45 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-06 07:09:27 +0000",
       "minecraft:frozen_peaks": "2024-12-07 00:43:40 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-10 01:19:32 +0000",
       "minecraft:meadow": "2024-12-07 01:17:30 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-06 07:03:38 +0000",
       "minecraft:savanna": "2024-12-05 23:30:51 +0000",
@@ -5720,6 +5722,72 @@
   "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
     "criteria": {
       "has_raw_drumstick": "2024-12-10 00:48:45 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2024-12-10 01:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-10 01:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-10 01:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-10 01:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-10 01:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-10 01:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-10 01:36:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2024-12-10 02:06:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2024-12-10 02:08:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-12-10 02:17:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2024-12-13 01:25:49 +0000"
     },
     "done": true
   },
