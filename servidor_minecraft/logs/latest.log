@@ -1368,3 +1368,74 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [05:07:28] [Server thread/INFO]: [Not Secure] <NotTrainok> a
 [05:07:32] [Server thread/INFO]: NotTrainok has made the advancement [Intruder Alert]
 [05:08:21] [Server thread/INFO]: [Not Secure] <NotTrainok> mira
+[05:09:07] [Server thread/INFO]: [Not Secure] <NotTrainok> y ese faro
+[05:09:23] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:09:23] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:09:23] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:09:23] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:09:24] [Server thread/WARN]: Skipping Entity with id iceandfire:ice_dragon
+[05:09:24] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:09:24] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:09:24] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:09:24] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:09:26] [Server thread/WARN]: NotTrainok was kicked for floating a vehicle too long!
+[05:09:26] [Server thread/INFO]: NotTrainok lost connection: Flying is not enabled on this server
+[05:09:26] [Server thread/INFO]: NotTrainok left the game
+[05:09:26] [Server thread/WARN]: handleDisconnection() called twice
+[05:09:32] [Server thread/INFO]: NotTrainok[/127.107.13.237:36223] logged in with entity id 3722 at (1707.8212446246303, 102.4426526911913, 10184.183490345962)
+[05:09:32] [Server thread/INFO]: Sending server config values to client
+[05:09:32] [Server thread/INFO]: Syncing config to NotTrainok (2013165f-f22c-305a-8b32-33fa70672379)
+[05:09:32] [Server thread/INFO]: Loading config from file...
+[05:09:32] [Netty Epoll Server IO #0/INFO]: [showmeyourskin] Client of NotTrainok accepted server config.
+[05:09:32] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[05:09:32] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player NotTrainok. Claiming: GRAVE / Robbing: INVENTORY
+[05:09:32] [Server thread/INFO]: NotTrainok joined the game
+[05:09:45] [Server thread/INFO]: [Not Secure] <NotTrainok> me saca por volar xd
+[05:10:00] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:10:00] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:10:01] [Server thread/INFO]: NotTrainok has made the advancement [The Lighthouse]
+[05:10:39] [Server thread/INFO]: [Not Secure] <SxidFlxao> afk mientras hago un trabajo
+[05:10:44] [Server thread/INFO]: [Not Secure] <NotTrainok> okok
+[05:11:04] [Server thread/ERROR]: Unknown structure start: iceandfire:ice_dragon_cave
+[05:11:04] [Server thread/ERROR]: Unknown structure start: iceandfire:ice_dragon_roost
+[05:11:04] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:11:04] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:11:05] [Server thread/ERROR]: Unknown structure start: iceandfire:ice_dragon_roost
+[05:11:12] [Server thread/INFO]: [Not Secure] <SxidFlxao> tengo
+[05:11:36] [Server thread/INFO]: [Not Secure] <NotTrainok> en la aldea de la dungeon
+[05:11:46] [Server thread/INFO]: [Not Secure] <SxidFlxao> ya tengo maldición
+[05:12:05] [Server thread/INFO]: [Not Secure] <NotTrainok> la hacemos en la aldea dungeon
+[05:12:34] [Server thread/INFO]: [Not Secure] <SxidFlxao> dame 10 mins
+[05:12:37] [Server thread/INFO]: [Not Secure] <NotTrainok> ok
+[05:15:57] [Server thread/INFO]: [NotTrainok: Gave 1 [Bell] to NotTrainok]
+[05:16:02] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:02] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:02] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:27] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:27] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:33] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:33] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:33] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:33] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:33] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:57] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:16:57] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:17:07] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:17:40] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:17:40] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:17:50] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:17:56] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:17:56] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:18:13] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:18:13] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:18:15] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
+[05:18:15] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
