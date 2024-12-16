@@ -110,7 +110,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-06 22:10:12 +0000",
+      "minecraft:mushroom_fields": "2024-12-13 06:13:24 +0000",
       "minecraft:taiga": "2024-12-06 22:24:05 +0000",
+      "minecraft:deep_ocean": "2024-12-13 06:12:57 +0000",
       "minecraft:eroded_badlands": "2024-12-06 06:04:02 +0000",
       "minecraft:cherry_grove": "2024-12-07 00:29:52 +0000",
       "minecraft:sunflower_plains": "2024-12-08 07:02:58 +0000",
@@ -125,6 +127,7 @@
       "minecraft:jagged_peaks": "2024-12-10 00:45:42 +0000",
       "minecraft:cold_ocean": "2024-12-08 07:45:14 +0000",
       "minecraft:forest": "2024-12-07 02:54:18 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-13 06:12:27 +0000",
       "minecraft:frozen_ocean": "2024-12-08 08:01:58 +0000",
       "minecraft:desert": "2024-12-06 05:51:00 +0000",
       "minecraft:windswept_forest": "2024-12-07 04:15:55 +0000",
@@ -655,6 +658,7 @@
       "minecraft:blaze": "2024-12-06 22:37:49 +0000",
       "minecraft:skeleton": "2024-12-05 23:55:56 +0000",
       "minecraft:zoglin": "2024-12-06 23:43:30 +0000",
+      "minecraft:ravager": "2024-12-13 05:36:42 +0000",
       "minecraft:hoglin": "2024-12-06 22:33:58 +0000",
       "minecraft:guardian": "2024-12-08 08:21:59 +0000",
       "minecraft:vindicator": "2024-12-06 22:05:30 +0000",
@@ -663,6 +667,7 @@
       "minecraft:piglin_brute": "2024-12-07 20:51:54 +0000",
       "minecraft:creeper": "2024-12-08 08:21:59 +0000",
       "minecraft:wither": "2024-12-07 06:07:58 +0000",
+      "minecraft:evoker": "2024-12-13 05:57:32 +0000",
       "minecraft:phantom": "2024-12-06 22:00:11 +0000",
       "minecraft:zombified_piglin": "2024-12-06 23:02:13 +0000",
       "minecraft:witch": "2024-12-07 03:57:13 +0000",
@@ -674,6 +679,7 @@
       "minecraft:enderman": "2024-12-08 05:56:51 +0000",
       "minecraft:stray": "2024-12-09 05:33:56 +0000",
       "minecraft:endermite": "2024-12-08 08:21:59 +0000",
+      "minecraft:vex": "2024-12-13 05:57:21 +0000",
       "minecraft:zombie": "2024-12-05 23:39:16 +0000",
       "minecraft:drowned": "2024-12-08 08:20:23 +0000"
     },
@@ -5174,6 +5180,132 @@
   "endrem:main/root": {
     "criteria": {
       "wither_eye": "2024-12-13 04:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 05:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 05:39:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 05:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 05:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 05:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 05:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 05:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 05:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 05:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 05:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 05:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-13 05:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-13 05:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-13 05:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-13 05:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 05:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-13 05:59:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-13 06:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-13 06:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-13 06:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-13 06:18:24 +0000"
     },
     "done": true
   },

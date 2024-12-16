@@ -1,10 +1,10 @@
-[04:48:52] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[04:48:52] [ForkJoinPool-1-worker-1/WARN]: Mod doespotatotick uses the version fabric-quilt-1.20.1-3.6.1 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[04:48:52] [ForkJoinPool-1-worker-2/WARN]: Mod cpm uses the version 0.6.19a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '19a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[04:48:52] [ForkJoinPool-1-worker-1/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[04:48:53] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[21:51:00] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[21:51:03] [ForkJoinPool-1-worker-2/WARN]: Mod doespotatotick uses the version fabric-quilt-1.20.1-3.6.1 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:51:03] [ForkJoinPool-1-worker-2/WARN]: Mod cpm uses the version 0.6.19a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '19a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:51:04] [ForkJoinPool-1-worker-1/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:51:06] [ForkJoinPool-1-worker-1/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 12
-[04:48:53] [main/INFO]: Loading 234 mods:
+[21:51:07] [main/INFO]: Loading 234 mods:
 	- advancednetherite 2.1.3-1.20.1
 	- appleskin 2.5.1+mc1.20
 	- architectury 9.2.14
@@ -284,1184 +284,347 @@
 	   |    |-- porting_lib_core 2.3.4+1.20.1
 	   |    \-- reach-entity-attributes 2.4.0
 	   \-- reach-entity-attributes 2.4.0
-[04:48:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SMP/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[04:48:53] [main/INFO]: Compatibility level set to JAVA_17
-[04:48:54] [main/WARN]: Reference map 'cave_dweller.refmap.json' for cave_dweller.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:48:54] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:48:54] [main/WARN]: Reference map 'graveyard-FABRIC-fabric-refmap.json' for graveyard-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:48:54] [main/INFO]: Loaded configuration file for ModernFix 5.19.5+mc1.20.1: 61 options available, 0 override(s) found
-[04:48:54] [main/INFO]: Applying Nashorn fix
-[04:48:54] [main/WARN]: Reference map 'mythic-mounts-refmap.json' for mythic-mounts.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:48:54] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:48:54] [main/WARN]: Reference map 'starterkit_fabric.refmap.json' for starterkit_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:48:55] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[04:48:55] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[04:48:55] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl (java.lang.ClassNotFoundException: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl)
-[04:48:55] [main/WARN]: @Mixin target dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl was not found doespotatotick.mixins.json:ClaimedChunkManagerImplMixin from mod doespotatotick
-[04:48:55] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
-[04:48:56] [main/INFO]: Loaded config for: structureessentials.json
-[04:48:56] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
-[04:48:56] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
-[04:48:56] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
-[04:48:56] [main/WARN]: Error loading class: net/minecraft/class_465 (java.lang.ClassNotFoundException: net/minecraft/class_465)
-[04:48:56] [main/WARN]: @Mixin target net.minecraft.class_465 was not found zenith.mixins.json:AbstractContainerScreenAccessor from mod zenith
-[04:48:56] [main/WARN]: Error loading class: net/minecraft/class_332 (java.lang.ClassNotFoundException: net/minecraft/class_332)
-[04:48:56] [main/WARN]: @Mixin target net.minecraft.class_332 was not found zenith.mixins.json:GuiGraphicsAccessor from mod zenith
-[04:48:56] [main/WARN]: Error loading class: net/minecraft/class_8002 (java.lang.ClassNotFoundException: net/minecraft/class_8002)
-[04:48:56] [main/WARN]: @Mixin target net.minecraft.class_8002 was not found zenith.mixins.json:TooltipRenderUtilAccessor from mod zenith
-[04:48:56] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[04:48:59] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$cnm000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[04:49:01] [main/WARN]: Method overwrite conflict for method_5837 in eldritch_mobs.mixins.json:MobEntityMixin from mod eldritch_mobs, previously written by com.brutalbosses.mixin.BossCapMixin. Skipping method.
-[04:49:04] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[04:49:05] [main/INFO]: Vanilla bootstrap took 7702 milliseconds
-[04:49:05] [main/INFO]: Initializing platform helper for Advanced Netherite!
-[04:49:05] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[04:49:05] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[04:49:05] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[04:49:05] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[04:49:05] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[04:49:05] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[04:49:05] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[04:49:05] [main/INFO]: Better Compatibility Checker starting
-[04:49:05] [main/INFO]: Loading config file
-[04:49:05] [main/INFO]: Config file loaded
-[04:49:06] [main/INFO]: Reflections took 55 ms to scan 1 urls, producing 1 keys and 2 values
-[04:49:06] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 2 values
-[04:49:06] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[04:49:06] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[04:49:06] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[04:49:06] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[04:49:06] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[04:49:06] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[04:49:06] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[04:49:06] [main/INFO]: Brutal bosses initialized
-[04:49:06] [main/INFO]: Loading Collective version 7.87.
-[04:49:06] [main/INFO]: fabric loader environment detected
-[04:49:06] [main/INFO]: Customizable Player Models Initialized
-[04:49:06] [main/INFO]: Customizable Player Models API initialized: Loaded plugins: (0)
+[21:51:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SMP/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:51:10] [main/INFO]: Compatibility level set to JAVA_17
+[21:51:11] [main/WARN]: Reference map 'cave_dweller.refmap.json' for cave_dweller.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:51:11] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:51:11] [main/WARN]: Reference map 'graveyard-FABRIC-fabric-refmap.json' for graveyard-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:51:12] [main/INFO]: Loaded configuration file for ModernFix 5.19.5+mc1.20.1: 61 options available, 0 override(s) found
+[21:51:12] [main/INFO]: Applying Nashorn fix
+[21:51:12] [main/WARN]: Reference map 'mythic-mounts-refmap.json' for mythic-mounts.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:51:12] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:51:12] [main/WARN]: Reference map 'starterkit_fabric.refmap.json' for starterkit_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:51:13] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[21:51:13] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[21:51:13] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl (java.lang.ClassNotFoundException: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl)
+[21:51:13] [main/WARN]: @Mixin target dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl was not found doespotatotick.mixins.json:ClaimedChunkManagerImplMixin from mod doespotatotick
+[21:51:14] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[21:51:15] [main/INFO]: Loaded config for: structureessentials.json
+[21:51:15] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[21:51:15] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[21:51:15] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
+[21:51:15] [main/WARN]: Error loading class: net/minecraft/class_465 (java.lang.ClassNotFoundException: net/minecraft/class_465)
+[21:51:15] [main/WARN]: @Mixin target net.minecraft.class_465 was not found zenith.mixins.json:AbstractContainerScreenAccessor from mod zenith
+[21:51:15] [main/WARN]: Error loading class: net/minecraft/class_332 (java.lang.ClassNotFoundException: net/minecraft/class_332)
+[21:51:15] [main/WARN]: @Mixin target net.minecraft.class_332 was not found zenith.mixins.json:GuiGraphicsAccessor from mod zenith
+[21:51:15] [main/WARN]: Error loading class: net/minecraft/class_8002 (java.lang.ClassNotFoundException: net/minecraft/class_8002)
+[21:51:15] [main/WARN]: @Mixin target net.minecraft.class_8002 was not found zenith.mixins.json:TooltipRenderUtilAccessor from mod zenith
+[21:51:17] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:51:23] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$cnm000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[21:51:26] [main/WARN]: Method overwrite conflict for method_5837 in eldritch_mobs.mixins.json:MobEntityMixin from mod eldritch_mobs, previously written by com.brutalbosses.mixin.BossCapMixin. Skipping method.
+[21:51:32] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[21:51:34] [main/INFO]: Vanilla bootstrap took 15333 milliseconds
+[21:51:34] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[21:51:35] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[21:51:35] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[21:51:35] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[21:51:35] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[21:51:35] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[21:51:35] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[21:51:35] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[21:51:35] [main/INFO]: Better Compatibility Checker starting
+[21:51:35] [main/INFO]: Loading config file
+[21:51:35] [main/INFO]: Config file loaded
+[21:51:36] [main/INFO]: Reflections took 125 ms to scan 1 urls, producing 1 keys and 2 values
+[21:51:36] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 2 values
+[21:51:36] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[21:51:36] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[21:51:36] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[21:51:36] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[21:51:36] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[21:51:36] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[21:51:36] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[21:51:36] [main/INFO]: Brutal bosses initialized
+[21:51:36] [main/INFO]: Loading Collective version 7.87.
+[21:51:37] [main/INFO]: fabric loader environment detected
+[21:51:37] [main/INFO]: Customizable Player Models Initialized
+[21:51:37] [main/INFO]: Customizable Player Models API initialized: Loaded plugins: (0)
 
-[04:49:06] [main/INFO]: Loaded config for: cupboard.json
-[04:49:06] [main/INFO]: Channelling eldritch energies...
-[04:49:08] [main/INFO]: Loaded config :emi_loot_config in 1615ms
-[04:49:08] [main/INFO]: ExpandAbility here, who dis?
-[04:49:09] [main/INFO]: Look at the cleanse, look at the moves!
-[04:49:09] [Placebo (FakerLib) Patreon Wing Loader/INFO]: Loading patreon wing data...
-[04:49:09] [Placebo (FakerLib) Patreon Trail Loader/INFO]: Loading patreon trails data...
-[04:49:09] [main/INFO]: Reflections took 42 ms to scan 1 urls, producing 2 keys and 9 values
-[04:49:09] [main/INFO]: Is initializing.
-[04:49:09] [Placebo (FakerLib) Patreon Trail Loader/INFO]: Loaded 33 patreon trails.
-[04:49:09] [Placebo (FakerLib) Patreon Wing Loader/INFO]: Loaded 25 patreon wings.
-[04:49:09] [main/INFO]: Has successfully been initialized.
-[04:49:09] [main/INFO]: Registered JSON trade offer adapter.
-[04:49:10] [main/INFO]: 1 Jupiter entrypoint(s) detected: jupiter:jupiter
-[04:49:10] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[04:49:10] [main/INFO]: [KONKRETE] Successfully initialized!
-[04:49:10] [main/INFO]: [KONKRETE] Server-side libs ready to use!
-[04:49:10] [main/INFO]: Initialize mod Library Ferret
-[04:49:10] [main/INFO]: Initialized mod Library Ferret
-[04:49:10] [main/INFO]: Definitely not up to no good
-[04:49:10] [main/INFO]: Don't trust naschhorn, the Master of Taglocks, around you or your bed
-[04:49:10] [main/INFO]: Constructing common components for puzzleslib:main
-[04:49:10] [main/INFO]: Shield API initialized!
-[04:49:11] [main/INFO]: [STDOUT]: /workspaces/SMP/servidor_minecraft/config
-[04:49:11] [main/INFO]: Config initialized!
-[04:49:11] [main/INFO]: Successfully initialized Geckolib!
-[04:49:11] [main/INFO]: Successfully registered SoulsWeapons content!
-[04:49:11] [main/INFO]: Successfully registered built-in 2D model resourcepack!
-[04:49:11] [main/INFO]: Successfully registered built-in Legacy 2D Models resourcepack!
-[04:49:11] [main/INFO]: Successfully registered built-in Legacy 3D Models resourcepack!
-[04:49:11] [main/INFO]: Successfully registered built-in Fresh Animations Compat. resourcepack!
-[04:49:11] [main/INFO]: Initializing done, time taken: 310ms
-[04:49:12] [Thread-5/INFO]: Starting to fetch sponsor list.
-[04:49:12] [main/INFO]: structureessentials mod initialized
-[04:49:12] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[04:49:12] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[04:49:12] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[04:49:12] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[04:49:12] [main/INFO]: Constructing common components for visualworkbench:main
-[04:49:12] [Thread-5/INFO]: Successfully fetch sponsor list.
-[04:49:12] [main/INFO]: Reflections took 14 ms to scan 1 urls, producing 1 keys and 4 values
-[04:49:12] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 4 values
-[04:49:13] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[04:49:13] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[04:49:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:49:14] [main/INFO]: Bypassed Mojang DFU
-[04:49:18] [main/WARN]: Adding spell_power:fire to saved/remote registry.
-[04:49:18] [main/WARN]: Adding spell_power:frost to saved/remote registry.
-[04:49:18] [main/WARN]: Adding spell_power:arcane to saved/remote registry.
-[04:49:18] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[04:49:19] [main/WARN]: Method overwrite conflict for getRolls in emi_loot.mixins.json:LootPoolAccessor from mod emi_loot, previously written by net.fabricmc.fabric.mixin.loot.table.LootPoolMixin. Skipping method.
-[04:49:26] [main/INFO]: parsing loot tables
-[04:49:26] [main/INFO]: finished parsing loot tables
-[04:49:27] [main/INFO]: Loaded 14 recipes
-[04:49:27] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cobweb: Expected items to be a JsonArray, was "min...eb"
-[04:49:27] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass: Expected items to be a JsonArray, was "min...ss"
-[04:49:27] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cracked_stone_bricks: Expected items to be a JsonArray, was "min...ks"
-[04:49:27] [main/INFO]: Loaded 1879 advancements
-[04:49:27] [main/INFO]: Registered 16 gear_sets.
-[04:49:27] [main/INFO]: Registered 6 rarities.
-[04:49:27] [main/INFO]: Registered 81 affixes.
-[04:49:27] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:mythic for category helmetRequired: 3; Provided: 2
-[04:49:27] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:mythic for category bootsRequired: 3; Provided: 2
-[04:49:27] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:ancient for category bowRequired: 5; Provided: 4
-[04:49:27] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:ancient for category crossbowRequired: 5; Provided: 4
-[04:49:27] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:ancient for category pickaxeRequired: 5; Provided: 4
-[04:49:27] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:ancient for category shovelRequired: 5; Provided: 4
-[04:49:27] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:ancient for category shieldRequired: 5; Provided: 4
-[04:49:27] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:ancient for category helmetRequired: 4; Provided: 2
-[04:49:27] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:ancient for category bootsRequired: 4; Provided: 2
-[04:49:27] [main/INFO]: Registered 19 gems.
-[04:49:27] [main/INFO]: Registered 65 affix_loot_entries.
-[04:49:27] [main/INFO]: Registered 17 bosses.
-[04:49:27] [main/INFO]: Registered 8 rogue_spawners.
-[04:49:27] [main/INFO]: Registered 5 minibosses.
-[04:49:27] [main/INFO]: Registered 28 wanderer_trades.
-[04:49:27] [main/INFO]: Registered 29 enchanting_stats.
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:drowned
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:iron_golem
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:snow_golem
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:skeleton
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:pillager
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:vex
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:evoker
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:vindicator
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:cave_spider
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:husk
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:evoker
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:wandering_trader
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:guardian
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:vindicator
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:shulker
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:zoglin
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:chicken
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:blaze
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:witch
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:phantom
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:mooshroom
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:rabbit
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:piglin_brute
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:ghast
-[04:49:27] [main/INFO]: Loaded boss variant for: minecraft:stray
-[04:49:27] [main/INFO]: Successfully reload 1 server config(s).
-[04:49:27] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_nether with loottable: lootintegrations:chests/nether
-[04:49:27] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_hard with loottable: lootintegrations:chests/hard
-[04:49:27] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_water with loottable: lootintegrations:chests/water
-[04:49:27] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_medium with loottable: lootintegrations:chests/medium
-[04:49:27] [main/INFO]: Parsing loot modifiers for:lootintegrations:villageloot_house with loottable: lootintegrations:chests/village
-[04:49:27] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_easy with loottable: lootintegrations:chests/easy
-[04:49:27] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_no_overflow with loottable: minecraft:chests/simple_dungeon
-[04:49:27] [Thread-7/INFO]: Loaded 56 translation keys
-[04:49:27] [main/INFO]: Loaded 144 recipes
-[04:49:27] [main/INFO]: Reloading grave shape (server)
-[04:49:27] [main/INFO]: Grave model and shape reload successful (server)
-[04:49:27] [main/INFO]: Reloading YIGD graveyard data (server)
-[04:49:27] [main/INFO]: Graveyard data successfully reloaded (server)
-[04:49:27] [main/INFO]: Reloading YIGD grave area overrides (server)
-[04:49:27] [main/INFO]: Grave area overrides successfully reloaded (server)
-[04:49:28] [main/INFO]: Applied 1447 biome modifications to 157 of 163 new biomes in 88.32 ms
-[04:49:28] [Server thread/INFO]: Loading server configs...
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/flower_forest_japanese/houses
-[04:49:28] [Server thread/ERROR]: Cannot add to kaisyn:village/flower_forest_japanese/houses as it cannot be found!
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village ctov:village/desert_oasis/house
-[04:49:28] [Server thread/ERROR]: Cannot add to ctov:village/desert_oasis/house as it cannot be found!
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/mountain_alpine/house
-[04:49:28] [Server thread/ERROR]: Cannot add to ctov:village/mountain_alpine/house as it cannot be found!
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/beach_lighthouse/side
-[04:49:28] [Server thread/ERROR]: Cannot add to kaisyn:village/beach_lighthouse/side as it cannot be found!
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/savanna_na/house
-[04:49:28] [Server thread/ERROR]: Cannot add to ctov:village/savanna_na/house as it cannot be found!
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/swamp/house
-[04:49:28] [Server thread/ERROR]: Cannot add to ctov:village/swamp/house as it cannot be found!
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/savanna/houses
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/snowy_igloo/house
-[04:49:28] [Server thread/ERROR]: Cannot add to ctov:village/snowy_igloo/house as it cannot be found!
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/nilotic/houses
-[04:49:28] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/nilotic/houses as it cannot be found!
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/badlands_pueblo/houses
-[04:49:28] [Server thread/ERROR]: Cannot add to kaisyn:village/badlands_pueblo/houses as it cannot be found!
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/tudor/houses
-[04:49:28] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/tudor/houses as it cannot be found!
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/mushroom/house
-[04:49:28] [Server thread/ERROR]: Cannot add to ctov:village/mushroom/house as it cannot be found!
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/mediterranean/houses/regular
-[04:49:28] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/mediterranean/houses/regular as it cannot be found!
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/taiga/houses
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/birch_forest_romanian/houses
-[04:49:28] [Server thread/ERROR]: Cannot add to kaisyn:village/birch_forest_romanian/houses as it cannot be found!
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:red_desert_village_waystone to village ctov:village/mesa_fortified/house
-[04:49:28] [Server thread/ERROR]: Cannot add to ctov:village/mesa_fortified/house as it cannot be found!
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/classic/houses
-[04:49:28] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/classic/houses as it cannot be found!
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/wandering_trader_camp/side
-[04:49:28] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/wandering_trader_camp/side as it cannot be found!
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village ctov:village/desert/house
-[04:49:28] [Server thread/ERROR]: Cannot add to ctov:village/desert/house as it cannot be found!
-[04:49:28] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/rustic/houses
-[04:49:28] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/rustic/houses as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village minecraft:village/desert/houses
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/savanna/house
-[04:49:29] [Server thread/ERROR]: Cannot add to ctov:village/savanna/house as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village ctov:village/beach/house
-[04:49:29] [Server thread/ERROR]: Cannot add to ctov:village/beach/house as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/plains/houses
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/taiga/house
-[04:49:29] [Server thread/ERROR]: Cannot add to ctov:village/taiga/house as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:stone_brick_village_waystone to village ctov:village/underground/house
-[04:49:29] [Server thread/ERROR]: Cannot add to ctov:village/underground/house as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:red_desert_village_waystone to village ctov:village/mesa/house
-[04:49:29] [Server thread/ERROR]: Cannot add to ctov:village/mesa/house as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/grove_villager_outpost/decor
-[04:49:29] [Server thread/ERROR]: Cannot add to kaisyn:village/grove_villager_outpost/decor as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:mossy_stone_brick_village_waystone to village ctov:village/jungle/house
-[04:49:29] [Server thread/ERROR]: Cannot add to ctov:village/jungle/house as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/mountain/house
-[04:49:29] [Server thread/ERROR]: Cannot add to ctov:village/mountain/house as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/halloween/house
-[04:49:29] [Server thread/ERROR]: Cannot add to ctov:village/halloween/house as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/jungle_tribal/houses
-[04:49:29] [Server thread/ERROR]: Cannot add to kaisyn:village/jungle_tribal/houses as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/iberian/houses
-[04:49:29] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/iberian/houses as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/christmas/house
-[04:49:29] [Server thread/ERROR]: Cannot add to ctov:village/christmas/house as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/snowy/houses
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/plains/house
-[04:49:29] [Server thread/ERROR]: Cannot add to ctov:village/plains/house as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/swamp_fortified/house
-[04:49:29] [Server thread/ERROR]: Cannot add to ctov:village/swamp_fortified/house as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/plains_fortified/house
-[04:49:29] [Server thread/ERROR]: Cannot add to ctov:village/plains_fortified/house as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/taiga_fortified/house
-[04:49:29] [Server thread/ERROR]: Cannot add to ctov:village/taiga_fortified/house as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/swedish/houses
-[04:49:29] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/swedish/houses as it cannot be found!
-[04:49:29] [Server thread/INFO]: Adding waystone fwaystones:mossy_stone_brick_village_waystone to village ctov:village/jungle_tree/house
-[04:49:29] [Server thread/ERROR]: Cannot add to ctov:village/jungle_tree/house as it cannot be found!
-[04:49:29] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): 96131 bytes (in 10 string chunks with the size of 10000)
-[04:49:29] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[04:49:29] [Server thread/INFO]: Loading properties
-[04:49:29] [Server thread/INFO]: Default game type: SURVIVAL
-[04:49:29] [Server thread/INFO]: Generating keypair
-[04:49:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:49:29] [Server thread/INFO]: Using epoll channel type
-[04:49:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:49:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:49:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:49:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:49:29] [Server thread/INFO]: Preparing level "world"
-[04:49:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:49:33] [Server thread/INFO]: Preparing spawn area: 0%
-[04:49:33] [Server thread/INFO]: Preparing spawn area: 0%
-[04:49:33] [Server thread/INFO]: Preparing spawn area: 0%
-[04:49:33] [Server thread/INFO]: Preparing spawn area: 0%
-[04:49:33] [Server thread/INFO]: Preparing spawn area: 0%
-[04:49:33] [Server thread/INFO]: Preparing spawn area: 0%
-[04:49:33] [Server thread/INFO]: Preparing spawn area: 0%
-[04:49:34] [Server thread/INFO]: Preparing spawn area: 0%
-[04:49:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:49:35] [Server thread/INFO]: Time elapsed: 4911 ms
-[04:49:35] [Server thread/INFO]: Done (5.968s)! For help, type "help"
-[04:49:35] [Server thread/WARN]: Dedicated server took 44.592 seconds to load
-[04:49:35] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 169309 bytes (in 17 string chunks with the size of 10000)
-[04:49:36] [Server thread/INFO]: Loaded config for: lootintegrations.json
-[04:49:36] [Server thread/INFO]: Loaded config for: dragonfight.json
-[04:49:36] [Server thread/INFO]: Loaded config for: brutalbosses.json
-[04:49:36] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
-[04:49:36] [Server thread/INFO]: Start loading plugin from Jade
-[04:49:36] [Server thread/INFO]: Start loading plugin from Jade
-[04:49:36] [Server thread/INFO]: Start loading plugin from Jade
-[04:49:36] [Server thread/INFO]: Start loading plugin from Polymer (Core)
-[04:49:36] [Server thread/INFO]: Start loading plugin from Zenith
-[04:49:36] [Server thread/INFO]: Start loading plugin from Zenith
-[04:49:36] [Server thread/INFO]: Start loading plugin from Zenith
-[04:49:36] [Server thread/INFO]: Loaded values for 69 compatible attributes.
-[04:49:36] [Server thread/INFO]: Loaded 69 values from config.
-[04:49:36] [Server thread/INFO]: Saving config file. 69 entries.
-[04:49:36] [Server thread/INFO]: Applying changes for 69 attributes.
-[04:49:36] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[04:49:36] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[04:49:36] [Server thread/INFO]: Values have been reloaded
-[04:49:36] [Server thread/INFO]: Loaded Reach Entity Attributes scaler
-[04:50:05] [Server thread/INFO]: NotTrainok[/127.107.13.237:46221] logged in with entity id 119 at (1322.7804620235709, 103.0, 9996.120135664769)
-[04:50:06] [Netty Epoll Server IO #1/INFO]: [showmeyourskin] Client of NotTrainok accepted server config.
-[04:50:06] [Server thread/INFO]: Sending server config values to client
-[04:50:06] [Server thread/INFO]: Syncing config to NotTrainok (2013165f-f22c-305a-8b32-33fa70672379)
-[04:50:06] [Netty Epoll Server IO #1/INFO]: Receiving client config
-[04:50:06] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player NotTrainok. Claiming: GRAVE / Robbing: INVENTORY
-[04:50:06] [Server thread/INFO]: Loading config from file...
-[04:50:07] [Server thread/INFO]: NotTrainok joined the game
-[04:50:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[04:50:47] [Server thread/INFO]: SxidFlxao[/127.23.66.78:33837] logged in with entity id 541 at (1205.6321847222505, 73.0, 9898.3560371391)
-[04:50:47] [Server thread/INFO]: Sending server config values to client
-[04:50:47] [Server thread/INFO]: Syncing config to SxidFlxao (6d439521-289e-36e1-a458-71dd031a423b)
-[04:50:47] [Server thread/INFO]: Loading config from file...
-[04:50:47] [Netty Epoll Server IO #0/INFO]: [showmeyourskin] Client of SxidFlxao accepted server config.
-[04:50:47] [Netty Epoll Server IO #0/INFO]: Receiving client config
-[04:50:47] [Server thread/INFO]: SxidFlxao joined the game
-[04:50:47] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player SxidFlxao. Claiming: GRAVE / Robbing: INVENTORY
-[04:50:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[04:51:38] [Server thread/INFO]: [Not Secure] <SxidFlxao> aternos>
-[04:52:03] [Server thread/INFO]: [Not Secure] <NotTrainok> aternos no te corre 100 mods a 80ms
-[04:52:23] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:52:35] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:52:36] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:52:36] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:53:08] [Server thread/INFO]: [Not Secure] <SxidFlxao> ya repare todo
-[04:53:11] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:54:25] [Server thread/INFO]: [Not Secure] <NotTrainok> con que aldeano?
-[04:54:26] [Server thread/INFO]: [Not Secure] <SxidFlxao> cómo vas
-[04:54:30] [Server thread/INFO]: [Not Secure] <SxidFlxao> los de palos
-[04:54:36] [Server thread/INFO]: [Not Secure] <NotTrainok> me falta medio casco
-[04:54:45] [Server thread/INFO]: [Not Secure] <NotTrainok> no tengo madera
-[04:55:25] [Server thread/INFO]: [Not Secure] <NotTrainok> casi dos stacks de bloques de hierro
-[04:56:26] [Server thread/INFO]: [Not Secure] <NotTrainok> ve buscando la raid
-[04:56:31] [Server thread/INFO]: [Not Secure] <SxidFlxao> que manera tan lenta
-[04:56:52] [Server thread/INFO]: [Not Secure] <NotTrainok> life emnding god
-[04:57:49] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:57:49] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:57:49] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:57:53] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:57:53] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:57:53] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:57:53] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:57:53] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:57:53] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:57:53] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:57:53] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:57:53] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:57:53] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:57:58] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:57:58] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:57:58] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:00] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:00] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:00] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:00] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:00] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:02] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:04] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:04] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:04] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:04] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:08] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:08] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:08] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:08] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:08] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:08] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:08] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:10] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:10] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:10] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:10] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:12] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:12] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:12] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:12] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:16] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:18] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:18] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:20] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:22] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:22] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:22] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:22] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:22] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:22] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:24] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:24] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:24] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:24] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:24] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:24] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:24] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:24] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:26] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:26] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:26] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:26] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:26] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:26] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:26] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:26] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:26] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:26] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:28] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:28] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:28] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:28] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:34] [Server thread/INFO]: [Not Secure] <NotTrainok> en la consola salen errores para cargar entidades del ice and fire xd
-[04:58:35] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:39] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:39] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:39] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:39] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:39] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:44] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:44] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:44] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:44] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:44] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:44] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:44] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:44] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:54] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:54] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:54] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:54] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:54] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:54] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:54] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:54] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:54] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:54] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:54] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:54] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:55] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:56] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
-	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
-	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
-	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
-	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
-	... 29 more
-[04:58:57] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
-	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
-	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
-	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
-	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
-	... 29 more
-[04:58:59] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
-	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
-	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
-	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
-	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
-	... 29 more
-[04:58:59] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:58:59] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:59:00] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:59:00] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
-	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
-	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
-	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
-	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
-	... 29 more
-[04:59:00] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
-	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
-	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
-	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
-	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
-	... 29 more
-[04:59:00] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
-	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
-	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
-	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
-	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
-	... 29 more
-[04:59:00] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
-	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
-	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
-	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
-	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
-	... 29 more
-[04:59:01] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
-	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
-	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
-	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
-	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
-	... 29 more
-[04:59:01] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
-	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
-	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
-	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
-	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
-	... 29 more
-[04:59:02] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:59:02] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:59:02] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
-	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
-	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
-	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
-	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
-	... 29 more
-[04:59:04] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:59:17] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
-	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
-	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
-	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
-	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
-	... 29 more
-[04:59:17] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
-	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
-	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
-	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
-	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
-	... 29 more
-[04:59:18] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:59:18] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:59:20] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
-	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
-	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
-	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
-	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
-	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
-	... 29 more
-[04:59:47] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:59:47] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:59:47] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:59:47] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[04:59:53] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:02:01] [Server thread/INFO]: [Not Secure] <SxidFlxao> mo apareceen
-[05:02:27] [Server thread/INFO]: [Not Secure] <SxidFlxao> veo j. bucho raro en el mpaa
-[05:02:32] [Server thread/INFO]: [Not Secure] <NotTrainok> haste la explorer compass
-[05:02:33] [Server thread/INFO]: [Not Secure] <SxidFlxao> un bicho rsro
-[05:02:38] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:02:38] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:02:40] [Server thread/INFO]: [Not Secure] <NotTrainok> cual
-[05:02:43] [Server thread/INFO]: [Not Secure] <SxidFlxao> un creeper gris
-[05:02:55] [Server thread/INFO]: [Not Secure] <NotTrainok> te da ceguera al explotar
-[05:03:04] [Server thread/INFO]: [Not Secure] <SxidFlxao> tmb como una serpiente ndea
-[05:03:10] [Server thread/INFO]: [Not Secure] <NotTrainok> hay jefe god de ese mod
-[05:03:12] [Server thread/INFO]: [Not Secure] <SxidFlxao> y un bicho con un casco
-[05:03:14] [Server thread/INFO]: [Not Secure] <NotTrainok> q
-[05:03:20] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:03:20] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:03:26] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:03:26] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:03:26] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:03:26] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:03:26] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:03:26] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:03:26] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:03:33] [Server thread/INFO]: [Not Secure] <NotTrainok> te llevaste tu gecko?
-[05:03:46] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:03:47] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:03:47] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:03:47] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:03:47] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:03:47] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:03:47] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:04:57] [Server thread/INFO]: Named entity class_1576['Patrick the Funky'/2226, l='ServerLevel[world]', x=1835.05, y=68.00, z=10103.18] died: Patrick the Funky was slain by SxidFlxao
-[05:05:17] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:05:17] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:05:17] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:05:17] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:05:17] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:05:17] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:05:17] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:05:17] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:05:17] [Server thread/WARN]: Skipping Entity with id iceandfire:hippocampus
-[05:05:18] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:05:18] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:05:18] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:06:11] [Server thread/INFO]: Named entity class_1604['Toxic Webslinging Starving Sprinter Pillager'/2739, l='ServerLevel[world]', x=1741.22, y=66.00, z=10098.84] died: Toxic Webslinging Starving Sprinter Pillager was frozen to death
-[05:06:22] [Server thread/INFO]: SearchWorkerManager 3c07081c: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
-[05:06:22] [Server thread/INFO]: SearchWorkerManager 3c07081c: RandomSpreadSearchWorker succeeded with 451 radius, 4 samples
-[05:06:43] [Server thread/INFO]: [Not Secure] <NotTrainok> hay outpost cerca de la base voy
-[05:06:49] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:06:49] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:06:49] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:06:49] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:06:50] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:06:50] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:06:52] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:06:58] [Server thread/INFO]: [Not Secure] <SxidFlxao> yo estoy acá en una xd
-[05:07:03] [Server thread/INFO]: [Not Secure] <NotTrainok> a
-[05:07:13] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:07:28] [Server thread/INFO]: [Not Secure] <NotTrainok> a
-[05:07:32] [Server thread/INFO]: NotTrainok has made the advancement [Intruder Alert]
-[05:08:21] [Server thread/INFO]: [Not Secure] <NotTrainok> mira
-[05:09:07] [Server thread/INFO]: [Not Secure] <NotTrainok> y ese faro
-[05:09:23] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:09:23] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:09:23] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:09:23] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:09:24] [Server thread/WARN]: Skipping Entity with id iceandfire:ice_dragon
-[05:09:24] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:09:24] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:09:24] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:09:24] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:09:26] [Server thread/WARN]: NotTrainok was kicked for floating a vehicle too long!
-[05:09:26] [Server thread/INFO]: NotTrainok lost connection: Flying is not enabled on this server
-[05:09:26] [Server thread/INFO]: NotTrainok left the game
-[05:09:26] [Server thread/WARN]: handleDisconnection() called twice
-[05:09:32] [Server thread/INFO]: NotTrainok[/127.107.13.237:36223] logged in with entity id 3722 at (1707.8212446246303, 102.4426526911913, 10184.183490345962)
-[05:09:32] [Server thread/INFO]: Sending server config values to client
-[05:09:32] [Server thread/INFO]: Syncing config to NotTrainok (2013165f-f22c-305a-8b32-33fa70672379)
-[05:09:32] [Server thread/INFO]: Loading config from file...
-[05:09:32] [Netty Epoll Server IO #0/INFO]: [showmeyourskin] Client of NotTrainok accepted server config.
-[05:09:32] [Netty Epoll Server IO #0/INFO]: Receiving client config
-[05:09:32] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player NotTrainok. Claiming: GRAVE / Robbing: INVENTORY
-[05:09:32] [Server thread/INFO]: NotTrainok joined the game
-[05:09:45] [Server thread/INFO]: [Not Secure] <NotTrainok> me saca por volar xd
-[05:10:00] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:10:00] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:10:01] [Server thread/INFO]: NotTrainok has made the advancement [The Lighthouse]
-[05:10:39] [Server thread/INFO]: [Not Secure] <SxidFlxao> afk mientras hago un trabajo
-[05:10:44] [Server thread/INFO]: [Not Secure] <NotTrainok> okok
-[05:11:04] [Server thread/ERROR]: Unknown structure start: iceandfire:ice_dragon_cave
-[05:11:04] [Server thread/ERROR]: Unknown structure start: iceandfire:ice_dragon_roost
-[05:11:04] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:11:04] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:11:05] [Server thread/ERROR]: Unknown structure start: iceandfire:ice_dragon_roost
-[05:11:12] [Server thread/INFO]: [Not Secure] <SxidFlxao> tengo
-[05:11:36] [Server thread/INFO]: [Not Secure] <NotTrainok> en la aldea de la dungeon
-[05:11:46] [Server thread/INFO]: [Not Secure] <SxidFlxao> ya tengo maldición
-[05:12:05] [Server thread/INFO]: [Not Secure] <NotTrainok> la hacemos en la aldea dungeon
-[05:12:34] [Server thread/INFO]: [Not Secure] <SxidFlxao> dame 10 mins
-[05:12:37] [Server thread/INFO]: [Not Secure] <NotTrainok> ok
-[05:15:57] [Server thread/INFO]: [NotTrainok: Gave 1 [Bell] to NotTrainok]
-[05:16:02] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:02] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:02] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:27] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:27] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:33] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:33] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:33] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:33] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:33] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:45] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:57] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:16:57] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:17:07] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:17:40] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:17:40] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:17:50] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:17:56] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:17:56] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:18:13] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:18:13] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:18:15] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:18:15] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:19:36] [Server thread/INFO]: [Not Secure] <SxidFlxao> llevate mi coso pli
-[05:19:40] [Server thread/INFO]: [Not Secure] <SxidFlxao> 5 mins
-[05:19:50] [Server thread/INFO]: [Not Secure] <NotTrainok> tengo algo para que lo invoques
-[05:20:36] [Server thread/WARN]: Failed to deserialize component: unregistered key iceandfire:entity_data
-[05:22:25] [Server thread/INFO]: [Not Secure] <SxidFlxao> tonces voy a base ?
-[05:22:30] [Server thread/INFO]: [Not Secure] <NotTrainok> no
-[05:22:33] [Server thread/INFO]: [Not Secure] <NotTrainok> espera
-[05:23:30] [Server thread/INFO]: [Not Secure] <NotTrainok> ya estas?
-[05:24:06] [Server thread/INFO]: [Not Secure] <SxidFlxao> yq casi acabo, abre la boca
-[05:24:13] [Server thread/INFO]: [Not Secure] <NotTrainok> ujus
-[05:26:20] [Server thread/INFO]: [Not Secure] <SxidFlxao> stoy
-[05:26:27] [Server thread/INFO]: [Not Secure] <NotTrainok> mira
-[05:26:35] [Server thread/INFO]: [Not Secure] <NotTrainok> craftea eso
-[05:26:45] [Server thread/INFO]: [Not Secure] <NotTrainok> pregunta
-[05:27:00] [Server thread/INFO]: [Not Secure] <NotTrainok> en el tp ves los nombres que yo puse en las waystones?
-[05:27:26] [Server thread/INFO]: [Not Secure] <SxidFlxao> yei
-[05:27:36] [Server thread/INFO]: [Not Secure] <NotTrainok> hagamos la raid en aldea dungeon
-[05:28:02] [Server thread/INFO]: [Not Secure] <SxidFlxao> y mi coso
-[05:28:09] [Server thread/INFO]: [Not Secure] <NotTrainok> eso le das click en tu coso para viuncularlo pero no hagas tp a la base que inicias la raid
-[05:28:15] [Server thread/INFO]: [Not Secure] <NotTrainok> me lo lleve
-[05:28:28] [Server thread/INFO]: [Not Secure] <NotTrainok> vamo aldea dungeon
-[05:28:52] [Server thread/INFO]: [Not Secure] <SxidFlxao> no me sale XD
-[05:28:57] [Server thread/INFO]: [Not Secure] <NotTrainok> abajo
-[05:28:58] [Server thread/INFO]: [Not Secure] <SxidFlxao> no le hice click a eso
-[05:29:04] [Server thread/INFO]: [Not Secure] <NotTrainok> a
-[05:29:15] [Server thread/INFO]: [NotTrainok: Teleported SxidFlxao to NotTrainok]
+[21:51:37] [main/INFO]: Loaded config for: cupboard.json
+[21:51:37] [main/INFO]: Channelling eldritch energies...
+[21:51:40] [main/INFO]: Loaded config :emi_loot_config in 2461ms
+[21:51:40] [main/INFO]: ExpandAbility here, who dis?
+[21:51:40] [main/INFO]: Look at the cleanse, look at the moves!
+[21:51:40] [Placebo (FakerLib) Patreon Wing Loader/INFO]: Loading patreon wing data...
+[21:51:40] [Placebo (FakerLib) Patreon Trail Loader/INFO]: Loading patreon trails data...
+[21:51:40] [main/INFO]: Reflections took 123 ms to scan 1 urls, producing 2 keys and 9 values
+[21:51:41] [main/INFO]: Is initializing.
+[21:51:41] [main/INFO]: Has successfully been initialized.
+[21:51:42] [Placebo (FakerLib) Patreon Trail Loader/INFO]: Loaded 33 patreon trails.
+[21:51:42] [Placebo (FakerLib) Patreon Wing Loader/INFO]: Loaded 25 patreon wings.
+[21:51:42] [main/INFO]: Registered JSON trade offer adapter.
+[21:51:43] [main/INFO]: 1 Jupiter entrypoint(s) detected: jupiter:jupiter
+[21:51:43] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[21:51:43] [main/INFO]: [KONKRETE] Successfully initialized!
+[21:51:43] [main/INFO]: [KONKRETE] Server-side libs ready to use!
+[21:51:43] [main/INFO]: Initialize mod Library Ferret
+[21:51:43] [main/INFO]: Initialized mod Library Ferret
+[21:51:43] [main/INFO]: Definitely not up to no good
+[21:51:43] [main/INFO]: chyz: There's a snake in my prison pocket
+[21:51:44] [main/INFO]: Constructing common components for puzzleslib:main
+[21:51:44] [main/INFO]: Shield API initialized!
+[21:51:45] [main/INFO]: [STDOUT]: /workspaces/SMP/servidor_minecraft/config
+[21:51:45] [main/INFO]: Config initialized!
+[21:51:45] [main/INFO]: Successfully initialized Geckolib!
+[21:51:46] [main/INFO]: Successfully registered SoulsWeapons content!
+[21:51:46] [main/INFO]: Successfully registered built-in 2D model resourcepack!
+[21:51:46] [main/INFO]: Successfully registered built-in Legacy 2D Models resourcepack!
+[21:51:46] [main/INFO]: Successfully registered built-in Legacy 3D Models resourcepack!
+[21:51:46] [main/INFO]: Successfully registered built-in Fresh Animations Compat. resourcepack!
+[21:51:46] [main/INFO]: Initializing done, time taken: 662ms
+[21:51:47] [Thread-5/INFO]: Starting to fetch sponsor list.
+[21:51:47] [main/INFO]: structureessentials mod initialized
+[21:51:47] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[21:51:47] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[21:51:47] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[21:51:47] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[21:51:47] [main/INFO]: Constructing common components for visualworkbench:main
+[21:51:47] [Thread-5/INFO]: Successfully fetch sponsor list.
+[21:51:47] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 4 values
+[21:51:47] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 4 values
+[21:51:48] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[21:51:49] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[21:51:49] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:51:49] [main/INFO]: Bypassed Mojang DFU
+[21:51:55] [main/WARN]: Adding spell_power:fire to saved/remote registry.
+[21:51:55] [main/WARN]: Adding spell_power:frost to saved/remote registry.
+[21:51:55] [main/WARN]: Adding spell_power:arcane to saved/remote registry.
+[21:51:55] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[21:51:58] [main/WARN]: Method overwrite conflict for getRolls in emi_loot.mixins.json:LootPoolAccessor from mod emi_loot, previously written by net.fabricmc.fabric.mixin.loot.table.LootPoolMixin. Skipping method.
+[21:52:09] [main/INFO]: parsing loot tables
+[21:52:09] [main/INFO]: finished parsing loot tables
+[21:52:10] [main/INFO]: Loaded 14 recipes
+[21:52:10] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cobweb: Expected items to be a JsonArray, was "min...eb"
+[21:52:10] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass: Expected items to be a JsonArray, was "min...ss"
+[21:52:10] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cracked_stone_bricks: Expected items to be a JsonArray, was "min...ks"
+[21:52:10] [main/INFO]: Loaded 1879 advancements
+[21:52:10] [main/INFO]: Registered 16 gear_sets.
+[21:52:10] [main/INFO]: Registered 6 rarities.
+[21:52:10] [main/INFO]: Registered 81 affixes.
+[21:52:10] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:mythic for category helmetRequired: 3; Provided: 2
+[21:52:10] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:mythic for category bootsRequired: 3; Provided: 2
+[21:52:10] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:ancient for category bowRequired: 5; Provided: 4
+[21:52:10] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:ancient for category crossbowRequired: 5; Provided: 4
+[21:52:10] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:ancient for category pickaxeRequired: 5; Provided: 4
+[21:52:10] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:ancient for category shovelRequired: 5; Provided: 4
+[21:52:10] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:ancient for category shieldRequired: 5; Provided: 4
+[21:52:10] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:ancient for category helmetRequired: 4; Provided: 2
+[21:52:10] [main/ERROR]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity zenith:ancient for category bootsRequired: 4; Provided: 2
+[21:52:10] [main/INFO]: Registered 19 gems.
+[21:52:10] [main/INFO]: Registered 65 affix_loot_entries.
+[21:52:11] [main/INFO]: Registered 17 bosses.
+[21:52:11] [main/INFO]: Registered 8 rogue_spawners.
+[21:52:11] [main/INFO]: Registered 5 minibosses.
+[21:52:11] [main/INFO]: Registered 28 wanderer_trades.
+[21:52:11] [main/INFO]: Registered 29 enchanting_stats.
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:drowned
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:iron_golem
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:snow_golem
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:skeleton
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:pillager
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:vex
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:evoker
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:vindicator
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:cave_spider
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:husk
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:evoker
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:wandering_trader
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:guardian
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:vindicator
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:shulker
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:zoglin
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:chicken
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:blaze
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:witch
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:phantom
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:mooshroom
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:rabbit
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:piglin_brute
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:ghast
+[21:52:11] [main/INFO]: Loaded boss variant for: minecraft:stray
+[21:52:11] [main/INFO]: Successfully reload 1 server config(s).
+[21:52:11] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_nether with loottable: lootintegrations:chests/nether
+[21:52:11] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_hard with loottable: lootintegrations:chests/hard
+[21:52:11] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_water with loottable: lootintegrations:chests/water
+[21:52:11] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_medium with loottable: lootintegrations:chests/medium
+[21:52:11] [main/INFO]: Parsing loot modifiers for:lootintegrations:villageloot_house with loottable: lootintegrations:chests/village
+[21:52:11] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_easy with loottable: lootintegrations:chests/easy
+[21:52:11] [main/INFO]: Parsing loot modifiers for:lootintegrations:dungeonloot_no_overflow with loottable: minecraft:chests/simple_dungeon
+[21:52:11] [Thread-7/INFO]: Loaded 56 translation keys
+[21:52:11] [main/INFO]: Loaded 144 recipes
+[21:52:11] [main/INFO]: Reloading grave shape (server)
+[21:52:11] [main/INFO]: Grave model and shape reload successful (server)
+[21:52:11] [main/INFO]: Reloading YIGD graveyard data (server)
+[21:52:11] [main/INFO]: Graveyard data successfully reloaded (server)
+[21:52:11] [main/INFO]: Reloading YIGD grave area overrides (server)
+[21:52:11] [main/INFO]: Grave area overrides successfully reloaded (server)
+[21:52:13] [main/INFO]: Applied 1447 biome modifications to 157 of 163 new biomes in 86.48 ms
+[21:52:13] [Server thread/INFO]: Loading server configs...
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/flower_forest_japanese/houses
+[21:52:13] [Server thread/ERROR]: Cannot add to kaisyn:village/flower_forest_japanese/houses as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village ctov:village/desert_oasis/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/desert_oasis/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/mountain_alpine/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/mountain_alpine/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/beach_lighthouse/side
+[21:52:13] [Server thread/ERROR]: Cannot add to kaisyn:village/beach_lighthouse/side as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/savanna_na/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/savanna_na/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/swamp/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/swamp/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/savanna/houses
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/snowy_igloo/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/snowy_igloo/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/nilotic/houses
+[21:52:13] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/nilotic/houses as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/badlands_pueblo/houses
+[21:52:13] [Server thread/ERROR]: Cannot add to kaisyn:village/badlands_pueblo/houses as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/tudor/houses
+[21:52:13] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/tudor/houses as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/mushroom/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/mushroom/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/mediterranean/houses/regular
+[21:52:13] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/mediterranean/houses/regular as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/taiga/houses
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/birch_forest_romanian/houses
+[21:52:13] [Server thread/ERROR]: Cannot add to kaisyn:village/birch_forest_romanian/houses as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:red_desert_village_waystone to village ctov:village/mesa_fortified/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/mesa_fortified/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/classic/houses
+[21:52:13] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/classic/houses as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/wandering_trader_camp/side
+[21:52:13] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/wandering_trader_camp/side as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village ctov:village/desert/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/desert/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/rustic/houses
+[21:52:13] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/rustic/houses as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village minecraft:village/desert/houses
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/savanna/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/savanna/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village ctov:village/beach/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/beach/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/plains/houses
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/taiga/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/taiga/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:stone_brick_village_waystone to village ctov:village/underground/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/underground/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:red_desert_village_waystone to village ctov:village/mesa/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/mesa/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/grove_villager_outpost/decor
+[21:52:13] [Server thread/ERROR]: Cannot add to kaisyn:village/grove_villager_outpost/decor as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:mossy_stone_brick_village_waystone to village ctov:village/jungle/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/jungle/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/mountain/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/mountain/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/halloween/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/halloween/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/jungle_tribal/houses
+[21:52:13] [Server thread/ERROR]: Cannot add to kaisyn:village/jungle_tribal/houses as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/iberian/houses
+[21:52:13] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/iberian/houses as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/christmas/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/christmas/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/snowy/houses
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/plains/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/plains/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/swamp_fortified/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/swamp_fortified/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/plains_fortified/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/plains_fortified/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village ctov:village/taiga_fortified/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/taiga_fortified/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village kaisyn:village/exclusives/swedish/houses
+[21:52:13] [Server thread/ERROR]: Cannot add to kaisyn:village/exclusives/swedish/houses as it cannot be found!
+[21:52:13] [Server thread/INFO]: Adding waystone fwaystones:mossy_stone_brick_village_waystone to village ctov:village/jungle_tree/house
+[21:52:13] [Server thread/ERROR]: Cannot add to ctov:village/jungle_tree/house as it cannot be found!
+[21:52:13] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): 96131 bytes (in 10 string chunks with the size of 10000)
+[21:52:13] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:52:13] [Server thread/INFO]: Loading properties
+[21:52:13] [Server thread/INFO]: Default game type: SURVIVAL
+[21:52:13] [Server thread/INFO]: Generating keypair
+[21:52:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:52:14] [Server thread/INFO]: Using epoll channel type
+[21:52:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:52:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:52:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:52:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:52:14] [Server thread/INFO]: Preparing level "world"
+[21:52:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:52:22] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:22] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:22] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:22] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:22] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:22] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:22] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:22] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:22] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:22] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:22] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:22] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:22] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:23] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:24] [Server thread/INFO]: Time elapsed: 7873 ms
+[21:52:24] [Server thread/INFO]: Done (9.668s)! For help, type "help"
+[21:52:24] [Server thread/WARN]: Dedicated server took 92.108 seconds to load
+[21:52:25] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 169309 bytes (in 17 string chunks with the size of 10000)
+[21:52:25] [Server thread/INFO]: Loaded config for: lootintegrations.json
+[21:52:25] [Server thread/INFO]: Loaded config for: dragonfight.json
+[21:52:25] [Server thread/INFO]: Loaded config for: brutalbosses.json
+[21:52:25] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
+[21:52:25] [Server thread/INFO]: Start loading plugin from Jade
+[21:52:25] [Server thread/INFO]: Start loading plugin from Jade
+[21:52:25] [Server thread/INFO]: Start loading plugin from Jade
+[21:52:25] [Server thread/INFO]: Start loading plugin from Polymer (Core)
+[21:52:25] [Server thread/INFO]: Start loading plugin from Zenith
+[21:52:25] [Server thread/INFO]: Start loading plugin from Zenith
+[21:52:25] [Server thread/INFO]: Start loading plugin from Zenith
+[21:52:25] [Server thread/INFO]: Loaded values for 69 compatible attributes.
+[21:52:25] [Server thread/INFO]: Loaded 69 values from config.
+[21:52:25] [Server thread/INFO]: Saving config file. 69 entries.
+[21:52:25] [Server thread/INFO]: Applying changes for 69 attributes.
+[21:52:25] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[21:52:25] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[21:52:25] [Server thread/INFO]: Values have been reloaded
+[21:52:25] [Server thread/INFO]: Loaded Reach Entity Attributes scaler
+[21:52:35] [Server thread/INFO]: NotTrainok[/127.49.151.250:55079] logged in with entity id 118 at (1314.4618506436395, 103.0, 9994.197674919858)
+[21:52:36] [Netty Epoll Server IO #2/INFO]: [showmeyourskin] Client of NotTrainok accepted server config.
+[21:52:36] [Server thread/INFO]: Sending server config values to client
+[21:52:36] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[21:52:36] [Server thread/INFO]: Syncing config to NotTrainok (2013165f-f22c-305a-8b32-33fa70672379)
+[21:52:36] [Server thread/INFO]: Loading config from file...
+[21:52:37] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player NotTrainok. Claiming: GRAVE / Robbing: INVENTORY
+[21:52:38] [Server thread/INFO]: NotTrainok joined the game
+[21:52:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3058ms or 61 ticks behind
+[21:52:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4137ms or 82 ticks behind
+[21:55:33] [Server thread/INFO]: SxidFlxao[/127.107.238.94:34633] logged in with entity id 484 at (1344.8958430494695, 114.0, 10069.832887505088)
+[21:55:33] [Server thread/INFO]: Sending server config values to client
+[21:55:33] [Server thread/INFO]: Syncing config to SxidFlxao (6d439521-289e-36e1-a458-71dd031a423b)
+[21:55:33] [Server thread/INFO]: Loading config from file...
+[21:55:33] [Netty Epoll Server IO #0/INFO]: [showmeyourskin] Client of SxidFlxao accepted server config.
+[21:55:33] [Server thread/INFO]: SxidFlxao joined the game
+[21:55:34] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[21:55:42] [Server thread/INFO]: [Not Secure] <NotTrainok> ola amor
+[21:55:47] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player SxidFlxao. Claiming: GRAVE / Robbing: INVENTORY
+[21:56:28] [Server thread/INFO]: [Not Secure] <SxidFlxao> quiero una verga
+[21:56:34] [Server thread/INFO]: [Not Secure] <NotTrainok> ven que te doy
+[21:56:37] [Server thread/INFO]: [Not Secure] <SxidFlxao> que ojos nos falta?
+[21:56:50] [Server thread/INFO]: [Not Secure] <NotTrainok> tenemos 7
+[21:57:00] [Server thread/INFO]: [Not Secure] <NotTrainok> uno se encuentra en mineshafts
+[21:57:06] [Server thread/INFO]: [Not Secure] <NotTrainok> otro tradeando
+[21:57:15] [Server thread/INFO]: [Not Secure] <NotTrainok> toma
+[21:57:45] [Server thread/INFO]: [Not Secure] <SxidFlxao> poco lag
+[21:58:08] [Server thread/INFO]: [Not Secure] <NotTrainok> va joya tu internet
+[21:59:37] [Server thread/INFO]: [Not Secure] <SxidFlxao> el inter wn
+[21:59:42] [Server thread/INFO]: [Not Secure] <NotTrainok> XD
+[22:00:01] [Server thread/INFO]: SearchWorkerManager 90821616: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[22:00:01] [Server thread/INFO]: SearchWorkerManager 90821616: RandomSpreadSearchWorker succeeded with 133 radius, 115 samples
+[22:00:21] [Server thread/INFO]: [Not Secure] <NotTrainok> tradea con un clerigo para el otro ojo yo voy a buscar mineshaft
+[22:00:39] [Server thread/INFO]: [Not Secure] <SxidFlxao> ya
+[22:00:52] [Server thread/INFO]: [Not Secure] <SxidFlxao> a qué nivel sale?
