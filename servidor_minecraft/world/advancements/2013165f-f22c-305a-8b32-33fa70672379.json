@@ -126,6 +126,7 @@
       "minecraft:taiga": "2024-12-06 22:24:02 +0000",
       "minecraft:deep_ocean": "2024-12-07 06:30:04 +0000",
       "minecraft:eroded_badlands": "2024-12-06 04:13:04 +0000",
+      "minecraft:frozen_river": "2024-12-17 00:19:20 +0000",
       "minecraft:cherry_grove": "2024-12-07 00:29:45 +0000",
       "minecraft:sunflower_plains": "2024-12-09 23:07:03 +0000",
       "minecraft:windswept_hills": "2024-12-06 07:04:39 +0000",
@@ -138,10 +139,13 @@
       "minecraft:river": "2024-12-06 01:01:13 +0000",
       "minecraft:lukewarm_ocean": "2024-12-06 07:09:14 +0000",
       "minecraft:stony_shore": "2024-12-16 22:37:07 +0000",
+      "minecraft:snowy_plains": "2024-12-17 00:21:57 +0000",
       "minecraft:dripstone_caves": "2024-12-09 05:28:19 +0000",
+      "minecraft:snowy_taiga": "2024-12-17 00:21:00 +0000",
       "minecraft:jagged_peaks": "2024-12-09 23:03:51 +0000",
       "minecraft:cold_ocean": "2024-12-06 07:01:05 +0000",
       "minecraft:forest": "2024-12-06 06:58:51 +0000",
+      "minecraft:lush_caves": "2024-12-17 00:19:08 +0000",
       "minecraft:deep_cold_ocean": "2024-12-06 07:02:05 +0000",
       "minecraft:frozen_ocean": "2024-12-08 08:01:53 +0000",
       "minecraft:desert": "2024-12-06 01:01:55 +0000",
@@ -150,6 +154,7 @@
       "minecraft:jungle": "2024-12-06 02:39:53 +0000",
       "minecraft:ocean": "2024-12-07 05:51:47 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-07 01:22:58 +0000",
+      "minecraft:snowy_beach": "2024-12-17 00:22:27 +0000",
       "minecraft:warm_ocean": "2024-12-06 03:20:45 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-06 07:09:27 +0000",
       "minecraft:frozen_peaks": "2024-12-07 00:43:40 +0000",
@@ -5815,6 +5820,96 @@
   "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-16 23:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-17 00:05:40 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/find_skeleton": {
+    "criteria": {
+      "skeleton": "2024-12-16 23:56:31 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/exotic_eye": {
+    "criteria": {
+      "exotic_eye": "2024-12-16 23:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-17 00:05:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-16 23:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-12-17 00:10:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-12-17 00:10:41 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/undead_eye_recipe": {
+    "criteria": {
+      "soul": "2024-12-16 23:47:58 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/vial_of_blood": {
+    "criteria": {
+      "vial_of_blood": "2024-12-17 00:01:55 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cryptic_eye": {
+    "criteria": {
+      "cryptic_eye": "2024-12-16 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2024-12-16 23:26:47 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/lich_prison": {
+    "criteria": {
+      "lich_prison": "2024-12-17 00:29:15 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/lower_bone_staff": {
+    "criteria": {
+      "lower_bone_staff": "2024-12-17 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/undead_eye": {
+    "criteria": {
+      "undead_eye": "2024-12-16 23:50:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2024-12-17 00:05:40 +0000"
     },
     "done": true
   },
