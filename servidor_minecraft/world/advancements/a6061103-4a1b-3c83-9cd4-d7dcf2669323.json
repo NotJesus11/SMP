@@ -2666,6 +2666,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "swamp_village": "2024-12-19 03:08:23 +0000",
       "illager_camp": "2024-12-06 04:24:24 +0000"
     },
     "done": false
@@ -5050,6 +5051,18 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2024-12-10 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2024-12-19 03:07:14 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_swamp_village": {
+    "criteria": {
+      "minecraft:village_swamp": "2024-12-19 03:08:23 +0000"
     },
     "done": true
   },
