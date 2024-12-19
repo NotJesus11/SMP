@@ -3649,6 +3649,7 @@
     "criteria": {
       "minecraft:fortress": "2024-12-06 22:35:37 +0000",
       "nova_structures:nether_skeleton_tower_warped": "2024-12-08 06:05:31 +0000",
+      "nova_structures:skeleton_camp_soul": "2024-12-19 18:09:16 +0000",
       "nova_structures:nether_port": "2024-12-08 06:36:16 +0000"
     },
     "done": false
@@ -6387,6 +6388,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-19 09:17:30 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2024-12-19 18:19:04 +0000"
     },
     "done": true
   },
