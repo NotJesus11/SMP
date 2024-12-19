@@ -941,3 +941,56 @@
 [09:08:13] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> y q ati y ami nos crasheaba
 [09:08:21] [Server thread/INFO]: [Not Secure] <NotTrainok> a
 [09:13:32] [Server thread/INFO]: [NotTrainok: Applied enchantment Mending to NotTrainok's item]
+[09:15:32] [Server thread/INFO]: [Not Secure] <NotTrainok> donde andas?
+[09:16:47] [Server thread/INFO]: NotTrainok has made the advancement [Bringer of Storms]
+[09:18:00] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1697, y=-5, z=10859}
+[09:18:13] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> raiden
+[09:18:16] [Server thread/INFO]: [Not Secure] <NotTrainok> e
+[09:18:26] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> si me tepeas se tepea el fenix tmb?
+[09:18:33] [Server thread/INFO]: [Not Secure] <NotTrainok> no
+[09:18:42] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> ....
+[09:18:57] [Worker-Main-42/WARN]: Tried to access a block entity before it was created. class_2338{x=-1383, y=65, z=10130}
+[09:18:57] [Worker-Main-42/WARN]: Tried to access a block entity before it was created. class_2338{x=-1383, y=65, z=10130}
+[09:18:57] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-243, y=26, z=-389}
+[09:18:57] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-242, y=26, z=-389}
+[09:18:57] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-242, y=26, z=-388}
+[09:18:57] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-243, y=26, z=-388}
+[09:18:57] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-242, y=26, z=-382}
+[09:18:57] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-243, y=26, z=-382}
+[09:18:57] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-242, y=26, z=-381}
+[09:18:57] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-243, y=26, z=-381}
+[09:18:59] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> enseio?
+[09:19:00] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1442, y=35, z=10149}
+[09:19:01] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1346, y=-24, z=10158}
+[09:19:01] [Server thread/WARN]: Tried to load a block entity for block Block{fwaystones:waystone}[active=false,facing=west,generated=true,half=upper,mossy=false,waterlogged=false] but failed at location class_2338{x=-1383, y=65, z=10130}
+[09:19:02] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-383, y=26, z=-338}
+[09:19:02] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-383, y=26, z=-340}
+[09:19:02] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-376, y=31, z=-339}
+[09:19:02] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-379, y=25, z=-343}
+[09:19:02] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-376, y=32, z=-338}
+[09:19:02] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-241, y=27, z=-333}
+[09:19:02] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-244, y=27, z=-330}
+[09:19:03] [Server thread/INFO]: [Not Secure] <NotTrainok> si
+[09:19:03] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1514, y=-30, z=10126}
+[09:19:05] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-298, y=28, z=-334}
+[09:19:05] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-294, y=28, z=-329}
+[09:19:05] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-297, y=33, z=-333}
+[09:19:07] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-289, y=28, z=-334}
+[09:19:07] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-291, y=27, z=-329}
+[09:19:07] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-286, y=28, z=-331}
+[09:19:07] [Worker-Main-42/ERROR]: Hanging entity at invalid position: class_2338{x=-287, y=33, z=-332}
+[09:19:07] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1390, y=70, z=10109}
+[09:19:12] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> nimodo
+[09:19:15] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1367, y=-32, z=10052}
+[09:19:16] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> adios fenix
+[09:19:22] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> solo le wua quitar la montura
+[09:19:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1510, y=9, z=10024}
+[09:19:28] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1284, y=26, z=9996}
+[09:19:30] [Server thread/INFO]: [Not Secure] <NotTrainok> y si te tpeo a ti no vas a poder invocar al fenix sin tener cargados los chunks
+[09:19:34] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1241, y=-26, z=10033}
+[09:19:34] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1248, y=-21, z=10000}
+[09:19:47] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1201, y=-7, z=10053}
+[09:19:47] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1213, y=-32, z=9989}
+[09:19:52] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> nepiriho
+[09:19:53] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> q mrd
+[09:20:14] [Server thread/INFO]: [Not Secure] <Dxn1el_Is> ya estoy en la base
