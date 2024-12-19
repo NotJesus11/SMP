@@ -5919,5 +5919,17 @@
     },
     "done": true
   },
+  "graveyard:graveyard/upper_bone_staff": {
+    "criteria": {
+      "upper_bone_staff": "2024-12-17 00:50:56 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/middle_bone_staff": {
+    "criteria": {
+      "middle_bone_staff": "2024-12-17 00:51:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
