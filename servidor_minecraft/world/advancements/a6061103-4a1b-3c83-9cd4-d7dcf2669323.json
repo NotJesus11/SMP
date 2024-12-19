@@ -5435,5 +5435,17 @@
     },
     "done": true
   },
+  "simplyswords:hearthflame": {
+    "criteria": {
+      "requirement": "2024-12-19 09:05:03 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulpyre": {
+    "criteria": {
+      "requirement": "2024-12-19 09:05:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
